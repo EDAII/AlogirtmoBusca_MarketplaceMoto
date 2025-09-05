@@ -1,0 +1,1001 @@
+sku,nome,categoria,marca,fabricante,modelo,compatibilidade_anos,preco,vendedor,cidade_uf,estoque,rating
+855428,Lâmpada Vedamotors BMW F 800 GS,Lâmpada,Vedamotors,BMW,F 800 GS,2017-2020,388.28,Maringá Racing,Belo Horizonte/MG,16,4.2
+537061,Amortecedor Bosch Honda CB 650R,Amortecedor,Bosch,Honda,CB 650R,2014-2019,236.3,Curitiba Motos,Salvador/BA,31,4.7
+124560,Pneu Vedamotors Suzuki GSX-S750,Pneu,Vedamotors,Suzuki,GSX-S750,2014-2022,58.91,Fort Motos,Belo Horizonte/MG,12,3.3
+431635,Disco de Freio Motul Suzuki GSX-S750,Disco de Freio,Motul,Suzuki,GSX-S750,2014-2015,91.09,Oficina do Zé,Campinas/SP,5,3.7
+411467,Guidão Suzuki BMW F 800 GS,Guidão,Suzuki,BMW,F 800 GS,2021-2023,118.35,Fort Motos,Belo Horizonte/MG,15,5.0
+540492,Escape Motul Honda XRE 300,Escape,Motul,Honda,XRE 300,2010-2022,158.7,Curitiba Motos,Goiânia/GO,0,4.9
+485443,Filtro de Ar NGK Honda CB 650R,Filtro de Ar,NGK,Honda,CB 650R,2016-2020,429.97,Curitiba Motos,Porto Alegre/RS,37,4.0
+814146,Amortecedor Kawasaki Kawasaki Versys 650,Amortecedor,Kawasaki,Kawasaki,Versys 650,2009-2018,82.76,Curitiba Motos,Curitiba/PR,9,3.9
+826827,Escape Honda Yamaha MT-07,Escape,Honda,Yamaha,MT-07,2008-2010,179.21,Oficina do Zé,Rio de Janeiro/RJ,16,4.5
+357257,Lâmpada Vedamotors Honda XRE 300,Lâmpada,Vedamotors,Honda,XRE 300,2015-2017,201.84,Curitiba Motos,Manaus/AM,10,4.7
+862787,Lâmpada Kawasaki Honda CG 160,Lâmpada,Kawasaki,Honda,CG 160,2009-2016,111.87,Salvador Parts,Belo Horizonte/MG,24,3.5
+756646,Pneu Bosch Honda CG 160,Pneu,Bosch,Honda,CG 160,2015-2022,145.13,Curitiba Motos,São Paulo/SP,22,4.2
+484959,Amortecedor Bosch Kawasaki Z400,Amortecedor,Bosch,Kawasaki,Z400,2010-2013,72.96,Fort Motos,Belo Horizonte/MG,7,3.6
+734230,Lâmpada RK Yamaha Fazer 250,Lâmpada,RK,Yamaha,Fazer 250,2013-2015,152.83,RioBike,Belo Horizonte/MG,24,4.0
+514002,Pastilha de Freio RK Yamaha MT-07,Pastilha de Freio,RK,Yamaha,MT-07,2008-2021,148.4,MotoMix BH,Fortaleza/CE,11,4.8
+583922,Escape Magnetron Yamaha Fazer 250,Escape,Magnetron,Yamaha,Fazer 250,2015-2020,346.57,MotoMix BH,Fortaleza/CE,0,3.9
+694735,Cabo de Acelerador Honda Triumph Tiger 660,Cabo de Acelerador,Honda,Triumph,Tiger 660,2014-2018,190.46,Curitiba Motos,Fortaleza/CE,10,4.6
+929156,Pastilha de Freio Vedamotors Kawasaki Ninja 400,Pastilha de Freio,Vedamotors,Kawasaki,Ninja 400,2019-2022,165.08,Maringá Racing,Salvador/BA,0,4.3
+738738,Escape Yamaha Triumph Tiger 660,Escape,Yamaha,Triumph,Tiger 660,2016-2016,177.2,RioBike,Fortaleza/CE,8,3.8
+642506,Disco de Freio Magnetron Kawasaki Z400,Disco de Freio,Magnetron,Kawasaki,Z400,2012-2022,196.54,RioBike,Curitiba/PR,22,4.1
+869397,Pastilha de Freio Vedamotors Honda XRE 300,Pastilha de Freio,Vedamotors,Honda,XRE 300,2013-2015,103.94,RioBike,Belo Horizonte/MG,7,4.5
+756008,Coroa e Pinhão RK Triumph Tiger 660,Coroa e Pinhão,RK,Triumph,Tiger 660,2021-2024,106.02,Maringá Racing,Salvador/BA,7,4.4
+716105,Escape Suzuki Kawasaki Ninja 400,Escape,Suzuki,Kawasaki,Ninja 400,2019-2023,182.76,MotoMix BH,Fortaleza/CE,16,3.9
+672228,Escape Vedamotors BMW F 800 GS,Escape,Vedamotors,BMW,F 800 GS,2010-2016,86.8,Fort Motos,Belo Horizonte/MG,3,4.4
+830400,Guidão Honda BMW F 800 GS,Guidão,Honda,BMW,F 800 GS,2015-2023,133.36,MotoMix BH,Porto Alegre/RS,14,4.8
+706587,Escape Suzuki Honda CB 650R,Escape,Suzuki,Honda,CB 650R,2012-2025,190.79,MotoMix BH,Belo Horizonte/MG,12,4.9
+383367,Disco de Freio Vedamotors Kawasaki Versys 650,Disco de Freio,Vedamotors,Kawasaki,Versys 650,2018-2018,166.68,Fort Motos,Porto Alegre/RS,24,4.2
+639977,Coroa e Pinhão RK Kawasaki Versys 650,Coroa e Pinhão,RK,Kawasaki,Versys 650,2012-2016,87.3,RioBike,Campinas/SP,24,4.4
+427648,Disco de Freio Yamaha Yamaha MT-07,Disco de Freio,Yamaha,Yamaha,MT-07,2021-2021,117.66,Maringá Racing,Campinas/SP,2,4.1
+896542,Lâmpada Honda Kawasaki Ninja 400,Lâmpada,Honda,Kawasaki,Ninja 400,2018-2019,112.81,Garagem 2Rodas,Rio de Janeiro/RJ,14,3.7
+492603,Filtro de Ar NGK Kawasaki Versys 650,Filtro de Ar,NGK,Kawasaki,Versys 650,2020-2025,210.37,Maringá Racing,Manaus/AM,7,4.1
+492037,Lâmpada Vedamotors Kawasaki Ninja 400,Lâmpada,Vedamotors,Kawasaki,Ninja 400,2009-2018,112.61,MotoMix BH,Rio de Janeiro/RJ,19,3.2
+745818,Coroa e Pinhão Kawasaki Honda XRE 300,Coroa e Pinhão,Kawasaki,Honda,XRE 300,2018-2019,214.31,Maringá Racing,Fortaleza/CE,28,4.2
+193150,Disco de Freio Bosch Kawasaki Ninja 400,Disco de Freio,Bosch,Kawasaki,Ninja 400,2014-2016,194.86,Salvador Parts,Porto Alegre/RS,35,4.2
+599073,Cabo de Acelerador Vedamotors Yamaha Fazer 250,Cabo de Acelerador,Vedamotors,Yamaha,Fazer 250,2014-2017,236.25,Fort Motos,Belo Horizonte/MG,20,4.4
+599208,Guidão Suzuki Suzuki GSX-S750,Guidão,Suzuki,Suzuki,GSX-S750,2017-2017,107.75,Salvador Parts,São Paulo/SP,5,4.5
+448165,Lâmpada Suzuki Kawasaki Ninja 400,Lâmpada,Suzuki,Kawasaki,Ninja 400,2019-2021,96.82,Salvador Parts,Salvador/BA,12,4.6
+912237,Coroa e Pinhão Bosch Honda CB 650R,Coroa e Pinhão,Bosch,Honda,CB 650R,2020-2023,139.29,RioBike,Fortaleza/CE,1,4.2
+467747,Pneu Vedamotors Yamaha MT-07,Pneu,Vedamotors,Yamaha,MT-07,2009-2019,115.06,Salvador Parts,Fortaleza/CE,20,3.8
+269291,Disco de Freio Vedamotors Honda CB 650R,Disco de Freio,Vedamotors,Honda,CB 650R,2016-2016,191.01,Garagem 2Rodas,Curitiba/PR,1,4.6
+828586,Escape Honda Triumph Tiger 660,Escape,Honda,Triumph,Tiger 660,2015-2025,193.78,Salvador Parts,Curitiba/PR,38,4.9
+415449,Amortecedor Bosch Yamaha MT-07,Amortecedor,Bosch,Yamaha,MT-07,2023-2025,81.16,Salvador Parts,Rio de Janeiro/RJ,23,4.5
+832920,Pneu Magnetron Honda CB 650R,Pneu,Magnetron,Honda,CB 650R,2014-2018,98.62,MotoCenter SP,Manaus/AM,5,4.1
+227776,Filtro de Ar Magnetron BMW F 800 GS,Filtro de Ar,Magnetron,BMW,F 800 GS,2014-2018,139.86,MotoCenter SP,Porto Alegre/RS,30,4.6
+535825,Pastilha de Freio Yamaha Yamaha Fazer 250,Pastilha de Freio,Yamaha,Yamaha,Fazer 250,2013-2013,92.69,Curitiba Motos,Belo Horizonte/MG,2,5.0
+522042,Cabo de Acelerador Suzuki Kawasaki Z400,Cabo de Acelerador,Suzuki,Kawasaki,Z400,2012-2015,155.71,MotoCenter SP,Campinas/SP,15,4.2
+395318,Cabo de Acelerador Yamaha Honda CG 160,Cabo de Acelerador,Yamaha,Honda,CG 160,2022-2024,102.96,Curitiba Motos,Goiânia/GO,21,4.6
+871745,Escape Vedamotors Honda CB 650R,Escape,Vedamotors,Honda,CB 650R,2008-2022,149.92,MotoMix BH,Curitiba/PR,12,4.1
+418762,Coroa e Pinhão Bosch Honda CB 650R,Coroa e Pinhão,Bosch,Honda,CB 650R,2018-2023,291.38,Maringá Racing,Curitiba/PR,1,4.4
+493399,Filtro de Ar Kawasaki Suzuki GSX-S750,Filtro de Ar,Kawasaki,Suzuki,GSX-S750,2017-2021,107.27,Salvador Parts,São Paulo/SP,23,4.1
+864266,Escape Kawasaki Honda XRE 300,Escape,Kawasaki,Honda,XRE 300,2022-2022,172.04,RioBike,Campinas/SP,7,4.2
+934461,Filtro de Ar Honda Triumph Tiger 660,Filtro de Ar,Honda,Triumph,Tiger 660,2016-2024,261.88,MotoCenter SP,São Paulo/SP,16,5.0
+911622,Coroa e Pinhão Magnetron Kawasaki Z400,Coroa e Pinhão,Magnetron,Kawasaki,Z400,2012-2023,122.12,Oficina do Zé,Porto Alegre/RS,7,3.7
+435152,Escape Scud Kawasaki Versys 650,Escape,Scud,Kawasaki,Versys 650,2020-2023,166.67,Curitiba Motos,Rio de Janeiro/RJ,27,3.2
+694315,Pneu NGK Honda CG 160,Pneu,NGK,Honda,CG 160,2012-2020,87.27,Oficina do Zé,Salvador/BA,29,4.2
+642783,Amortecedor Vedamotors Yamaha MT-07,Amortecedor,Vedamotors,Yamaha,MT-07,2023-2024,189.98,MotoCenter SP,São Paulo/SP,21,4.3
+926333,Pneu Yamaha Triumph Tiger 660,Pneu,Yamaha,Triumph,Tiger 660,2015-2025,222.36,MotoCenter SP,Curitiba/PR,26,4.0
+542182,Guidão Motul Kawasaki Ninja 400,Guidão,Motul,Kawasaki,Ninja 400,2009-2011,106.26,Maringá Racing,Manaus/AM,25,3.6
+211547,Pneu Yamaha Kawasaki Ninja 400,Pneu,Yamaha,Kawasaki,Ninja 400,2009-2017,173.92,Maringá Racing,Curitiba/PR,12,3.8
+554349,Filtro de Ar Bosch Yamaha MT-07,Filtro de Ar,Bosch,Yamaha,MT-07,2016-2023,81.25,Oficina do Zé,Curitiba/PR,12,5.0
+214544,Coroa e Pinhão RK Kawasaki Ninja 400,Coroa e Pinhão,RK,Kawasaki,Ninja 400,2018-2025,67.81,Fort Motos,Rio de Janeiro/RJ,19,4.1
+141511,Pastilha de Freio RK Yamaha Fazer 250,Pastilha de Freio,RK,Yamaha,Fazer 250,2013-2017,342.76,Garagem 2Rodas,Fortaleza/CE,0,4.5
+233288,Amortecedor Kawasaki Yamaha MT-07,Amortecedor,Kawasaki,Yamaha,MT-07,2015-2023,181.28,Maringá Racing,Curitiba/PR,16,4.2
+560113,Guidão Motul Kawasaki Ninja 400,Guidão,Motul,Kawasaki,Ninja 400,2016-2025,176.55,MotoMix BH,Belo Horizonte/MG,1,4.9
+471791,Cabo de Acelerador Bosch Kawasaki Z400,Cabo de Acelerador,Bosch,Kawasaki,Z400,2017-2018,301.45,MotoCenter SP,Belo Horizonte/MG,9,3.9
+104126,Coroa e Pinhão NGK Yamaha MT-07,Coroa e Pinhão,NGK,Yamaha,MT-07,2013-2016,82.2,Garagem 2Rodas,Porto Alegre/RS,17,4.5
+795137,Pastilha de Freio Vedamotors Yamaha Fazer 250,Pastilha de Freio,Vedamotors,Yamaha,Fazer 250,2019-2019,137.67,Oficina do Zé,Campinas/SP,24,4.7
+797082,Coroa e Pinhão Bosch Yamaha MT-07,Coroa e Pinhão,Bosch,Yamaha,MT-07,2022-2024,167.56,Salvador Parts,Porto Alegre/RS,7,4.3
+913944,Filtro de Ar Vedamotors Suzuki GSX-S750,Filtro de Ar,Vedamotors,Suzuki,GSX-S750,2008-2010,88.97,Curitiba Motos,Rio de Janeiro/RJ,11,4.5
+156271,Pastilha de Freio Magnetron Honda CB 650R,Pastilha de Freio,Magnetron,Honda,CB 650R,2023-2025,173.44,MotoMix BH,Curitiba/PR,35,4.3
+697040,Pneu Motul Yamaha MT-07,Pneu,Motul,Yamaha,MT-07,2009-2018,163.98,Garagem 2Rodas,Porto Alegre/RS,5,3.8
+646677,Guidão Bosch Suzuki GSX-S750,Guidão,Bosch,Suzuki,GSX-S750,2017-2024,144.32,Oficina do Zé,Porto Alegre/RS,0,4.1
+909002,Cabo de Acelerador RK Honda CB 650R,Cabo de Acelerador,RK,Honda,CB 650R,2016-2025,116.6,MotoMix BH,Curitiba/PR,9,4.4
+260649,Disco de Freio Vedamotors Honda XRE 300,Disco de Freio,Vedamotors,Honda,XRE 300,2022-2022,125.19,Salvador Parts,Belo Horizonte/MG,25,4.3
+178804,Amortecedor Magnetron BMW F 800 GS,Amortecedor,Magnetron,BMW,F 800 GS,2022-2024,118.82,RioBike,Curitiba/PR,28,4.4
+604693,Amortecedor NGK Kawasaki Z400,Amortecedor,NGK,Kawasaki,Z400,2020-2021,87.81,Fort Motos,Curitiba/PR,0,4.5
+334861,Escape Yamaha Honda CG 160,Escape,Yamaha,Honda,CG 160,2014-2017,101.02,Salvador Parts,Salvador/BA,15,4.1
+900776,Escape Kawasaki Yamaha MT-07,Escape,Kawasaki,Yamaha,MT-07,2018-2022,122.35,Maringá Racing,Fortaleza/CE,8,5.0
+135097,Disco de Freio NGK Yamaha Fazer 250,Disco de Freio,NGK,Yamaha,Fazer 250,2020-2022,218.84,Garagem 2Rodas,Fortaleza/CE,14,4.4
+690482,Escape Vedamotors Honda XRE 300,Escape,Vedamotors,Honda,XRE 300,2019-2019,346.42,Garagem 2Rodas,Salvador/BA,28,4.2
+355585,Cabo de Acelerador NGK Kawasaki Ninja 400,Cabo de Acelerador,NGK,Kawasaki,Ninja 400,2023-2025,124.85,Maringá Racing,Manaus/AM,24,3.7
+630519,Pastilha de Freio Bosch Kawasaki Versys 650,Pastilha de Freio,Bosch,Kawasaki,Versys 650,2017-2020,226.44,Curitiba Motos,São Paulo/SP,16,3.6
+372149,Amortecedor Suzuki Suzuki GSX-S750,Amortecedor,Suzuki,Suzuki,GSX-S750,2018-2025,127.37,Maringá Racing,Manaus/AM,23,4.3
+382105,Lâmpada Motul Honda XRE 300,Lâmpada,Motul,Honda,XRE 300,2022-2022,234.34,Curitiba Motos,Salvador/BA,0,3.8
+979302,Guidão Yamaha Yamaha MT-07,Guidão,Yamaha,Yamaha,MT-07,2018-2024,153.9,RioBike,Fortaleza/CE,10,4.9
+111288,Lâmpada Suzuki Honda XRE 300,Lâmpada,Suzuki,Honda,XRE 300,2018-2024,224.15,Salvador Parts,São Paulo/SP,6,3.7
+248504,Escape Scud Honda CB 650R,Escape,Scud,Honda,CB 650R,2018-2024,153.39,MotoMix BH,Rio de Janeiro/RJ,27,4.1
+241601,Pneu RK BMW F 800 GS,Pneu,RK,BMW,F 800 GS,2011-2022,213.53,Oficina do Zé,Salvador/BA,20,4.0
+205318,Amortecedor NGK Kawasaki Versys 650,Amortecedor,NGK,Kawasaki,Versys 650,2019-2024,110.63,Salvador Parts,Salvador/BA,3,4.1
+402311,Escape Yamaha Triumph Tiger 660,Escape,Yamaha,Triumph,Tiger 660,2016-2019,138.7,Oficina do Zé,Goiânia/GO,11,4.1
+556059,Lâmpada Kawasaki Yamaha Fazer 250,Lâmpada,Kawasaki,Yamaha,Fazer 250,2019-2019,182.88,Oficina do Zé,Porto Alegre/RS,7,4.2
+780455,Guidão Scud Honda CG 160,Guidão,Scud,Honda,CG 160,2023-2024,150.05,RioBike,Belo Horizonte/MG,23,4.7
+205761,Coroa e Pinhão Vedamotors Suzuki GSX-S750,Coroa e Pinhão,Vedamotors,Suzuki,GSX-S750,2022-2022,294.68,MotoMix BH,Rio de Janeiro/RJ,21,4.6
+290321,Cabo de Acelerador Vedamotors BMW F 800 GS,Cabo de Acelerador,Vedamotors,BMW,F 800 GS,2011-2018,306.55,Salvador Parts,Salvador/BA,16,4.6
+729914,Pneu Vedamotors Kawasaki Ninja 400,Pneu,Vedamotors,Kawasaki,Ninja 400,2023-2025,117.32,Oficina do Zé,Porto Alegre/RS,14,4.4
+252912,Cabo de Acelerador Magnetron BMW F 800 GS,Cabo de Acelerador,Magnetron,BMW,F 800 GS,2012-2016,208.51,Salvador Parts,Porto Alegre/RS,11,4.2
+339061,Coroa e Pinhão Motul Yamaha Fazer 250,Coroa e Pinhão,Motul,Yamaha,Fazer 250,2015-2015,59.89,Salvador Parts,Porto Alegre/RS,21,4.9
+226782,Guidão Yamaha Kawasaki Z400,Guidão,Yamaha,Kawasaki,Z400,2018-2018,286.34,RioBike,Salvador/BA,15,4.1
+672424,Amortecedor Bosch Kawasaki Ninja 400,Amortecedor,Bosch,Kawasaki,Ninja 400,2020-2024,247.67,Curitiba Motos,Curitiba/PR,17,4.0
+717942,Lâmpada RK Honda CB 650R,Lâmpada,RK,Honda,CB 650R,2023-2023,140.38,Garagem 2Rodas,Rio de Janeiro/RJ,8,4.6
+480034,Amortecedor Yamaha Kawasaki Z400,Amortecedor,Yamaha,Kawasaki,Z400,2011-2025,136.01,MotoMix BH,Campinas/SP,4,4.2
+470340,Cabo de Acelerador Suzuki Honda CB 650R,Cabo de Acelerador,Suzuki,Honda,CB 650R,2009-2022,209.49,MotoCenter SP,São Paulo/SP,24,3.8
+263232,Coroa e Pinhão Motul Honda CB 650R,Coroa e Pinhão,Motul,Honda,CB 650R,2014-2021,115.92,RioBike,Rio de Janeiro/RJ,12,4.7
+829507,Pastilha de Freio Yamaha Triumph Tiger 660,Pastilha de Freio,Yamaha,Triumph,Tiger 660,2020-2023,98.11,Oficina do Zé,São Paulo/SP,2,4.4
+657859,Filtro de Ar Scud Honda CB 650R,Filtro de Ar,Scud,Honda,CB 650R,2013-2014,68.95,MotoCenter SP,Salvador/BA,11,4.1
+528807,Escape RK Kawasaki Versys 650,Escape,RK,Kawasaki,Versys 650,2013-2020,102.83,Oficina do Zé,Campinas/SP,12,3.8
+965257,Coroa e Pinhão Yamaha Kawasaki Versys 650,Coroa e Pinhão,Yamaha,Kawasaki,Versys 650,2017-2025,134.79,Oficina do Zé,Rio de Janeiro/RJ,0,4.2
+797321,Pneu Suzuki Kawasaki Versys 650,Pneu,Suzuki,Kawasaki,Versys 650,2016-2016,183.19,Fort Motos,Curitiba/PR,16,4.2
+308605,Guidão Scud Honda CG 160,Guidão,Scud,Honda,CG 160,2013-2019,100.98,Garagem 2Rodas,Porto Alegre/RS,19,3.8
+743710,Amortecedor NGK Honda CG 160,Amortecedor,NGK,Honda,CG 160,2022-2024,184.54,Fort Motos,Rio de Janeiro/RJ,21,4.8
+811885,Coroa e Pinhão Yamaha Kawasaki Z400,Coroa e Pinhão,Yamaha,Kawasaki,Z400,2020-2020,799.75,MotoCenter SP,Salvador/BA,17,4.2
+520223,Guidão Vedamotors Honda CG 160,Guidão,Vedamotors,Honda,CG 160,2021-2024,84.86,Oficina do Zé,Belo Horizonte/MG,27,5.0
+772461,Amortecedor Scud Kawasaki Versys 650,Amortecedor,Scud,Kawasaki,Versys 650,2011-2019,92.09,Oficina do Zé,Fortaleza/CE,15,4.1
+819450,Disco de Freio Honda Yamaha MT-07,Disco de Freio,Honda,Yamaha,MT-07,2012-2014,122.18,Curitiba Motos,Fortaleza/CE,25,4.7
+622073,Pastilha de Freio Scud Yamaha MT-07,Pastilha de Freio,Scud,Yamaha,MT-07,2023-2024,147.14,MotoCenter SP,Belo Horizonte/MG,21,4.8
+642111,Amortecedor Vedamotors Triumph Tiger 660,Amortecedor,Vedamotors,Triumph,Tiger 660,2010-2021,252.86,RioBike,Goiânia/GO,5,3.6
+756370,Escape NGK Yamaha Fazer 250,Escape,NGK,Yamaha,Fazer 250,2009-2024,152.78,Maringá Racing,São Paulo/SP,6,3.8
+222380,Amortecedor Bosch Kawasaki Ninja 400,Amortecedor,Bosch,Kawasaki,Ninja 400,2008-2020,82.31,RioBike,Curitiba/PR,8,4.3
+878412,Lâmpada Vedamotors Kawasaki Z400,Lâmpada,Vedamotors,Kawasaki,Z400,2019-2020,167.25,Oficina do Zé,Porto Alegre/RS,19,4.1
+251740,Coroa e Pinhão Honda Suzuki GSX-S750,Coroa e Pinhão,Honda,Suzuki,GSX-S750,2022-2023,181.92,Curitiba Motos,Fortaleza/CE,17,4.6
+204605,Amortecedor RK Honda XRE 300,Amortecedor,RK,Honda,XRE 300,2013-2024,155.57,MotoMix BH,Belo Horizonte/MG,26,4.4
+470611,Lâmpada Magnetron Triumph Tiger 660,Lâmpada,Magnetron,Triumph,Tiger 660,2011-2016,152.12,Maringá Racing,Salvador/BA,23,3.8
+189863,Guidão Yamaha Suzuki GSX-S750,Guidão,Yamaha,Suzuki,GSX-S750,2012-2018,70.91,Oficina do Zé,São Paulo/SP,26,4.6
+118640,Pastilha de Freio Motul Kawasaki Ninja 400,Pastilha de Freio,Motul,Kawasaki,Ninja 400,2016-2025,152.02,MotoMix BH,Campinas/SP,6,4.8
+675144,Cabo de Acelerador NGK BMW F 800 GS,Cabo de Acelerador,NGK,BMW,F 800 GS,2017-2020,100.48,Fort Motos,Curitiba/PR,27,5.0
+579706,Amortecedor Suzuki Yamaha Fazer 250,Amortecedor,Suzuki,Yamaha,Fazer 250,2012-2017,233.97,Maringá Racing,Curitiba/PR,12,4.5
+201087,Filtro de Ar NGK Suzuki GSX-S750,Filtro de Ar,NGK,Suzuki,GSX-S750,2021-2021,60.07,Curitiba Motos,Belo Horizonte/MG,28,3.6
+470660,Coroa e Pinhão RK Triumph Tiger 660,Coroa e Pinhão,RK,Triumph,Tiger 660,2022-2024,309.71,Salvador Parts,Rio de Janeiro/RJ,7,4.2
+272591,Filtro de Ar Motul Kawasaki Ninja 400,Filtro de Ar,Motul,Kawasaki,Ninja 400,2019-2025,109.7,MotoCenter SP,São Paulo/SP,10,4.5
+110309,Cabo de Acelerador NGK Kawasaki Versys 650,Cabo de Acelerador,NGK,Kawasaki,Versys 650,2014-2022,173.01,Oficina do Zé,Curitiba/PR,0,3.8
+703563,Pastilha de Freio Bosch Kawasaki Ninja 400,Pastilha de Freio,Bosch,Kawasaki,Ninja 400,2012-2018,78.85,Fort Motos,Manaus/AM,6,4.4
+497706,Amortecedor Yamaha Honda XRE 300,Amortecedor,Yamaha,Honda,XRE 300,2008-2019,221.86,Oficina do Zé,Salvador/BA,16,4.3
+274556,Lâmpada Honda BMW F 800 GS,Lâmpada,Honda,BMW,F 800 GS,2012-2024,118.12,Oficina do Zé,Salvador/BA,21,4.3
+462614,Pneu Motul Honda CG 160,Pneu,Motul,Honda,CG 160,2017-2018,166.79,MotoMix BH,Curitiba/PR,21,4.5
+787997,Pastilha de Freio Bosch Yamaha MT-07,Pastilha de Freio,Bosch,Yamaha,MT-07,2010-2019,144.17,Fort Motos,Salvador/BA,24,4.6
+662664,Escape Yamaha Honda XRE 300,Escape,Yamaha,Honda,XRE 300,2023-2025,244.82,RioBike,Rio de Janeiro/RJ,8,4.5
+426974,Disco de Freio Honda Honda CG 160,Disco de Freio,Honda,Honda,CG 160,2020-2022,196.76,RioBike,Campinas/SP,25,4.1
+135579,Filtro de Ar Yamaha Kawasaki Ninja 400,Filtro de Ar,Yamaha,Kawasaki,Ninja 400,2008-2020,192.03,Salvador Parts,Curitiba/PR,18,4.3
+228809,Cabo de Acelerador Scud Kawasaki Ninja 400,Cabo de Acelerador,Scud,Kawasaki,Ninja 400,2011-2024,134.86,Fort Motos,Campinas/SP,18,4.6
+654895,Filtro de Ar NGK Triumph Tiger 660,Filtro de Ar,NGK,Triumph,Tiger 660,2012-2022,113.68,Salvador Parts,Salvador/BA,15,4.2
+144248,Filtro de Ar Vedamotors Yamaha Fazer 250,Filtro de Ar,Vedamotors,Yamaha,Fazer 250,2011-2019,117.4,Fort Motos,Goiânia/GO,17,3.9
+384895,Amortecedor Scud Suzuki GSX-S750,Amortecedor,Scud,Suzuki,GSX-S750,2019-2020,70.73,Fort Motos,Rio de Janeiro/RJ,23,3.9
+342970,Amortecedor Magnetron Honda CG 160,Amortecedor,Magnetron,Honda,CG 160,2019-2019,152.17,Curitiba Motos,Manaus/AM,23,4.4
+958606,Pastilha de Freio Honda Triumph Tiger 660,Pastilha de Freio,Honda,Triumph,Tiger 660,2012-2016,105.8,MotoCenter SP,Salvador/BA,15,4.9
+302506,Lâmpada Suzuki Suzuki GSX-S750,Lâmpada,Suzuki,Suzuki,GSX-S750,2022-2025,135.2,Oficina do Zé,São Paulo/SP,2,4.2
+144243,Escape NGK Triumph Tiger 660,Escape,NGK,Triumph,Tiger 660,2022-2024,125.11,MotoMix BH,Belo Horizonte/MG,8,3.9
+627226,Pastilha de Freio Motul Yamaha Fazer 250,Pastilha de Freio,Motul,Yamaha,Fazer 250,2011-2019,84.69,Fort Motos,Fortaleza/CE,10,4.2
+323726,Lâmpada Motul Honda CG 160,Lâmpada,Motul,Honda,CG 160,2021-2022,210.18,RioBike,Rio de Janeiro/RJ,7,4.7
+401660,Pastilha de Freio Kawasaki BMW F 800 GS,Pastilha de Freio,Kawasaki,BMW,F 800 GS,2019-2021,185.93,MotoMix BH,Porto Alegre/RS,12,4.5
+310538,Pastilha de Freio Scud Kawasaki Versys 650,Pastilha de Freio,Scud,Kawasaki,Versys 650,2008-2015,248.92,Garagem 2Rodas,Fortaleza/CE,26,4.4
+779896,Disco de Freio NGK Kawasaki Ninja 400,Disco de Freio,NGK,Kawasaki,Ninja 400,2016-2023,112.29,Garagem 2Rodas,Rio de Janeiro/RJ,10,4.6
+990251,Cabo de Acelerador Honda Suzuki GSX-S750,Cabo de Acelerador,Honda,Suzuki,GSX-S750,2017-2023,87.29,Curitiba Motos,Manaus/AM,23,4.8
+187515,Pastilha de Freio Bosch Kawasaki Versys 650,Pastilha de Freio,Bosch,Kawasaki,Versys 650,2012-2015,106.1,Fort Motos,São Paulo/SP,20,4.0
+664588,Coroa e Pinhão Suzuki Yamaha Fazer 250,Coroa e Pinhão,Suzuki,Yamaha,Fazer 250,2016-2023,126.9,MotoCenter SP,São Paulo/SP,24,3.6
+570188,Disco de Freio NGK Yamaha MT-07,Disco de Freio,NGK,Yamaha,MT-07,2017-2020,173.34,MotoCenter SP,Salvador/BA,25,4.1
+460949,Lâmpada Vedamotors BMW F 800 GS,Lâmpada,Vedamotors,BMW,F 800 GS,2020-2023,210.45,MotoMix BH,Salvador/BA,21,4.6
+704306,Filtro de Ar Scud Kawasaki Versys 650,Filtro de Ar,Scud,Kawasaki,Versys 650,2009-2018,150.7,Oficina do Zé,Campinas/SP,19,4.4
+297544,Disco de Freio Honda Honda XRE 300,Disco de Freio,Honda,Honda,XRE 300,2009-2013,82.61,Salvador Parts,Fortaleza/CE,9,4.6
+656883,Escape Bosch Yamaha Fazer 250,Escape,Bosch,Yamaha,Fazer 250,2014-2018,119.67,Fort Motos,Goiânia/GO,18,4.4
+754509,Disco de Freio Honda Honda CG 160,Disco de Freio,Honda,Honda,CG 160,2019-2022,155.55,MotoMix BH,Belo Horizonte/MG,16,5.0
+932011,Filtro de Ar Vedamotors Suzuki GSX-S750,Filtro de Ar,Vedamotors,Suzuki,GSX-S750,2014-2018,341.31,Maringá Racing,São Paulo/SP,18,3.7
+268243,Pneu NGK Honda CG 160,Pneu,NGK,Honda,CG 160,2011-2011,129.46,MotoCenter SP,Salvador/BA,18,5.0
+165068,Cabo de Acelerador Suzuki Yamaha MT-07,Cabo de Acelerador,Suzuki,Yamaha,MT-07,2010-2019,224.36,MotoCenter SP,Porto Alegre/RS,12,4.8
+668435,Coroa e Pinhão Scud Kawasaki Z400,Coroa e Pinhão,Scud,Kawasaki,Z400,2013-2015,134.2,RioBike,Porto Alegre/RS,11,4.3
+123765,Guidão Motul Kawasaki Versys 650,Guidão,Motul,Kawasaki,Versys 650,2019-2020,349.45,Salvador Parts,São Paulo/SP,18,4.5
+126241,Filtro de Ar NGK Kawasaki Versys 650,Filtro de Ar,NGK,Kawasaki,Versys 650,2013-2013,129.34,RioBike,Campinas/SP,24,4.8
+481975,Pastilha de Freio RK Yamaha MT-07,Pastilha de Freio,RK,Yamaha,MT-07,2021-2023,139.22,MotoMix BH,Curitiba/PR,9,4.8
+313931,Escape Kawasaki BMW F 800 GS,Escape,Kawasaki,BMW,F 800 GS,2015-2024,194.62,MotoMix BH,Salvador/BA,22,4.5
+229026,Coroa e Pinhão Magnetron Yamaha Fazer 250,Coroa e Pinhão,Magnetron,Yamaha,Fazer 250,2022-2025,239.96,Maringá Racing,Porto Alegre/RS,25,4.7
+656280,Lâmpada Kawasaki Honda CG 160,Lâmpada,Kawasaki,Honda,CG 160,2012-2012,161.93,MotoMix BH,Rio de Janeiro/RJ,16,4.2
+364207,Escape Yamaha Triumph Tiger 660,Escape,Yamaha,Triumph,Tiger 660,2023-2023,95.24,MotoMix BH,Fortaleza/CE,8,4.3
+633464,Pastilha de Freio Magnetron Yamaha MT-07,Pastilha de Freio,Magnetron,Yamaha,MT-07,2009-2022,171.97,Maringá Racing,Salvador/BA,0,4.0
+392137,Disco de Freio RK Kawasaki Ninja 400,Disco de Freio,RK,Kawasaki,Ninja 400,2018-2021,132.01,Fort Motos,Goiânia/GO,17,4.0
+863827,Pneu Honda Kawasaki Versys 650,Pneu,Honda,Kawasaki,Versys 650,2014-2025,85.18,Oficina do Zé,Rio de Janeiro/RJ,28,5.0
+721065,Lâmpada Kawasaki Kawasaki Z400,Lâmpada,Kawasaki,Kawasaki,Z400,2020-2021,242.69,Salvador Parts,Salvador/BA,35,4.9
+278178,Filtro de Ar NGK Honda XRE 300,Filtro de Ar,NGK,Honda,XRE 300,2019-2022,229.92,Garagem 2Rodas,São Paulo/SP,24,4.4
+293752,Disco de Freio RK Yamaha Fazer 250,Disco de Freio,RK,Yamaha,Fazer 250,2021-2021,167.3,RioBike,São Paulo/SP,17,3.9
+801881,Pneu Magnetron BMW F 800 GS,Pneu,Magnetron,BMW,F 800 GS,2011-2024,143.51,Oficina do Zé,Curitiba/PR,17,4.7
+708823,Pastilha de Freio Vedamotors BMW F 800 GS,Pastilha de Freio,Vedamotors,BMW,F 800 GS,2008-2016,74.75,MotoCenter SP,Fortaleza/CE,31,4.7
+959412,Pastilha de Freio Magnetron Kawasaki Versys 650,Pastilha de Freio,Magnetron,Kawasaki,Versys 650,2011-2011,152.64,Curitiba Motos,Rio de Janeiro/RJ,5,4.6
+828776,Amortecedor RK Kawasaki Ninja 400,Amortecedor,RK,Kawasaki,Ninja 400,2011-2018,137.98,Fort Motos,Belo Horizonte/MG,0,4.6
+311716,Filtro de Ar Vedamotors Kawasaki Ninja 400,Filtro de Ar,Vedamotors,Kawasaki,Ninja 400,2017-2024,67.73,Curitiba Motos,Curitiba/PR,11,3.7
+238588,Lâmpada Bosch BMW F 800 GS,Lâmpada,Bosch,BMW,F 800 GS,2016-2018,405.56,MotoCenter SP,Salvador/BA,9,4.4
+510518,Coroa e Pinhão Bosch Yamaha MT-07,Coroa e Pinhão,Bosch,Yamaha,MT-07,2009-2019,145.64,Salvador Parts,Belo Horizonte/MG,19,3.7
+772542,Coroa e Pinhão Scud Honda XRE 300,Coroa e Pinhão,Scud,Honda,XRE 300,2013-2024,226.47,Garagem 2Rodas,Salvador/BA,19,4.8
+515309,Filtro de Ar Scud Honda CB 650R,Filtro de Ar,Scud,Honda,CB 650R,2016-2019,267.87,Maringá Racing,Goiânia/GO,6,3.7
+204966,Disco de Freio NGK Honda CG 160,Disco de Freio,NGK,Honda,CG 160,2010-2015,188.27,Maringá Racing,Campinas/SP,26,3.3
+168626,Guidão Yamaha BMW F 800 GS,Guidão,Yamaha,BMW,F 800 GS,2011-2017,318.43,RioBike,Goiânia/GO,11,4.2
+901755,Cabo de Acelerador Magnetron Honda CB 650R,Cabo de Acelerador,Magnetron,Honda,CB 650R,2008-2023,111.47,Maringá Racing,Belo Horizonte/MG,28,4.1
+329125,Escape Motul BMW F 800 GS,Escape,Motul,BMW,F 800 GS,2022-2022,168.69,Garagem 2Rodas,Curitiba/PR,21,3.7
+840567,Filtro de Ar Bosch BMW F 800 GS,Filtro de Ar,Bosch,BMW,F 800 GS,2012-2015,92.45,Garagem 2Rodas,Curitiba/PR,23,4.3
+846812,Coroa e Pinhão Scud Kawasaki Versys 650,Coroa e Pinhão,Scud,Kawasaki,Versys 650,2016-2018,193.3,Fort Motos,Campinas/SP,11,4.1
+341955,Lâmpada Honda Honda XRE 300,Lâmpada,Honda,Honda,XRE 300,2021-2024,162.26,MotoCenter SP,Rio de Janeiro/RJ,22,4.9
+463626,Amortecedor Kawasaki Honda CB 650R,Amortecedor,Kawasaki,Honda,CB 650R,2023-2025,172.79,MotoCenter SP,Goiânia/GO,34,4.2
+304925,Coroa e Pinhão Bosch Honda CB 650R,Coroa e Pinhão,Bosch,Honda,CB 650R,2020-2021,236.03,Garagem 2Rodas,Porto Alegre/RS,17,4.7
+859957,Pneu Bosch Honda XRE 300,Pneu,Bosch,Honda,XRE 300,2013-2019,177.43,Curitiba Motos,São Paulo/SP,13,4.5
+398655,Guidão Honda Yamaha Fazer 250,Guidão,Honda,Yamaha,Fazer 250,2014-2018,190.71,MotoCenter SP,São Paulo/SP,10,4.0
+465413,Cabo de Acelerador Bosch Honda CG 160,Cabo de Acelerador,Bosch,Honda,CG 160,2018-2020,190.86,Fort Motos,Goiânia/GO,21,4.0
+202822,Guidão Yamaha Honda CB 650R,Guidão,Yamaha,Honda,CB 650R,2012-2015,142.11,Fort Motos,Campinas/SP,14,4.0
+864763,Pastilha de Freio RK Yamaha MT-07,Pastilha de Freio,RK,Yamaha,MT-07,2014-2017,177.41,Fort Motos,Campinas/SP,26,4.8
+658463,Coroa e Pinhão Scud Yamaha MT-07,Coroa e Pinhão,Scud,Yamaha,MT-07,2018-2021,266.03,MotoMix BH,Curitiba/PR,30,4.6
+200315,Pastilha de Freio Kawasaki Kawasaki Ninja 400,Pastilha de Freio,Kawasaki,Kawasaki,Ninja 400,2011-2023,146.96,Garagem 2Rodas,Manaus/AM,44,4.8
+157651,Lâmpada RK Kawasaki Z400,Lâmpada,RK,Kawasaki,Z400,2010-2018,162.93,Garagem 2Rodas,Porto Alegre/RS,2,4.4
+784170,Amortecedor NGK Yamaha MT-07,Amortecedor,NGK,Yamaha,MT-07,2018-2024,164.78,Curitiba Motos,São Paulo/SP,18,4.1
+837862,Escape NGK BMW F 800 GS,Escape,NGK,BMW,F 800 GS,2022-2024,224.0,Maringá Racing,Campinas/SP,15,4.6
+950160,Filtro de Ar Motul Honda CG 160,Filtro de Ar,Motul,Honda,CG 160,2016-2022,201.29,RioBike,Rio de Janeiro/RJ,9,4.1
+615763,Pastilha de Freio Vedamotors Honda XRE 300,Pastilha de Freio,Vedamotors,Honda,XRE 300,2017-2019,205.56,MotoMix BH,Rio de Janeiro/RJ,26,4.2
+416189,Pastilha de Freio NGK Kawasaki Versys 650,Pastilha de Freio,NGK,Kawasaki,Versys 650,2008-2020,121.02,RioBike,Belo Horizonte/MG,6,4.4
+813220,Disco de Freio Motul Honda CG 160,Disco de Freio,Motul,Honda,CG 160,2012-2017,105.23,Fort Motos,Goiânia/GO,20,4.4
+669391,Pastilha de Freio NGK Honda CG 160,Pastilha de Freio,NGK,Honda,CG 160,2014-2018,81.13,Oficina do Zé,Fortaleza/CE,8,4.1
+755830,Coroa e Pinhão Magnetron Honda CB 650R,Coroa e Pinhão,Magnetron,Honda,CB 650R,2016-2022,375.67,Garagem 2Rodas,São Paulo/SP,0,4.6
+372575,Coroa e Pinhão Honda Triumph Tiger 660,Coroa e Pinhão,Honda,Triumph,Tiger 660,2008-2011,106.56,RioBike,Curitiba/PR,3,4.2
+633877,Escape Bosch BMW F 800 GS,Escape,Bosch,BMW,F 800 GS,2010-2013,255.06,Maringá Racing,Campinas/SP,17,4.1
+792046,Lâmpada Yamaha Honda XRE 300,Lâmpada,Yamaha,Honda,XRE 300,2008-2013,64.77,MotoCenter SP,Rio de Janeiro/RJ,2,4.0
+846085,Pastilha de Freio Honda Suzuki GSX-S750,Pastilha de Freio,Honda,Suzuki,GSX-S750,2023-2023,140.98,Salvador Parts,Rio de Janeiro/RJ,8,4.0
+469783,Cabo de Acelerador Yamaha Honda CG 160,Cabo de Acelerador,Yamaha,Honda,CG 160,2013-2016,317.28,RioBike,Goiânia/GO,8,4.3
+345458,Pneu Kawasaki BMW F 800 GS,Pneu,Kawasaki,BMW,F 800 GS,2023-2025,92.64,Garagem 2Rodas,Salvador/BA,16,4.2
+671894,Amortecedor Kawasaki Kawasaki Versys 650,Amortecedor,Kawasaki,Kawasaki,Versys 650,2009-2021,381.35,Curitiba Motos,Rio de Janeiro/RJ,11,3.8
+863700,Escape Yamaha BMW F 800 GS,Escape,Yamaha,BMW,F 800 GS,2014-2016,158.42,Salvador Parts,São Paulo/SP,17,4.1
+654971,Guidão Bosch Kawasaki Ninja 400,Guidão,Bosch,Kawasaki,Ninja 400,2017-2018,101.89,Oficina do Zé,Rio de Janeiro/RJ,29,3.8
+527947,Pneu NGK Suzuki GSX-S750,Pneu,NGK,Suzuki,GSX-S750,2009-2025,144.78,RioBike,Salvador/BA,2,4.2
+136579,Pastilha de Freio Bosch Triumph Tiger 660,Pastilha de Freio,Bosch,Triumph,Tiger 660,2022-2025,143.84,MotoCenter SP,Belo Horizonte/MG,0,3.8
+909096,Guidão NGK Yamaha Fazer 250,Guidão,NGK,Yamaha,Fazer 250,2022-2023,69.83,Fort Motos,Rio de Janeiro/RJ,35,4.0
+483971,Coroa e Pinhão Bosch BMW F 800 GS,Coroa e Pinhão,Bosch,BMW,F 800 GS,2012-2016,102.46,Garagem 2Rodas,Campinas/SP,12,3.7
+774596,Pastilha de Freio Honda Honda CB 650R,Pastilha de Freio,Honda,Honda,CB 650R,2013-2024,79.31,Curitiba Motos,Belo Horizonte/MG,19,4.5
+195119,Amortecedor NGK Yamaha MT-07,Amortecedor,NGK,Yamaha,MT-07,2021-2021,148.35,Oficina do Zé,Curitiba/PR,0,4.7
+981929,Pastilha de Freio Motul Honda XRE 300,Pastilha de Freio,Motul,Honda,XRE 300,2016-2016,125.18,Salvador Parts,Fortaleza/CE,23,3.6
+629348,Escape Kawasaki Yamaha MT-07,Escape,Kawasaki,Yamaha,MT-07,2014-2020,79.05,Garagem 2Rodas,São Paulo/SP,21,3.9
+151488,Amortecedor Vedamotors BMW F 800 GS,Amortecedor,Vedamotors,BMW,F 800 GS,2014-2021,79.46,MotoMix BH,Goiânia/GO,12,4.6
+135365,Amortecedor Honda Honda CG 160,Amortecedor,Honda,Honda,CG 160,2009-2025,195.48,Oficina do Zé,Fortaleza/CE,18,4.0
+642583,Disco de Freio Suzuki Kawasaki Versys 650,Disco de Freio,Suzuki,Kawasaki,Versys 650,2021-2024,165.36,Fort Motos,Salvador/BA,12,5.0
+138974,Guidão Honda Kawasaki Ninja 400,Guidão,Honda,Kawasaki,Ninja 400,2023-2025,263.11,Maringá Racing,Curitiba/PR,6,4.8
+881471,Disco de Freio Scud Kawasaki Versys 650,Disco de Freio,Scud,Kawasaki,Versys 650,2016-2022,211.97,Salvador Parts,Salvador/BA,1,4.3
+946662,Coroa e Pinhão Vedamotors Suzuki GSX-S750,Coroa e Pinhão,Vedamotors,Suzuki,GSX-S750,2009-2014,160.64,Curitiba Motos,Goiânia/GO,18,4.1
+981260,Lâmpada Suzuki Triumph Tiger 660,Lâmpada,Suzuki,Triumph,Tiger 660,2008-2023,120.02,RioBike,Rio de Janeiro/RJ,6,4.4
+303051,Escape Honda Yamaha Fazer 250,Escape,Honda,Yamaha,Fazer 250,2019-2022,143.44,RioBike,Salvador/BA,8,4.3
+604961,Amortecedor Bosch Honda XRE 300,Amortecedor,Bosch,Honda,XRE 300,2008-2016,87.48,RioBike,Curitiba/PR,13,3.9
+798605,Disco de Freio Magnetron Yamaha Fazer 250,Disco de Freio,Magnetron,Yamaha,Fazer 250,2008-2012,87.04,RioBike,São Paulo/SP,22,4.3
+752181,Pneu NGK Honda CB 650R,Pneu,NGK,Honda,CB 650R,2013-2018,199.84,Garagem 2Rodas,São Paulo/SP,27,4.4
+735357,Coroa e Pinhão Kawasaki Honda CB 650R,Coroa e Pinhão,Kawasaki,Honda,CB 650R,2019-2022,109.42,MotoCenter SP,Goiânia/GO,23,3.9
+713984,Cabo de Acelerador Magnetron Triumph Tiger 660,Cabo de Acelerador,Magnetron,Triumph,Tiger 660,2020-2020,194.46,MotoMix BH,São Paulo/SP,8,4.2
+904058,Coroa e Pinhão NGK BMW F 800 GS,Coroa e Pinhão,NGK,BMW,F 800 GS,2010-2025,134.08,Maringá Racing,Rio de Janeiro/RJ,24,3.9
+369572,Amortecedor Yamaha Suzuki GSX-S750,Amortecedor,Yamaha,Suzuki,GSX-S750,2017-2020,125.39,Garagem 2Rodas,São Paulo/SP,21,4.7
+734193,Coroa e Pinhão Scud Yamaha MT-07,Coroa e Pinhão,Scud,Yamaha,MT-07,2014-2018,127.53,Curitiba Motos,Curitiba/PR,2,4.1
+194717,Escape Bosch Kawasaki Ninja 400,Escape,Bosch,Kawasaki,Ninja 400,2008-2021,158.1,Fort Motos,Belo Horizonte/MG,13,4.6
+506933,Disco de Freio Suzuki Yamaha MT-07,Disco de Freio,Suzuki,Yamaha,MT-07,2016-2019,251.38,MotoCenter SP,São Paulo/SP,22,4.2
+626149,Guidão Motul Kawasaki Ninja 400,Guidão,Motul,Kawasaki,Ninja 400,2023-2023,128.51,MotoCenter SP,Rio de Janeiro/RJ,1,3.7
+661197,Lâmpada NGK Suzuki GSX-S750,Lâmpada,NGK,Suzuki,GSX-S750,2010-2012,117.49,Fort Motos,Porto Alegre/RS,24,4.3
+505639,Disco de Freio Honda Yamaha Fazer 250,Disco de Freio,Honda,Yamaha,Fazer 250,2014-2017,136.54,Oficina do Zé,Manaus/AM,19,4.3
+129135,Guidão Magnetron Suzuki GSX-S750,Guidão,Magnetron,Suzuki,GSX-S750,2009-2017,136.61,Maringá Racing,Campinas/SP,24,5.0
+587234,Escape Kawasaki Yamaha Fazer 250,Escape,Kawasaki,Yamaha,Fazer 250,2022-2025,264.99,Oficina do Zé,Goiânia/GO,9,4.3
+336759,Guidão Yamaha Honda CB 650R,Guidão,Yamaha,Honda,CB 650R,2010-2019,145.4,Maringá Racing,Rio de Janeiro/RJ,15,4.2
+271750,Escape Scud Honda XRE 300,Escape,Scud,Honda,XRE 300,2015-2022,282.48,MotoMix BH,Porto Alegre/RS,3,4.1
+904829,Filtro de Ar Honda Honda CG 160,Filtro de Ar,Honda,Honda,CG 160,2011-2019,86.72,Salvador Parts,Curitiba/PR,18,4.9
+476748,Disco de Freio Scud Honda CG 160,Disco de Freio,Scud,Honda,CG 160,2010-2019,93.72,Curitiba Motos,Curitiba/PR,16,4.1
+945498,Escape Bosch Suzuki GSX-S750,Escape,Bosch,Suzuki,GSX-S750,2009-2012,201.93,Curitiba Motos,Rio de Janeiro/RJ,11,4.0
+160520,Lâmpada Vedamotors Yamaha MT-07,Lâmpada,Vedamotors,Yamaha,MT-07,2013-2019,115.84,Oficina do Zé,São Paulo/SP,0,4.4
+978710,Amortecedor Motul Yamaha Fazer 250,Amortecedor,Motul,Yamaha,Fazer 250,2015-2016,96.77,Maringá Racing,São Paulo/SP,19,3.4
+161238,Amortecedor RK Triumph Tiger 660,Amortecedor,RK,Triumph,Tiger 660,2011-2012,271.33,Salvador Parts,Rio de Janeiro/RJ,27,4.0
+289505,Escape Kawasaki BMW F 800 GS,Escape,Kawasaki,BMW,F 800 GS,2011-2020,77.17,MotoMix BH,Salvador/BA,20,4.3
+704735,Escape Bosch BMW F 800 GS,Escape,Bosch,BMW,F 800 GS,2023-2024,171.34,RioBike,Porto Alegre/RS,7,4.3
+843717,Escape Magnetron Yamaha Fazer 250,Escape,Magnetron,Yamaha,Fazer 250,2021-2022,200.42,MotoMix BH,Salvador/BA,0,3.8
+178822,Coroa e Pinhão Bosch Honda XRE 300,Coroa e Pinhão,Bosch,Honda,XRE 300,2014-2022,146.39,Fort Motos,Goiânia/GO,27,3.9
+600131,Coroa e Pinhão Bosch Kawasaki Versys 650,Coroa e Pinhão,Bosch,Kawasaki,Versys 650,2020-2023,123.36,Curitiba Motos,Manaus/AM,23,4.3
+277644,Filtro de Ar Scud Yamaha Fazer 250,Filtro de Ar,Scud,Yamaha,Fazer 250,2009-2017,122.72,Oficina do Zé,Manaus/AM,6,4.3
+815461,Amortecedor Vedamotors Kawasaki Z400,Amortecedor,Vedamotors,Kawasaki,Z400,2020-2025,90.41,MotoCenter SP,Campinas/SP,32,3.9
+829298,Guidão Suzuki BMW F 800 GS,Guidão,Suzuki,BMW,F 800 GS,2019-2022,169.36,MotoMix BH,Goiânia/GO,5,4.7
+269883,Amortecedor Magnetron Triumph Tiger 660,Amortecedor,Magnetron,Triumph,Tiger 660,2021-2022,261.93,Curitiba Motos,Belo Horizonte/MG,14,4.7
+563196,Coroa e Pinhão Suzuki Yamaha Fazer 250,Coroa e Pinhão,Suzuki,Yamaha,Fazer 250,2016-2018,128.86,Curitiba Motos,Porto Alegre/RS,2,4.4
+426020,Amortecedor Magnetron Suzuki GSX-S750,Amortecedor,Magnetron,Suzuki,GSX-S750,2013-2022,95.81,MotoMix BH,Manaus/AM,28,4.7
+277348,Disco de Freio Vedamotors Suzuki GSX-S750,Disco de Freio,Vedamotors,Suzuki,GSX-S750,2019-2020,236.36,Garagem 2Rodas,Belo Horizonte/MG,12,3.6
+535562,Pneu Suzuki Honda XRE 300,Pneu,Suzuki,Honda,XRE 300,2009-2010,142.96,Garagem 2Rodas,Fortaleza/CE,15,3.4
+219995,Pastilha de Freio Vedamotors Honda CG 160,Pastilha de Freio,Vedamotors,Honda,CG 160,2018-2019,96.95,Fort Motos,Campinas/SP,17,4.6
+961840,Pneu Magnetron Yamaha MT-07,Pneu,Magnetron,Yamaha,MT-07,2023-2025,385.89,MotoCenter SP,Goiânia/GO,16,4.2
+790886,Pneu Yamaha Yamaha MT-07,Pneu,Yamaha,Yamaha,MT-07,2016-2023,250.5,Salvador Parts,Belo Horizonte/MG,0,5.0
+176756,Lâmpada RK Triumph Tiger 660,Lâmpada,RK,Triumph,Tiger 660,2011-2019,53.0,Salvador Parts,Belo Horizonte/MG,25,4.1
+930437,Pastilha de Freio Motul Honda CB 650R,Pastilha de Freio,Motul,Honda,CB 650R,2014-2018,312.4,RioBike,Salvador/BA,20,4.3
+113645,Guidão Vedamotors Kawasaki Versys 650,Guidão,Vedamotors,Kawasaki,Versys 650,2016-2024,108.05,RioBike,Belo Horizonte/MG,18,4.7
+804644,Pneu Honda Yamaha Fazer 250,Pneu,Honda,Yamaha,Fazer 250,2011-2022,149.71,MotoMix BH,Campinas/SP,22,3.8
+632584,Escape Scud Yamaha MT-07,Escape,Scud,Yamaha,MT-07,2021-2025,165.18,Curitiba Motos,Campinas/SP,4,3.5
+103258,Amortecedor NGK Suzuki GSX-S750,Amortecedor,NGK,Suzuki,GSX-S750,2015-2024,171.0,Salvador Parts,Fortaleza/CE,15,3.9
+314510,Guidão Magnetron Kawasaki Z400,Guidão,Magnetron,Kawasaki,Z400,2022-2022,255.52,Curitiba Motos,Campinas/SP,29,4.2
+596229,Amortecedor Vedamotors Honda XRE 300,Amortecedor,Vedamotors,Honda,XRE 300,2023-2025,81.75,MotoCenter SP,Campinas/SP,12,4.9
+590626,Coroa e Pinhão Bosch Honda CG 160,Coroa e Pinhão,Bosch,Honda,CG 160,2014-2014,147.15,Garagem 2Rodas,Curitiba/PR,8,4.0
+858472,Escape Suzuki Honda XRE 300,Escape,Suzuki,Honda,XRE 300,2012-2015,139.18,RioBike,Manaus/AM,20,3.9
+372177,Disco de Freio NGK Honda CB 650R,Disco de Freio,NGK,Honda,CB 650R,2020-2023,289.28,MotoMix BH,Belo Horizonte/MG,9,3.3
+560997,Amortecedor Suzuki Honda CG 160,Amortecedor,Suzuki,Honda,CG 160,2009-2016,201.78,MotoMix BH,Curitiba/PR,0,3.9
+183160,Coroa e Pinhão Suzuki Honda CG 160,Coroa e Pinhão,Suzuki,Honda,CG 160,2010-2020,127.31,Garagem 2Rodas,São Paulo/SP,4,4.7
+652679,Filtro de Ar RK Kawasaki Versys 650,Filtro de Ar,RK,Kawasaki,Versys 650,2015-2021,93.66,Fort Motos,Curitiba/PR,24,4.4
+567637,Coroa e Pinhão Magnetron Honda XRE 300,Coroa e Pinhão,Magnetron,Honda,XRE 300,2010-2012,88.9,Fort Motos,São Paulo/SP,18,4.2
+372846,Guidão RK BMW F 800 GS,Guidão,RK,BMW,F 800 GS,2016-2022,192.03,Maringá Racing,Campinas/SP,14,4.8
+396340,Coroa e Pinhão Honda Triumph Tiger 660,Coroa e Pinhão,Honda,Triumph,Tiger 660,2018-2024,123.8,Maringá Racing,Belo Horizonte/MG,18,4.9
+779672,Escape Yamaha Kawasaki Versys 650,Escape,Yamaha,Kawasaki,Versys 650,2016-2021,153.57,MotoMix BH,Fortaleza/CE,23,3.9
+494256,Pneu Vedamotors Triumph Tiger 660,Pneu,Vedamotors,Triumph,Tiger 660,2021-2024,97.77,MotoMix BH,São Paulo/SP,36,4.1
+424175,Cabo de Acelerador Vedamotors Kawasaki Versys 650,Cabo de Acelerador,Vedamotors,Kawasaki,Versys 650,2020-2025,127.7,Fort Motos,São Paulo/SP,0,4.2
+609137,Pastilha de Freio Scud Honda CG 160,Pastilha de Freio,Scud,Honda,CG 160,2015-2017,97.83,RioBike,Manaus/AM,31,5.0
+730579,Lâmpada Scud Yamaha Fazer 250,Lâmpada,Scud,Yamaha,Fazer 250,2019-2025,172.97,Garagem 2Rodas,Goiânia/GO,7,4.6
+294268,Pastilha de Freio NGK Yamaha Fazer 250,Pastilha de Freio,NGK,Yamaha,Fazer 250,2012-2020,67.85,Curitiba Motos,Fortaleza/CE,1,3.9
+714006,Amortecedor Scud Kawasaki Ninja 400,Amortecedor,Scud,Kawasaki,Ninja 400,2022-2024,159.09,Curitiba Motos,Curitiba/PR,11,5.0
+987463,Cabo de Acelerador Yamaha Triumph Tiger 660,Cabo de Acelerador,Yamaha,Triumph,Tiger 660,2014-2021,240.83,Garagem 2Rodas,Manaus/AM,15,4.0
+631400,Cabo de Acelerador Kawasaki Honda CG 160,Cabo de Acelerador,Kawasaki,Honda,CG 160,2016-2021,136.45,MotoMix BH,Porto Alegre/RS,6,3.6
+450672,Guidão Kawasaki Kawasaki Versys 650,Guidão,Kawasaki,Kawasaki,Versys 650,2009-2019,99.35,RioBike,Campinas/SP,18,4.6
+258582,Disco de Freio Yamaha Kawasaki Versys 650,Disco de Freio,Yamaha,Kawasaki,Versys 650,2020-2023,309.07,Salvador Parts,Belo Horizonte/MG,16,4.2
+226392,Filtro de Ar Honda Yamaha Fazer 250,Filtro de Ar,Honda,Yamaha,Fazer 250,2012-2018,214.9,Oficina do Zé,Manaus/AM,0,4.1
+266151,Escape Suzuki Kawasaki Z400,Escape,Suzuki,Kawasaki,Z400,2023-2024,140.72,Oficina do Zé,Campinas/SP,9,3.9
+297209,Lâmpada Bosch Kawasaki Z400,Lâmpada,Bosch,Kawasaki,Z400,2018-2025,64.35,Fort Motos,São Paulo/SP,14,4.2
+871136,Amortecedor Honda Kawasaki Z400,Amortecedor,Honda,Kawasaki,Z400,2011-2019,247.37,MotoMix BH,Belo Horizonte/MG,15,4.6
+156094,Coroa e Pinhão Bosch Yamaha Fazer 250,Coroa e Pinhão,Bosch,Yamaha,Fazer 250,2017-2023,143.6,RioBike,Belo Horizonte/MG,27,4.3
+849702,Filtro de Ar Bosch Honda CB 650R,Filtro de Ar,Bosch,Honda,CB 650R,2013-2018,82.68,Curitiba Motos,Campinas/SP,15,4.4
+447216,Pastilha de Freio Kawasaki Triumph Tiger 660,Pastilha de Freio,Kawasaki,Triumph,Tiger 660,2022-2024,170.72,Curitiba Motos,Salvador/BA,20,3.2
+408438,Pastilha de Freio Honda Yamaha MT-07,Pastilha de Freio,Honda,Yamaha,MT-07,2018-2023,105.35,Maringá Racing,Manaus/AM,22,4.2
+310249,Pneu Honda Honda CB 650R,Pneu,Honda,Honda,CB 650R,2023-2024,88.58,Curitiba Motos,Manaus/AM,25,4.3
+950374,Guidão Yamaha Suzuki GSX-S750,Guidão,Yamaha,Suzuki,GSX-S750,2017-2018,150.45,Curitiba Motos,Campinas/SP,11,4.2
+307311,Filtro de Ar Honda Honda CG 160,Filtro de Ar,Honda,Honda,CG 160,2018-2019,151.14,Maringá Racing,Goiânia/GO,16,4.2
+779575,Cabo de Acelerador RK Suzuki GSX-S750,Cabo de Acelerador,RK,Suzuki,GSX-S750,2011-2014,235.0,MotoMix BH,São Paulo/SP,30,4.3
+432285,Lâmpada Magnetron Honda CG 160,Lâmpada,Magnetron,Honda,CG 160,2018-2018,86.04,Salvador Parts,Manaus/AM,13,4.5
+948898,Coroa e Pinhão Motul Honda CB 650R,Coroa e Pinhão,Motul,Honda,CB 650R,2014-2021,111.44,Maringá Racing,Curitiba/PR,0,4.3
+419245,Escape Kawasaki Honda CG 160,Escape,Kawasaki,Honda,CG 160,2020-2020,151.16,MotoCenter SP,São Paulo/SP,10,3.8
+478433,Lâmpada Vedamotors Kawasaki Z400,Lâmpada,Vedamotors,Kawasaki,Z400,2015-2016,131.28,Oficina do Zé,Rio de Janeiro/RJ,18,4.0
+347687,Disco de Freio Scud Honda XRE 300,Disco de Freio,Scud,Honda,XRE 300,2018-2021,114.85,Curitiba Motos,Rio de Janeiro/RJ,1,4.2
+816907,Amortecedor NGK Kawasaki Ninja 400,Amortecedor,NGK,Kawasaki,Ninja 400,2017-2017,126.95,MotoMix BH,Rio de Janeiro/RJ,9,4.4
+775784,Amortecedor Magnetron Kawasaki Z400,Amortecedor,Magnetron,Kawasaki,Z400,2014-2020,188.76,Salvador Parts,Curitiba/PR,11,4.6
+984339,Cabo de Acelerador Motul Honda XRE 300,Cabo de Acelerador,Motul,Honda,XRE 300,2013-2021,189.58,MotoMix BH,Belo Horizonte/MG,12,3.7
+816048,Pastilha de Freio Magnetron Honda CB 650R,Pastilha de Freio,Magnetron,Honda,CB 650R,2014-2022,263.77,Salvador Parts,Campinas/SP,21,4.2
+321206,Amortecedor Vedamotors Yamaha Fazer 250,Amortecedor,Vedamotors,Yamaha,Fazer 250,2008-2018,288.33,RioBike,Goiânia/GO,3,4.2
+876416,Pneu Bosch Yamaha MT-07,Pneu,Bosch,Yamaha,MT-07,2014-2020,137.21,Maringá Racing,São Paulo/SP,10,3.9
+439599,Filtro de Ar NGK Kawasaki Z400,Filtro de Ar,NGK,Kawasaki,Z400,2015-2020,125.6,MotoMix BH,Fortaleza/CE,16,4.5
+563917,Guidão Bosch BMW F 800 GS,Guidão,Bosch,BMW,F 800 GS,2018-2025,116.18,MotoCenter SP,Campinas/SP,28,4.7
+210046,Guidão Suzuki Honda CG 160,Guidão,Suzuki,Honda,CG 160,2022-2022,130.23,Curitiba Motos,Belo Horizonte/MG,0,4.4
+844249,Pastilha de Freio Yamaha Kawasaki Ninja 400,Pastilha de Freio,Yamaha,Kawasaki,Ninja 400,2022-2023,241.24,MotoMix BH,Belo Horizonte/MG,14,4.6
+321736,Filtro de Ar Kawasaki Yamaha Fazer 250,Filtro de Ar,Kawasaki,Yamaha,Fazer 250,2022-2023,451.49,Garagem 2Rodas,Curitiba/PR,14,4.5
+276035,Filtro de Ar Suzuki Honda XRE 300,Filtro de Ar,Suzuki,Honda,XRE 300,2011-2015,106.27,Curitiba Motos,Goiânia/GO,32,4.7
+338993,Pneu Magnetron Kawasaki Z400,Pneu,Magnetron,Kawasaki,Z400,2018-2022,60.19,RioBike,Porto Alegre/RS,22,4.1
+780082,Amortecedor Suzuki Triumph Tiger 660,Amortecedor,Suzuki,Triumph,Tiger 660,2014-2025,59.33,Oficina do Zé,São Paulo/SP,19,4.6
+782565,Guidão Motul Kawasaki Versys 650,Guidão,Motul,Kawasaki,Versys 650,2009-2011,317.58,Maringá Racing,Rio de Janeiro/RJ,10,4.3
+584499,Coroa e Pinhão Bosch Triumph Tiger 660,Coroa e Pinhão,Bosch,Triumph,Tiger 660,2020-2021,67.71,MotoCenter SP,Fortaleza/CE,13,5.0
+151459,Guidão NGK Yamaha Fazer 250,Guidão,NGK,Yamaha,Fazer 250,2018-2021,215.53,Garagem 2Rodas,Belo Horizonte/MG,25,4.7
+325338,Guidão NGK Honda CG 160,Guidão,NGK,Honda,CG 160,2013-2017,227.83,RioBike,Rio de Janeiro/RJ,18,3.7
+811592,Escape RK Yamaha Fazer 250,Escape,RK,Yamaha,Fazer 250,2014-2022,122.44,MotoMix BH,Campinas/SP,15,4.8
+708290,Cabo de Acelerador RK Honda CG 160,Cabo de Acelerador,RK,Honda,CG 160,2011-2011,194.14,RioBike,Curitiba/PR,0,4.5
+980356,Pastilha de Freio Kawasaki Kawasaki Z400,Pastilha de Freio,Kawasaki,Kawasaki,Z400,2023-2023,473.79,RioBike,Curitiba/PR,0,3.9
+414124,Amortecedor Honda Honda XRE 300,Amortecedor,Honda,Honda,XRE 300,2010-2014,152.52,MotoMix BH,Belo Horizonte/MG,27,4.7
+745266,Lâmpada Vedamotors Honda XRE 300,Lâmpada,Vedamotors,Honda,XRE 300,2009-2018,92.73,Maringá Racing,Porto Alegre/RS,2,3.9
+165619,Amortecedor Magnetron Kawasaki Ninja 400,Amortecedor,Magnetron,Kawasaki,Ninja 400,2009-2017,86.89,MotoMix BH,Rio de Janeiro/RJ,0,4.8
+306688,Pneu RK Yamaha Fazer 250,Pneu,RK,Yamaha,Fazer 250,2011-2022,398.08,Curitiba Motos,Campinas/SP,23,3.4
+598187,Coroa e Pinhão Vedamotors Triumph Tiger 660,Coroa e Pinhão,Vedamotors,Triumph,Tiger 660,2010-2014,211.95,RioBike,Manaus/AM,32,4.4
+196874,Pneu Scud Kawasaki Versys 650,Pneu,Scud,Kawasaki,Versys 650,2019-2023,59.54,Garagem 2Rodas,Campinas/SP,0,3.9
+971180,Amortecedor Suzuki Suzuki GSX-S750,Amortecedor,Suzuki,Suzuki,GSX-S750,2023-2024,110.35,Garagem 2Rodas,Fortaleza/CE,17,5.0
+717796,Pastilha de Freio Yamaha Kawasaki Versys 650,Pastilha de Freio,Yamaha,Kawasaki,Versys 650,2010-2021,147.55,Salvador Parts,Porto Alegre/RS,28,4.5
+761988,Lâmpada Magnetron Kawasaki Ninja 400,Lâmpada,Magnetron,Kawasaki,Ninja 400,2020-2020,111.81,Oficina do Zé,Curitiba/PR,21,4.4
+657346,Pneu Magnetron Honda CG 160,Pneu,Magnetron,Honda,CG 160,2008-2020,77.48,Garagem 2Rodas,Curitiba/PR,0,4.4
+666820,Pneu Yamaha Kawasaki Ninja 400,Pneu,Yamaha,Kawasaki,Ninja 400,2010-2021,208.43,Oficina do Zé,Curitiba/PR,0,4.1
+339349,Escape Bosch Triumph Tiger 660,Escape,Bosch,Triumph,Tiger 660,2013-2023,237.89,RioBike,Salvador/BA,9,3.9
+500164,Coroa e Pinhão Magnetron Kawasaki Z400,Coroa e Pinhão,Magnetron,Kawasaki,Z400,2010-2025,213.76,Curitiba Motos,Goiânia/GO,10,4.2
+885475,Pastilha de Freio Suzuki Kawasaki Z400,Pastilha de Freio,Suzuki,Kawasaki,Z400,2012-2024,114.72,Fort Motos,Rio de Janeiro/RJ,5,4.2
+781098,Filtro de Ar Yamaha Honda CB 650R,Filtro de Ar,Yamaha,Honda,CB 650R,2009-2024,130.42,Maringá Racing,Goiânia/GO,0,4.7
+457446,Pneu Honda Suzuki GSX-S750,Pneu,Honda,Suzuki,GSX-S750,2012-2019,125.78,MotoCenter SP,Goiânia/GO,9,4.0
+350924,Pneu RK Honda CB 650R,Pneu,RK,Honda,CB 650R,2019-2023,194.48,Maringá Racing,Salvador/BA,0,4.1
+255616,Lâmpada Suzuki Suzuki GSX-S750,Lâmpada,Suzuki,Suzuki,GSX-S750,2022-2022,239.96,Maringá Racing,Belo Horizonte/MG,25,4.7
+181720,Coroa e Pinhão Suzuki Yamaha Fazer 250,Coroa e Pinhão,Suzuki,Yamaha,Fazer 250,2014-2014,141.32,Fort Motos,Goiânia/GO,20,4.5
+863584,Filtro de Ar Suzuki Honda CB 650R,Filtro de Ar,Suzuki,Honda,CB 650R,2019-2020,211.85,RioBike,Salvador/BA,0,4.2
+593060,Coroa e Pinhão RK Suzuki GSX-S750,Coroa e Pinhão,RK,Suzuki,GSX-S750,2021-2021,111.32,Curitiba Motos,Fortaleza/CE,16,4.6
+380668,Escape RK Triumph Tiger 660,Escape,RK,Triumph,Tiger 660,2019-2021,71.65,Curitiba Motos,Curitiba/PR,28,4.0
+773677,Filtro de Ar RK Suzuki GSX-S750,Filtro de Ar,RK,Suzuki,GSX-S750,2008-2018,117.72,MotoCenter SP,Curitiba/PR,0,4.2
+784453,Pneu Kawasaki Kawasaki Versys 650,Pneu,Kawasaki,Kawasaki,Versys 650,2012-2012,234.96,Oficina do Zé,Manaus/AM,10,3.7
+412569,Disco de Freio Magnetron Suzuki GSX-S750,Disco de Freio,Magnetron,Suzuki,GSX-S750,2010-2018,135.88,Maringá Racing,Salvador/BA,9,4.2
+453350,Pneu Suzuki BMW F 800 GS,Pneu,Suzuki,BMW,F 800 GS,2020-2024,136.36,Garagem 2Rodas,São Paulo/SP,8,5.0
+826270,Pneu Magnetron Honda XRE 300,Pneu,Magnetron,Honda,XRE 300,2009-2011,107.7,MotoCenter SP,Rio de Janeiro/RJ,13,4.1
+361819,Filtro de Ar Kawasaki Yamaha Fazer 250,Filtro de Ar,Kawasaki,Yamaha,Fazer 250,2009-2014,159.27,RioBike,Salvador/BA,16,4.4
+437643,Lâmpada Suzuki Triumph Tiger 660,Lâmpada,Suzuki,Triumph,Tiger 660,2011-2011,171.5,RioBike,Goiânia/GO,0,3.9
+930602,Guidão Yamaha Honda XRE 300,Guidão,Yamaha,Honda,XRE 300,2016-2017,169.63,Maringá Racing,São Paulo/SP,28,4.4
+515779,Guidão Bosch Yamaha Fazer 250,Guidão,Bosch,Yamaha,Fazer 250,2018-2022,155.07,MotoCenter SP,Manaus/AM,20,4.3
+968142,Pneu Vedamotors Triumph Tiger 660,Pneu,Vedamotors,Triumph,Tiger 660,2014-2015,110.04,RioBike,Goiânia/GO,1,4.4
+795938,Escape Bosch Triumph Tiger 660,Escape,Bosch,Triumph,Tiger 660,2018-2018,127.6,MotoCenter SP,Curitiba/PR,2,5.0
+691783,Pastilha de Freio Kawasaki Honda CB 650R,Pastilha de Freio,Kawasaki,Honda,CB 650R,2009-2015,167.92,Fort Motos,Goiânia/GO,0,5.0
+846676,Cabo de Acelerador NGK Kawasaki Ninja 400,Cabo de Acelerador,NGK,Kawasaki,Ninja 400,2014-2018,91.6,Salvador Parts,Goiânia/GO,21,4.9
+837759,Filtro de Ar NGK Yamaha Fazer 250,Filtro de Ar,NGK,Yamaha,Fazer 250,2013-2013,139.22,Curitiba Motos,Porto Alegre/RS,32,4.8
+859332,Lâmpada Motul Yamaha Fazer 250,Lâmpada,Motul,Yamaha,Fazer 250,2012-2012,193.75,Maringá Racing,Fortaleza/CE,16,5.0
+196153,Disco de Freio Motul Honda CB 650R,Disco de Freio,Motul,Honda,CB 650R,2010-2019,196.01,MotoCenter SP,Salvador/BA,24,3.4
+451818,Cabo de Acelerador Yamaha Kawasaki Versys 650,Cabo de Acelerador,Yamaha,Kawasaki,Versys 650,2023-2023,288.46,MotoMix BH,São Paulo/SP,39,4.4
+803834,Disco de Freio NGK Kawasaki Ninja 400,Disco de Freio,NGK,Kawasaki,Ninja 400,2011-2019,197.39,Oficina do Zé,Porto Alegre/RS,23,4.1
+206312,Lâmpada NGK Kawasaki Versys 650,Lâmpada,NGK,Kawasaki,Versys 650,2020-2025,103.26,Maringá Racing,Belo Horizonte/MG,20,4.4
+585830,Amortecedor Vedamotors BMW F 800 GS,Amortecedor,Vedamotors,BMW,F 800 GS,2023-2025,183.86,MotoMix BH,Porto Alegre/RS,13,4.5
+115713,Guidão Bosch Triumph Tiger 660,Guidão,Bosch,Triumph,Tiger 660,2008-2014,248.32,Oficina do Zé,Porto Alegre/RS,0,4.7
+120612,Amortecedor Honda Kawasaki Ninja 400,Amortecedor,Honda,Kawasaki,Ninja 400,2021-2025,89.08,Garagem 2Rodas,Salvador/BA,4,4.9
+979043,Cabo de Acelerador Vedamotors Triumph Tiger 660,Cabo de Acelerador,Vedamotors,Triumph,Tiger 660,2016-2023,88.66,Curitiba Motos,Belo Horizonte/MG,8,4.2
+852255,Cabo de Acelerador Scud Honda CG 160,Cabo de Acelerador,Scud,Honda,CG 160,2022-2025,163.45,RioBike,São Paulo/SP,9,3.7
+210332,Guidão Motul Kawasaki Versys 650,Guidão,Motul,Kawasaki,Versys 650,2010-2018,151.0,Oficina do Zé,Curitiba/PR,19,4.9
+312640,Filtro de Ar RK Kawasaki Versys 650,Filtro de Ar,RK,Kawasaki,Versys 650,2021-2023,110.87,Fort Motos,Fortaleza/CE,5,3.8
+620889,Disco de Freio Kawasaki Honda XRE 300,Disco de Freio,Kawasaki,Honda,XRE 300,2013-2024,233.22,Salvador Parts,Belo Horizonte/MG,6,3.7
+184387,Amortecedor Yamaha Kawasaki Ninja 400,Amortecedor,Yamaha,Kawasaki,Ninja 400,2022-2023,195.77,MotoMix BH,Rio de Janeiro/RJ,20,3.5
+119613,Coroa e Pinhão Kawasaki Suzuki GSX-S750,Coroa e Pinhão,Kawasaki,Suzuki,GSX-S750,2022-2023,157.4,MotoCenter SP,Belo Horizonte/MG,14,4.6
+154870,Pastilha de Freio NGK Triumph Tiger 660,Pastilha de Freio,NGK,Triumph,Tiger 660,2016-2018,129.06,RioBike,Salvador/BA,16,4.1
+832516,Disco de Freio Bosch Kawasaki Versys 650,Disco de Freio,Bosch,Kawasaki,Versys 650,2011-2012,194.08,Oficina do Zé,Porto Alegre/RS,14,3.6
+923351,Filtro de Ar Suzuki Yamaha Fazer 250,Filtro de Ar,Suzuki,Yamaha,Fazer 250,2012-2014,140.77,MotoMix BH,Curitiba/PR,19,4.0
+545977,Escape Magnetron Honda XRE 300,Escape,Magnetron,Honda,XRE 300,2010-2018,91.66,MotoCenter SP,Rio de Janeiro/RJ,6,4.0
+520883,Coroa e Pinhão Honda BMW F 800 GS,Coroa e Pinhão,Honda,BMW,F 800 GS,2010-2011,106.86,Fort Motos,Campinas/SP,15,3.7
+575137,Filtro de Ar Magnetron BMW F 800 GS,Filtro de Ar,Magnetron,BMW,F 800 GS,2020-2023,279.2,Salvador Parts,Manaus/AM,10,3.7
+810145,Guidão Suzuki Triumph Tiger 660,Guidão,Suzuki,Triumph,Tiger 660,2015-2020,95.29,Garagem 2Rodas,Goiânia/GO,12,5.0
+317184,Pastilha de Freio Motul BMW F 800 GS,Pastilha de Freio,Motul,BMW,F 800 GS,2010-2022,114.64,Garagem 2Rodas,Goiânia/GO,12,3.8
+318054,Cabo de Acelerador Magnetron Honda CB 650R,Cabo de Acelerador,Magnetron,Honda,CB 650R,2020-2021,155.85,Curitiba Motos,Salvador/BA,29,4.9
+906566,Cabo de Acelerador Motul Kawasaki Ninja 400,Cabo de Acelerador,Motul,Kawasaki,Ninja 400,2016-2018,168.96,Curitiba Motos,Porto Alegre/RS,0,4.8
+211710,Coroa e Pinhão RK Honda CB 650R,Coroa e Pinhão,RK,Honda,CB 650R,2015-2016,203.07,Garagem 2Rodas,Campinas/SP,39,4.7
+311104,Cabo de Acelerador Kawasaki Honda CB 650R,Cabo de Acelerador,Kawasaki,Honda,CB 650R,2012-2019,214.55,Curitiba Motos,Curitiba/PR,0,3.7
+139914,Pastilha de Freio Vedamotors Honda CG 160,Pastilha de Freio,Vedamotors,Honda,CG 160,2022-2022,68.23,Salvador Parts,Curitiba/PR,0,3.9
+647697,Lâmpada Scud Honda CB 650R,Lâmpada,Scud,Honda,CB 650R,2019-2021,56.73,Curitiba Motos,Fortaleza/CE,10,5.0
+220518,Guidão Vedamotors Kawasaki Z400,Guidão,Vedamotors,Kawasaki,Z400,2018-2022,178.1,Curitiba Motos,Salvador/BA,5,4.4
+751584,Coroa e Pinhão Yamaha Yamaha Fazer 250,Coroa e Pinhão,Yamaha,Yamaha,Fazer 250,2011-2017,124.97,Fort Motos,Campinas/SP,20,4.8
+455589,Amortecedor Kawasaki Kawasaki Versys 650,Amortecedor,Kawasaki,Kawasaki,Versys 650,2021-2022,203.12,RioBike,Salvador/BA,25,5.0
+906594,Escape Kawasaki Kawasaki Z400,Escape,Kawasaki,Kawasaki,Z400,2020-2023,132.54,Oficina do Zé,Rio de Janeiro/RJ,0,4.4
+841256,Guidão Vedamotors Kawasaki Ninja 400,Guidão,Vedamotors,Kawasaki,Ninja 400,2009-2019,193.74,MotoCenter SP,Goiânia/GO,26,4.2
+733726,Pastilha de Freio Kawasaki Yamaha MT-07,Pastilha de Freio,Kawasaki,Yamaha,MT-07,2010-2014,122.01,Curitiba Motos,Fortaleza/CE,1,4.2
+563258,Pastilha de Freio Suzuki Kawasaki Versys 650,Pastilha de Freio,Suzuki,Kawasaki,Versys 650,2016-2017,128.6,Fort Motos,Salvador/BA,14,4.5
+738528,Cabo de Acelerador Motul Kawasaki Ninja 400,Cabo de Acelerador,Motul,Kawasaki,Ninja 400,2009-2019,170.26,RioBike,Manaus/AM,10,4.2
+549673,Guidão NGK Suzuki GSX-S750,Guidão,NGK,Suzuki,GSX-S750,2013-2022,126.59,MotoCenter SP,Campinas/SP,19,4.4
+846938,Lâmpada Scud Kawasaki Ninja 400,Lâmpada,Scud,Kawasaki,Ninja 400,2021-2023,211.12,Maringá Racing,Campinas/SP,11,4.4
+835093,Escape Bosch Honda CB 650R,Escape,Bosch,Honda,CB 650R,2009-2024,92.44,MotoMix BH,Salvador/BA,19,4.4
+718830,Guidão NGK Yamaha Fazer 250,Guidão,NGK,Yamaha,Fazer 250,2018-2025,139.06,Maringá Racing,Curitiba/PR,31,4.7
+845072,Lâmpada RK Yamaha MT-07,Lâmpada,RK,Yamaha,MT-07,2014-2023,228.28,Fort Motos,Fortaleza/CE,0,4.4
+328919,Escape Vedamotors Honda CG 160,Escape,Vedamotors,Honda,CG 160,2009-2021,197.12,Fort Motos,Curitiba/PR,19,4.5
+112649,Filtro de Ar Bosch Yamaha MT-07,Filtro de Ar,Bosch,Yamaha,MT-07,2023-2025,139.83,Garagem 2Rodas,Porto Alegre/RS,11,3.7
+973560,Coroa e Pinhão Kawasaki Triumph Tiger 660,Coroa e Pinhão,Kawasaki,Triumph,Tiger 660,2021-2022,192.29,MotoMix BH,Belo Horizonte/MG,11,5.0
+625390,Pneu Vedamotors Triumph Tiger 660,Pneu,Vedamotors,Triumph,Tiger 660,2016-2025,195.86,Salvador Parts,Curitiba/PR,20,4.3
+819652,Escape Bosch BMW F 800 GS,Escape,Bosch,BMW,F 800 GS,2020-2024,63.68,MotoCenter SP,Campinas/SP,16,4.2
+717845,Filtro de Ar RK Honda XRE 300,Filtro de Ar,RK,Honda,XRE 300,2009-2015,376.73,Garagem 2Rodas,Salvador/BA,10,3.8
+126512,Pneu RK BMW F 800 GS,Pneu,RK,BMW,F 800 GS,2018-2020,51.7,MotoMix BH,Belo Horizonte/MG,12,3.0
+595918,Filtro de Ar RK Honda CB 650R,Filtro de Ar,RK,Honda,CB 650R,2008-2017,78.99,Fort Motos,Rio de Janeiro/RJ,13,4.2
+942718,Coroa e Pinhão RK Kawasaki Z400,Coroa e Pinhão,RK,Kawasaki,Z400,2008-2016,256.9,MotoCenter SP,São Paulo/SP,16,3.6
+891749,Filtro de Ar Vedamotors Yamaha Fazer 250,Filtro de Ar,Vedamotors,Yamaha,Fazer 250,2008-2016,462.95,Salvador Parts,Rio de Janeiro/RJ,15,4.4
+936122,Disco de Freio Kawasaki Kawasaki Ninja 400,Disco de Freio,Kawasaki,Kawasaki,Ninja 400,2020-2021,208.96,MotoMix BH,Porto Alegre/RS,22,4.6
+855720,Coroa e Pinhão Scud Yamaha MT-07,Coroa e Pinhão,Scud,Yamaha,MT-07,2015-2017,144.51,MotoCenter SP,Porto Alegre/RS,0,4.4
+996234,Pneu Motul Triumph Tiger 660,Pneu,Motul,Triumph,Tiger 660,2013-2018,88.09,MotoCenter SP,Campinas/SP,0,3.8
+730972,Cabo de Acelerador Vedamotors Kawasaki Versys 650,Cabo de Acelerador,Vedamotors,Kawasaki,Versys 650,2011-2013,235.03,Garagem 2Rodas,Goiânia/GO,4,4.1
+341175,Cabo de Acelerador Suzuki Kawasaki Z400,Cabo de Acelerador,Suzuki,Kawasaki,Z400,2016-2023,197.23,MotoCenter SP,Porto Alegre/RS,11,3.9
+763478,Guidão NGK Kawasaki Z400,Guidão,NGK,Kawasaki,Z400,2022-2022,109.08,Garagem 2Rodas,Salvador/BA,12,4.7
+830901,Pastilha de Freio RK Kawasaki Ninja 400,Pastilha de Freio,RK,Kawasaki,Ninja 400,2010-2011,86.32,Curitiba Motos,Manaus/AM,29,5.0
+112950,Coroa e Pinhão Magnetron Honda CB 650R,Coroa e Pinhão,Magnetron,Honda,CB 650R,2014-2016,137.03,Salvador Parts,Curitiba/PR,16,4.5
+671333,Pastilha de Freio Vedamotors Yamaha Fazer 250,Pastilha de Freio,Vedamotors,Yamaha,Fazer 250,2012-2020,206.12,Fort Motos,Campinas/SP,15,4.3
+924250,Disco de Freio Honda Kawasaki Versys 650,Disco de Freio,Honda,Kawasaki,Versys 650,2022-2023,208.18,MotoMix BH,Porto Alegre/RS,8,4.7
+805582,Coroa e Pinhão Yamaha BMW F 800 GS,Coroa e Pinhão,Yamaha,BMW,F 800 GS,2015-2025,140.3,Fort Motos,Campinas/SP,21,4.0
+116888,Filtro de Ar Honda Suzuki GSX-S750,Filtro de Ar,Honda,Suzuki,GSX-S750,2019-2023,75.85,RioBike,Fortaleza/CE,3,4.4
+772657,Amortecedor Motul Triumph Tiger 660,Amortecedor,Motul,Triumph,Tiger 660,2016-2019,89.65,Curitiba Motos,Goiânia/GO,0,5.0
+327296,Coroa e Pinhão Honda Honda CB 650R,Coroa e Pinhão,Honda,Honda,CB 650R,2012-2024,71.27,Curitiba Motos,Curitiba/PR,14,4.6
+375692,Filtro de Ar Bosch Kawasaki Ninja 400,Filtro de Ar,Bosch,Kawasaki,Ninja 400,2008-2009,110.39,Oficina do Zé,Fortaleza/CE,12,4.7
+406139,Cabo de Acelerador Kawasaki Honda CB 650R,Cabo de Acelerador,Kawasaki,Honda,CB 650R,2011-2012,208.33,MotoMix BH,Curitiba/PR,7,4.0
+966801,Pneu Magnetron Suzuki GSX-S750,Pneu,Magnetron,Suzuki,GSX-S750,2017-2022,123.7,RioBike,Porto Alegre/RS,15,4.0
+387515,Lâmpada Suzuki Kawasaki Z400,Lâmpada,Suzuki,Kawasaki,Z400,2015-2015,179.35,Salvador Parts,Goiânia/GO,6,4.4
+211529,Cabo de Acelerador Scud Yamaha Fazer 250,Cabo de Acelerador,Scud,Yamaha,Fazer 250,2019-2023,166.49,MotoMix BH,Fortaleza/CE,16,4.5
+876337,Coroa e Pinhão Yamaha Kawasaki Z400,Coroa e Pinhão,Yamaha,Kawasaki,Z400,2009-2020,278.21,Garagem 2Rodas,Curitiba/PR,34,4.4
+674475,Lâmpada Honda Suzuki GSX-S750,Lâmpada,Honda,Suzuki,GSX-S750,2020-2021,166.86,Curitiba Motos,Curitiba/PR,0,4.4
+466709,Amortecedor Honda Kawasaki Z400,Amortecedor,Honda,Kawasaki,Z400,2013-2024,95.01,Garagem 2Rodas,Goiânia/GO,14,4.0
+889706,Guidão Suzuki Honda XRE 300,Guidão,Suzuki,Honda,XRE 300,2019-2022,83.63,Fort Motos,Goiânia/GO,9,4.0
+112972,Filtro de Ar NGK Yamaha Fazer 250,Filtro de Ar,NGK,Yamaha,Fazer 250,2019-2022,181.56,MotoMix BH,São Paulo/SP,15,4.5
+236599,Pneu Magnetron BMW F 800 GS,Pneu,Magnetron,BMW,F 800 GS,2010-2020,159.09,Maringá Racing,Rio de Janeiro/RJ,8,4.6
+847824,Guidão Vedamotors Kawasaki Z400,Guidão,Vedamotors,Kawasaki,Z400,2017-2019,53.45,Oficina do Zé,São Paulo/SP,8,4.5
+670396,Pneu Scud Yamaha MT-07,Pneu,Scud,Yamaha,MT-07,2019-2025,130.64,RioBike,São Paulo/SP,19,4.0
+525775,Guidão Honda BMW F 800 GS,Guidão,Honda,BMW,F 800 GS,2013-2021,111.4,Garagem 2Rodas,Fortaleza/CE,14,3.6
+491865,Filtro de Ar NGK Kawasaki Ninja 400,Filtro de Ar,NGK,Kawasaki,Ninja 400,2023-2025,315.68,MotoMix BH,Manaus/AM,12,3.7
+895296,Disco de Freio Scud Suzuki GSX-S750,Disco de Freio,Scud,Suzuki,GSX-S750,2017-2020,171.58,Oficina do Zé,Porto Alegre/RS,6,4.1
+764531,Escape Scud Suzuki GSX-S750,Escape,Scud,Suzuki,GSX-S750,2008-2014,174.26,MotoMix BH,Campinas/SP,3,4.9
+889438,Disco de Freio Motul Suzuki GSX-S750,Disco de Freio,Motul,Suzuki,GSX-S750,2008-2015,134.45,Oficina do Zé,São Paulo/SP,12,3.9
+616888,Amortecedor Scud Yamaha MT-07,Amortecedor,Scud,Yamaha,MT-07,2009-2019,139.62,Salvador Parts,Salvador/BA,32,3.9
+157383,Amortecedor Vedamotors BMW F 800 GS,Amortecedor,Vedamotors,BMW,F 800 GS,2019-2023,204.25,RioBike,Porto Alegre/RS,19,4.0
+965924,Escape Kawasaki Yamaha MT-07,Escape,Kawasaki,Yamaha,MT-07,2020-2024,171.81,MotoCenter SP,Fortaleza/CE,0,4.1
+106165,Lâmpada Vedamotors Yamaha MT-07,Lâmpada,Vedamotors,Yamaha,MT-07,2022-2023,260.41,RioBike,Porto Alegre/RS,0,4.1
+715699,Pneu Yamaha Kawasaki Ninja 400,Pneu,Yamaha,Kawasaki,Ninja 400,2023-2023,272.01,Oficina do Zé,Fortaleza/CE,18,4.0
+935782,Amortecedor Vedamotors Honda CG 160,Amortecedor,Vedamotors,Honda,CG 160,2017-2025,78.51,Oficina do Zé,Curitiba/PR,8,3.9
+830567,Filtro de Ar Kawasaki Triumph Tiger 660,Filtro de Ar,Kawasaki,Triumph,Tiger 660,2011-2022,125.77,Maringá Racing,Manaus/AM,14,4.5
+424604,Guidão Kawasaki Honda XRE 300,Guidão,Kawasaki,Honda,XRE 300,2016-2021,107.71,Maringá Racing,Curitiba/PR,18,4.6
+391779,Disco de Freio Honda Suzuki GSX-S750,Disco de Freio,Honda,Suzuki,GSX-S750,2019-2023,163.15,Maringá Racing,Porto Alegre/RS,6,4.2
+465011,Lâmpada Suzuki BMW F 800 GS,Lâmpada,Suzuki,BMW,F 800 GS,2014-2021,159.5,Oficina do Zé,Goiânia/GO,22,4.6
+299071,Amortecedor Kawasaki Kawasaki Z400,Amortecedor,Kawasaki,Kawasaki,Z400,2019-2025,114.92,Salvador Parts,São Paulo/SP,10,3.4
+200641,Lâmpada Motul BMW F 800 GS,Lâmpada,Motul,BMW,F 800 GS,2017-2018,312.36,Garagem 2Rodas,Campinas/SP,15,5.0
+847659,Amortecedor NGK Yamaha MT-07,Amortecedor,NGK,Yamaha,MT-07,2008-2017,170.57,Curitiba Motos,Salvador/BA,9,4.6
+199668,Cabo de Acelerador RK Suzuki GSX-S750,Cabo de Acelerador,RK,Suzuki,GSX-S750,2023-2024,179.83,Garagem 2Rodas,Fortaleza/CE,4,4.0
+387974,Pneu Yamaha Honda CG 160,Pneu,Yamaha,Honda,CG 160,2023-2024,192.3,MotoMix BH,Fortaleza/CE,30,4.0
+352687,Lâmpada RK Triumph Tiger 660,Lâmpada,RK,Triumph,Tiger 660,2018-2018,152.9,Oficina do Zé,Goiânia/GO,26,4.3
+247709,Amortecedor Vedamotors Kawasaki Versys 650,Amortecedor,Vedamotors,Kawasaki,Versys 650,2018-2025,212.2,MotoCenter SP,Rio de Janeiro/RJ,6,3.6
+943563,Guidão Yamaha Honda CG 160,Guidão,Yamaha,Honda,CG 160,2022-2022,128.42,RioBike,Rio de Janeiro/RJ,6,4.7
+567351,Escape Kawasaki Honda CG 160,Escape,Kawasaki,Honda,CG 160,2009-2010,232.64,Maringá Racing,Campinas/SP,17,4.3
+700660,Lâmpada Magnetron Yamaha MT-07,Lâmpada,Magnetron,Yamaha,MT-07,2010-2020,183.21,RioBike,Manaus/AM,3,5.0
+400111,Cabo de Acelerador Motul BMW F 800 GS,Cabo de Acelerador,Motul,BMW,F 800 GS,2023-2023,66.96,Maringá Racing,Belo Horizonte/MG,12,4.6
+723241,Guidão Scud Kawasaki Z400,Guidão,Scud,Kawasaki,Z400,2023-2025,188.85,Fort Motos,Rio de Janeiro/RJ,0,4.0
+111339,Disco de Freio NGK Honda CG 160,Disco de Freio,NGK,Honda,CG 160,2022-2025,208.98,Oficina do Zé,Salvador/BA,2,4.4
+152487,Coroa e Pinhão Bosch Yamaha Fazer 250,Coroa e Pinhão,Bosch,Yamaha,Fazer 250,2013-2018,172.81,RioBike,Campinas/SP,16,4.4
+605924,Disco de Freio Kawasaki Suzuki GSX-S750,Disco de Freio,Kawasaki,Suzuki,GSX-S750,2011-2025,168.62,Maringá Racing,São Paulo/SP,8,4.2
+749174,Coroa e Pinhão Motul Kawasaki Ninja 400,Coroa e Pinhão,Motul,Kawasaki,Ninja 400,2011-2019,184.91,MotoCenter SP,Salvador/BA,18,4.7
+674650,Disco de Freio Scud Kawasaki Ninja 400,Disco de Freio,Scud,Kawasaki,Ninja 400,2017-2024,302.96,Fort Motos,Porto Alegre/RS,28,3.7
+318442,Escape Kawasaki Kawasaki Ninja 400,Escape,Kawasaki,Kawasaki,Ninja 400,2016-2025,63.79,Maringá Racing,Curitiba/PR,19,4.2
+698265,Disco de Freio Vedamotors Honda CG 160,Disco de Freio,Vedamotors,Honda,CG 160,2016-2016,109.76,Garagem 2Rodas,Porto Alegre/RS,17,4.6
+350248,Pastilha de Freio Honda Suzuki GSX-S750,Pastilha de Freio,Honda,Suzuki,GSX-S750,2013-2016,202.88,RioBike,Salvador/BA,22,4.3
+217837,Escape NGK Triumph Tiger 660,Escape,NGK,Triumph,Tiger 660,2020-2023,130.09,Maringá Racing,Manaus/AM,13,4.4
+882871,Disco de Freio Bosch BMW F 800 GS,Disco de Freio,Bosch,BMW,F 800 GS,2008-2012,120.13,RioBike,Fortaleza/CE,15,3.8
+311905,Guidão RK Triumph Tiger 660,Guidão,RK,Triumph,Tiger 660,2008-2021,172.15,Salvador Parts,Fortaleza/CE,13,3.7
+808017,Cabo de Acelerador NGK Honda CG 160,Cabo de Acelerador,NGK,Honda,CG 160,2015-2019,244.52,RioBike,Curitiba/PR,18,4.8
+841838,Coroa e Pinhão Magnetron Yamaha MT-07,Coroa e Pinhão,Magnetron,Yamaha,MT-07,2012-2019,160.62,Oficina do Zé,Rio de Janeiro/RJ,3,4.8
+457005,Cabo de Acelerador Kawasaki BMW F 800 GS,Cabo de Acelerador,Kawasaki,BMW,F 800 GS,2010-2016,262.9,Oficina do Zé,Manaus/AM,7,4.2
+363761,Filtro de Ar Kawasaki BMW F 800 GS,Filtro de Ar,Kawasaki,BMW,F 800 GS,2023-2023,121.56,Maringá Racing,Campinas/SP,33,4.7
+242775,Escape Bosch Suzuki GSX-S750,Escape,Bosch,Suzuki,GSX-S750,2013-2023,182.51,Maringá Racing,Salvador/BA,17,4.2
+239675,Escape Kawasaki Yamaha MT-07,Escape,Kawasaki,Yamaha,MT-07,2017-2023,125.14,MotoCenter SP,Curitiba/PR,6,4.5
+302044,Guidão Kawasaki Suzuki GSX-S750,Guidão,Kawasaki,Suzuki,GSX-S750,2021-2021,85.3,Curitiba Motos,Manaus/AM,8,4.0
+240222,Cabo de Acelerador RK Triumph Tiger 660,Cabo de Acelerador,RK,Triumph,Tiger 660,2014-2019,166.51,Fort Motos,Belo Horizonte/MG,5,3.8
+566692,Pastilha de Freio Motul Kawasaki Z400,Pastilha de Freio,Motul,Kawasaki,Z400,2022-2024,254.02,Curitiba Motos,Belo Horizonte/MG,17,3.7
+767610,Coroa e Pinhão Suzuki Kawasaki Versys 650,Coroa e Pinhão,Suzuki,Kawasaki,Versys 650,2021-2021,169.84,Oficina do Zé,Goiânia/GO,34,4.0
+225552,Coroa e Pinhão Kawasaki BMW F 800 GS,Coroa e Pinhão,Kawasaki,BMW,F 800 GS,2018-2024,202.27,Garagem 2Rodas,Belo Horizonte/MG,13,3.9
+497292,Guidão Suzuki Kawasaki Ninja 400,Guidão,Suzuki,Kawasaki,Ninja 400,2011-2015,386.89,MotoCenter SP,Salvador/BA,22,4.0
+668897,Amortecedor NGK Yamaha MT-07,Amortecedor,NGK,Yamaha,MT-07,2021-2024,239.21,Garagem 2Rodas,Curitiba/PR,1,4.2
+829813,Pneu Suzuki Triumph Tiger 660,Pneu,Suzuki,Triumph,Tiger 660,2009-2016,158.87,Oficina do Zé,São Paulo/SP,17,4.3
+758576,Guidão Magnetron Kawasaki Versys 650,Guidão,Magnetron,Kawasaki,Versys 650,2016-2022,96.77,Oficina do Zé,Campinas/SP,23,3.8
+596047,Lâmpada Suzuki Kawasaki Ninja 400,Lâmpada,Suzuki,Kawasaki,Ninja 400,2016-2023,206.75,Maringá Racing,Curitiba/PR,13,4.3
+791428,Amortecedor Suzuki Triumph Tiger 660,Amortecedor,Suzuki,Triumph,Tiger 660,2012-2019,131.32,Salvador Parts,Goiânia/GO,13,4.3
+194409,Guidão Motul BMW F 800 GS,Guidão,Motul,BMW,F 800 GS,2018-2018,98.32,Fort Motos,Porto Alegre/RS,0,4.1
+469575,Amortecedor Scud BMW F 800 GS,Amortecedor,Scud,BMW,F 800 GS,2012-2022,297.46,MotoMix BH,Manaus/AM,8,4.0
+620625,Filtro de Ar Yamaha Kawasaki Versys 650,Filtro de Ar,Yamaha,Kawasaki,Versys 650,2010-2015,65.93,Fort Motos,Fortaleza/CE,18,5.0
+348147,Disco de Freio Magnetron Kawasaki Versys 650,Disco de Freio,Magnetron,Kawasaki,Versys 650,2009-2018,144.54,Oficina do Zé,Porto Alegre/RS,2,4.4
+291273,Disco de Freio Yamaha BMW F 800 GS,Disco de Freio,Yamaha,BMW,F 800 GS,2017-2018,186.19,Garagem 2Rodas,São Paulo/SP,0,4.5
+465122,Coroa e Pinhão Vedamotors Suzuki GSX-S750,Coroa e Pinhão,Vedamotors,Suzuki,GSX-S750,2011-2024,174.84,Fort Motos,Goiânia/GO,16,4.0
+521478,Coroa e Pinhão Bosch Yamaha Fazer 250,Coroa e Pinhão,Bosch,Yamaha,Fazer 250,2016-2016,151.1,MotoCenter SP,Goiânia/GO,4,4.2
+618526,Lâmpada Yamaha Yamaha Fazer 250,Lâmpada,Yamaha,Yamaha,Fazer 250,2016-2022,50.1,Oficina do Zé,Curitiba/PR,17,4.9
+562030,Filtro de Ar NGK Yamaha MT-07,Filtro de Ar,NGK,Yamaha,MT-07,2013-2014,86.74,RioBike,Manaus/AM,4,4.2
+945781,Lâmpada Suzuki Kawasaki Versys 650,Lâmpada,Suzuki,Kawasaki,Versys 650,2009-2009,263.38,RioBike,Belo Horizonte/MG,13,4.9
+858931,Pneu Suzuki Kawasaki Ninja 400,Pneu,Suzuki,Kawasaki,Ninja 400,2010-2024,132.21,MotoMix BH,São Paulo/SP,12,4.3
+847721,Guidão Kawasaki Kawasaki Z400,Guidão,Kawasaki,Kawasaki,Z400,2013-2014,222.08,Maringá Racing,Goiânia/GO,3,4.3
+107090,Amortecedor Bosch Kawasaki Z400,Amortecedor,Bosch,Kawasaki,Z400,2023-2024,91.17,Fort Motos,Porto Alegre/RS,0,4.5
+812520,Coroa e Pinhão Suzuki BMW F 800 GS,Coroa e Pinhão,Suzuki,BMW,F 800 GS,2020-2023,288.47,Garagem 2Rodas,Campinas/SP,15,5.0
+917113,Pneu Honda Suzuki GSX-S750,Pneu,Honda,Suzuki,GSX-S750,2018-2019,107.41,Oficina do Zé,Curitiba/PR,6,4.4
+606426,Escape Kawasaki Yamaha MT-07,Escape,Kawasaki,Yamaha,MT-07,2018-2020,211.75,RioBike,Salvador/BA,11,4.0
+954842,Cabo de Acelerador Motul Yamaha Fazer 250,Cabo de Acelerador,Motul,Yamaha,Fazer 250,2014-2025,313.03,MotoMix BH,Campinas/SP,17,4.7
+813936,Pneu Magnetron BMW F 800 GS,Pneu,Magnetron,BMW,F 800 GS,2012-2025,125.07,Salvador Parts,São Paulo/SP,17,4.4
+313317,Amortecedor Kawasaki Suzuki GSX-S750,Amortecedor,Kawasaki,Suzuki,GSX-S750,2010-2011,222.86,Salvador Parts,Campinas/SP,9,3.5
+117147,Escape Honda Triumph Tiger 660,Escape,Honda,Triumph,Tiger 660,2011-2025,81.37,Fort Motos,Fortaleza/CE,18,4.9
+356320,Guidão Kawasaki Kawasaki Z400,Guidão,Kawasaki,Kawasaki,Z400,2009-2018,126.12,MotoMix BH,Salvador/BA,22,4.4
+682897,Pneu NGK Honda CG 160,Pneu,NGK,Honda,CG 160,2010-2012,103.12,MotoCenter SP,Goiânia/GO,21,4.9
+344536,Escape Scud Triumph Tiger 660,Escape,Scud,Triumph,Tiger 660,2010-2022,292.44,Garagem 2Rodas,Campinas/SP,10,4.5
+990073,Pneu Motul Kawasaki Z400,Pneu,Motul,Kawasaki,Z400,2021-2024,176.28,Curitiba Motos,Fortaleza/CE,20,4.0
+591158,Lâmpada Scud Triumph Tiger 660,Lâmpada,Scud,Triumph,Tiger 660,2020-2022,202.56,RioBike,São Paulo/SP,16,4.0
+890160,Pastilha de Freio Yamaha Kawasaki Ninja 400,Pastilha de Freio,Yamaha,Kawasaki,Ninja 400,2014-2018,170.79,Garagem 2Rodas,São Paulo/SP,15,4.2
+478229,Pneu Motul BMW F 800 GS,Pneu,Motul,BMW,F 800 GS,2011-2017,149.94,Fort Motos,Goiânia/GO,21,4.0
+771166,Pneu Vedamotors Kawasaki Ninja 400,Pneu,Vedamotors,Kawasaki,Ninja 400,2020-2022,101.48,Fort Motos,Fortaleza/CE,9,5.0
+389272,Lâmpada Scud Honda XRE 300,Lâmpada,Scud,Honda,XRE 300,2016-2024,96.62,MotoCenter SP,Belo Horizonte/MG,3,4.8
+115967,Filtro de Ar NGK Suzuki GSX-S750,Filtro de Ar,NGK,Suzuki,GSX-S750,2013-2017,459.37,MotoMix BH,Curitiba/PR,19,4.7
+817895,Coroa e Pinhão RK Suzuki GSX-S750,Coroa e Pinhão,RK,Suzuki,GSX-S750,2023-2024,172.86,Maringá Racing,Rio de Janeiro/RJ,17,4.0
+318670,Lâmpada Scud Honda XRE 300,Lâmpada,Scud,Honda,XRE 300,2020-2024,161.56,Garagem 2Rodas,Manaus/AM,27,4.1
+379350,Pastilha de Freio Yamaha Suzuki GSX-S750,Pastilha de Freio,Yamaha,Suzuki,GSX-S750,2018-2019,281.61,Maringá Racing,Curitiba/PR,18,4.2
+159157,Lâmpada Yamaha BMW F 800 GS,Lâmpada,Yamaha,BMW,F 800 GS,2012-2018,362.12,MotoCenter SP,Curitiba/PR,12,3.4
+585326,Amortecedor Motul Suzuki GSX-S750,Amortecedor,Motul,Suzuki,GSX-S750,2016-2021,168.14,Salvador Parts,Belo Horizonte/MG,14,4.5
+428246,Disco de Freio RK Honda CB 650R,Disco de Freio,RK,Honda,CB 650R,2020-2022,123.77,Curitiba Motos,Goiânia/GO,21,4.0
+365281,Disco de Freio Bosch Kawasaki Ninja 400,Disco de Freio,Bosch,Kawasaki,Ninja 400,2014-2015,216.25,Fort Motos,Manaus/AM,0,4.4
+808847,Escape NGK Kawasaki Z400,Escape,NGK,Kawasaki,Z400,2010-2021,173.26,MotoCenter SP,Goiânia/GO,18,3.9
+385542,Cabo de Acelerador Scud Kawasaki Z400,Cabo de Acelerador,Scud,Kawasaki,Z400,2018-2018,147.29,Curitiba Motos,Salvador/BA,20,4.7
+753888,Escape RK Honda CB 650R,Escape,RK,Honda,CB 650R,2023-2025,313.19,Garagem 2Rodas,Curitiba/PR,7,5.0
+822949,Filtro de Ar Vedamotors BMW F 800 GS,Filtro de Ar,Vedamotors,BMW,F 800 GS,2008-2009,278.14,Garagem 2Rodas,Goiânia/GO,19,4.4
+219776,Filtro de Ar Magnetron Honda CG 160,Filtro de Ar,Magnetron,Honda,CG 160,2010-2012,186.46,MotoMix BH,Belo Horizonte/MG,1,3.6
+997820,Escape NGK Triumph Tiger 660,Escape,NGK,Triumph,Tiger 660,2015-2016,161.83,Curitiba Motos,Rio de Janeiro/RJ,14,4.7
+686428,Guidão Suzuki Triumph Tiger 660,Guidão,Suzuki,Triumph,Tiger 660,2016-2020,200.58,Oficina do Zé,Manaus/AM,36,4.4
+565495,Lâmpada RK Kawasaki Ninja 400,Lâmpada,RK,Kawasaki,Ninja 400,2020-2020,230.44,Salvador Parts,Curitiba/PR,15,4.6
+470062,Filtro de Ar Motul Kawasaki Z400,Filtro de Ar,Motul,Kawasaki,Z400,2014-2025,139.5,Salvador Parts,Fortaleza/CE,28,4.2
+358066,Escape Suzuki Kawasaki Versys 650,Escape,Suzuki,Kawasaki,Versys 650,2020-2023,165.24,Salvador Parts,Manaus/AM,15,4.1
+632416,Disco de Freio Kawasaki Kawasaki Ninja 400,Disco de Freio,Kawasaki,Kawasaki,Ninja 400,2015-2023,61.66,Curitiba Motos,Goiânia/GO,18,4.0
+409246,Coroa e Pinhão NGK BMW F 800 GS,Coroa e Pinhão,NGK,BMW,F 800 GS,2018-2024,84.33,Garagem 2Rodas,Goiânia/GO,2,4.0
+135505,Filtro de Ar Vedamotors Honda CB 650R,Filtro de Ar,Vedamotors,Honda,CB 650R,2009-2011,169.98,Curitiba Motos,Campinas/SP,9,4.8
+440699,Pneu NGK Kawasaki Ninja 400,Pneu,NGK,Kawasaki,Ninja 400,2009-2021,95.19,Curitiba Motos,Salvador/BA,6,4.4
+333354,Disco de Freio Kawasaki Triumph Tiger 660,Disco de Freio,Kawasaki,Triumph,Tiger 660,2016-2024,179.02,Garagem 2Rodas,Goiânia/GO,13,4.1
+329646,Filtro de Ar Suzuki Honda CG 160,Filtro de Ar,Suzuki,Honda,CG 160,2019-2024,147.29,Salvador Parts,Belo Horizonte/MG,20,4.4
+819993,Pneu Magnetron BMW F 800 GS,Pneu,Magnetron,BMW,F 800 GS,2010-2022,181.67,Curitiba Motos,Porto Alegre/RS,15,4.7
+169547,Escape Motul Triumph Tiger 660,Escape,Motul,Triumph,Tiger 660,2012-2016,108.22,Curitiba Motos,Porto Alegre/RS,28,4.9
+275896,Cabo de Acelerador Scud Honda CG 160,Cabo de Acelerador,Scud,Honda,CG 160,2015-2021,298.16,Garagem 2Rodas,Rio de Janeiro/RJ,0,3.8
+802440,Filtro de Ar Motul Triumph Tiger 660,Filtro de Ar,Motul,Triumph,Tiger 660,2014-2023,137.59,Curitiba Motos,Curitiba/PR,23,4.1
+941956,Coroa e Pinhão Kawasaki Yamaha Fazer 250,Coroa e Pinhão,Kawasaki,Yamaha,Fazer 250,2012-2018,122.94,Salvador Parts,Manaus/AM,16,4.6
+462880,Lâmpada Kawasaki Kawasaki Versys 650,Lâmpada,Kawasaki,Kawasaki,Versys 650,2012-2024,163.8,Fort Motos,Belo Horizonte/MG,3,3.6
+544339,Pneu Yamaha Honda XRE 300,Pneu,Yamaha,Honda,XRE 300,2011-2024,180.77,Oficina do Zé,Fortaleza/CE,25,3.2
+131753,Guidão Scud Kawasaki Ninja 400,Guidão,Scud,Kawasaki,Ninja 400,2021-2022,156.79,Salvador Parts,São Paulo/SP,32,4.3
+566430,Escape Kawasaki Honda CG 160,Escape,Kawasaki,Honda,CG 160,2023-2023,77.1,Oficina do Zé,Rio de Janeiro/RJ,17,4.7
+610865,Filtro de Ar NGK Kawasaki Versys 650,Filtro de Ar,NGK,Kawasaki,Versys 650,2013-2023,149.38,MotoMix BH,Belo Horizonte/MG,0,4.2
+906319,Filtro de Ar Motul Kawasaki Ninja 400,Filtro de Ar,Motul,Kawasaki,Ninja 400,2016-2024,127.75,Maringá Racing,Belo Horizonte/MG,12,4.6
+387110,Filtro de Ar Yamaha Suzuki GSX-S750,Filtro de Ar,Yamaha,Suzuki,GSX-S750,2015-2021,105.29,Fort Motos,Porto Alegre/RS,26,3.2
+248236,Pneu Scud Kawasaki Z400,Pneu,Scud,Kawasaki,Z400,2009-2015,76.65,Curitiba Motos,São Paulo/SP,14,4.0
+246589,Lâmpada Motul Kawasaki Versys 650,Lâmpada,Motul,Kawasaki,Versys 650,2017-2017,474.12,Oficina do Zé,Belo Horizonte/MG,17,4.7
+126521,Pastilha de Freio Motul Honda CG 160,Pastilha de Freio,Motul,Honda,CG 160,2020-2021,136.7,Curitiba Motos,Salvador/BA,34,4.3
+672644,Pastilha de Freio Suzuki Honda CB 650R,Pastilha de Freio,Suzuki,Honda,CB 650R,2019-2024,122.91,Oficina do Zé,Rio de Janeiro/RJ,19,3.6
+112115,Amortecedor Bosch BMW F 800 GS,Amortecedor,Bosch,BMW,F 800 GS,2019-2019,185.61,Maringá Racing,Belo Horizonte/MG,18,4.6
+539297,Escape Magnetron Honda XRE 300,Escape,Magnetron,Honda,XRE 300,2019-2023,186.0,RioBike,Belo Horizonte/MG,14,4.8
+265848,Disco de Freio Motul Honda XRE 300,Disco de Freio,Motul,Honda,XRE 300,2012-2014,182.1,Oficina do Zé,Manaus/AM,14,5.0
+268897,Escape Magnetron Yamaha MT-07,Escape,Magnetron,Yamaha,MT-07,2017-2018,108.9,Salvador Parts,Goiânia/GO,15,4.1
+678042,Coroa e Pinhão Scud Kawasaki Z400,Coroa e Pinhão,Scud,Kawasaki,Z400,2012-2017,291.65,RioBike,Porto Alegre/RS,10,4.3
+157984,Escape NGK BMW F 800 GS,Escape,NGK,BMW,F 800 GS,2021-2023,228.03,Oficina do Zé,Campinas/SP,11,3.8
+977857,Coroa e Pinhão Yamaha Triumph Tiger 660,Coroa e Pinhão,Yamaha,Triumph,Tiger 660,2019-2019,164.36,RioBike,Belo Horizonte/MG,12,4.7
+893898,Lâmpada Magnetron Kawasaki Ninja 400,Lâmpada,Magnetron,Kawasaki,Ninja 400,2011-2023,234.35,Oficina do Zé,Belo Horizonte/MG,8,4.5
+966286,Coroa e Pinhão Yamaha Yamaha MT-07,Coroa e Pinhão,Yamaha,Yamaha,MT-07,2014-2014,85.19,Curitiba Motos,Curitiba/PR,16,4.3
+338299,Pneu Motul Kawasaki Ninja 400,Pneu,Motul,Kawasaki,Ninja 400,2009-2009,285.08,MotoCenter SP,São Paulo/SP,28,4.1
+916341,Guidão Scud Kawasaki Ninja 400,Guidão,Scud,Kawasaki,Ninja 400,2014-2018,219.24,Salvador Parts,Salvador/BA,8,4.1
+156368,Pastilha de Freio Scud Yamaha MT-07,Pastilha de Freio,Scud,Yamaha,MT-07,2015-2024,214.2,Curitiba Motos,Salvador/BA,12,4.0
+980033,Escape Honda Honda XRE 300,Escape,Honda,Honda,XRE 300,2014-2018,186.61,RioBike,Manaus/AM,7,4.5
+259725,Guidão Yamaha BMW F 800 GS,Guidão,Yamaha,BMW,F 800 GS,2022-2022,80.14,MotoCenter SP,Campinas/SP,7,4.5
+267566,Lâmpada Kawasaki Kawasaki Versys 650,Lâmpada,Kawasaki,Kawasaki,Versys 650,2011-2015,169.23,Fort Motos,Rio de Janeiro/RJ,19,3.9
+737161,Lâmpada Scud Honda CG 160,Lâmpada,Scud,Honda,CG 160,2020-2020,80.72,Garagem 2Rodas,Curitiba/PR,5,4.6
+433114,Pneu NGK Honda XRE 300,Pneu,NGK,Honda,XRE 300,2008-2014,201.9,Curitiba Motos,Manaus/AM,11,4.5
+892246,Escape Vedamotors Suzuki GSX-S750,Escape,Vedamotors,Suzuki,GSX-S750,2017-2017,153.86,MotoCenter SP,Rio de Janeiro/RJ,11,4.2
+159747,Lâmpada Scud Honda CG 160,Lâmpada,Scud,Honda,CG 160,2011-2019,234.41,Salvador Parts,Campinas/SP,17,3.8
+911400,Lâmpada Magnetron Honda CB 650R,Lâmpada,Magnetron,Honda,CB 650R,2008-2018,132.33,Garagem 2Rodas,Curitiba/PR,20,4.3
+341960,Guidão Bosch Kawasaki Versys 650,Guidão,Bosch,Kawasaki,Versys 650,2012-2013,165.14,Garagem 2Rodas,Belo Horizonte/MG,16,4.4
+856623,Escape RK Honda CG 160,Escape,RK,Honda,CG 160,2010-2010,145.18,MotoMix BH,Rio de Janeiro/RJ,11,3.9
+149033,Amortecedor Honda BMW F 800 GS,Amortecedor,Honda,BMW,F 800 GS,2009-2010,202.41,Curitiba Motos,Manaus/AM,3,4.6
+706369,Amortecedor Suzuki BMW F 800 GS,Amortecedor,Suzuki,BMW,F 800 GS,2009-2024,199.61,Maringá Racing,São Paulo/SP,31,4.3
+478684,Filtro de Ar NGK Yamaha Fazer 250,Filtro de Ar,NGK,Yamaha,Fazer 250,2022-2025,79.52,MotoMix BH,Salvador/BA,23,4.7
+272724,Filtro de Ar Magnetron BMW F 800 GS,Filtro de Ar,Magnetron,BMW,F 800 GS,2016-2019,145.9,Salvador Parts,Curitiba/PR,23,4.9
+831505,Lâmpada Honda Suzuki GSX-S750,Lâmpada,Honda,Suzuki,GSX-S750,2008-2008,127.63,Salvador Parts,Curitiba/PR,22,4.3
+903059,Lâmpada Vedamotors Yamaha Fazer 250,Lâmpada,Vedamotors,Yamaha,Fazer 250,2014-2017,113.82,Fort Motos,Curitiba/PR,19,4.6
+622160,Cabo de Acelerador Motul Honda CB 650R,Cabo de Acelerador,Motul,Honda,CB 650R,2020-2020,716.97,MotoMix BH,Curitiba/PR,7,4.1
+609629,Coroa e Pinhão Scud Kawasaki Ninja 400,Coroa e Pinhão,Scud,Kawasaki,Ninja 400,2010-2020,99.95,RioBike,Campinas/SP,15,3.7
+706572,Guidão Suzuki BMW F 800 GS,Guidão,Suzuki,BMW,F 800 GS,2022-2025,118.12,MotoMix BH,Belo Horizonte/MG,13,4.7
+556392,Escape Motul Kawasaki Z400,Escape,Motul,Kawasaki,Z400,2009-2022,139.55,MotoMix BH,Porto Alegre/RS,22,4.6
+562226,Cabo de Acelerador Scud Kawasaki Ninja 400,Cabo de Acelerador,Scud,Kawasaki,Ninja 400,2023-2024,230.93,RioBike,Goiânia/GO,22,3.8
+166266,Pneu Kawasaki Honda XRE 300,Pneu,Kawasaki,Honda,XRE 300,2022-2022,158.53,Curitiba Motos,Rio de Janeiro/RJ,25,4.5
+513570,Guidão Suzuki Kawasaki Z400,Guidão,Suzuki,Kawasaki,Z400,2020-2022,225.12,Oficina do Zé,Curitiba/PR,16,4.9
+795558,Guidão Scud Kawasaki Versys 650,Guidão,Scud,Kawasaki,Versys 650,2023-2024,152.08,Garagem 2Rodas,Curitiba/PR,16,4.1
+848930,Filtro de Ar Suzuki Kawasaki Versys 650,Filtro de Ar,Suzuki,Kawasaki,Versys 650,2019-2025,58.85,Fort Motos,Goiânia/GO,22,4.0
+963383,Pastilha de Freio Yamaha Triumph Tiger 660,Pastilha de Freio,Yamaha,Triumph,Tiger 660,2018-2018,140.26,Curitiba Motos,Curitiba/PR,7,4.4
+635983,Disco de Freio Bosch Honda XRE 300,Disco de Freio,Bosch,Honda,XRE 300,2021-2022,174.29,MotoCenter SP,Campinas/SP,26,4.2
+441430,Pneu NGK Kawasaki Ninja 400,Pneu,NGK,Kawasaki,Ninja 400,2014-2025,65.07,Curitiba Motos,Campinas/SP,15,3.8
+182830,Coroa e Pinhão Magnetron BMW F 800 GS,Coroa e Pinhão,Magnetron,BMW,F 800 GS,2017-2017,130.59,Curitiba Motos,Porto Alegre/RS,22,3.8
+143095,Coroa e Pinhão Vedamotors Yamaha MT-07,Coroa e Pinhão,Vedamotors,Yamaha,MT-07,2009-2019,156.53,Oficina do Zé,Fortaleza/CE,8,4.4
+408064,Cabo de Acelerador Suzuki Yamaha MT-07,Cabo de Acelerador,Suzuki,Yamaha,MT-07,2011-2014,211.99,MotoMix BH,Curitiba/PR,14,4.4
+486866,Guidão RK Kawasaki Versys 650,Guidão,RK,Kawasaki,Versys 650,2012-2017,64.81,RioBike,Rio de Janeiro/RJ,30,4.2
+959077,Disco de Freio RK Honda XRE 300,Disco de Freio,RK,Honda,XRE 300,2021-2025,167.54,Curitiba Motos,Fortaleza/CE,9,5.0
+643392,Guidão Scud Yamaha MT-07,Guidão,Scud,Yamaha,MT-07,2008-2013,197.2,Maringá Racing,Porto Alegre/RS,0,4.7
+549145,Pastilha de Freio Bosch Yamaha MT-07,Pastilha de Freio,Bosch,Yamaha,MT-07,2010-2016,84.81,Curitiba Motos,Rio de Janeiro/RJ,9,4.2
+202329,Pneu Magnetron Yamaha Fazer 250,Pneu,Magnetron,Yamaha,Fazer 250,2013-2025,486.29,Fort Motos,Goiânia/GO,0,4.1
+125471,Amortecedor RK Yamaha MT-07,Amortecedor,RK,Yamaha,MT-07,2011-2018,477.31,Salvador Parts,Manaus/AM,0,4.4
+491965,Filtro de Ar Kawasaki BMW F 800 GS,Filtro de Ar,Kawasaki,BMW,F 800 GS,2022-2025,162.65,Garagem 2Rodas,Salvador/BA,9,4.1
+349353,Pneu Suzuki Kawasaki Versys 650,Pneu,Suzuki,Kawasaki,Versys 650,2018-2022,240.15,Fort Motos,Fortaleza/CE,12,4.2
+821571,Escape Magnetron Kawasaki Z400,Escape,Magnetron,Kawasaki,Z400,2009-2023,44.36,Maringá Racing,Porto Alegre/RS,0,4.5
+986681,Guidão Honda Kawasaki Ninja 400,Guidão,Honda,Kawasaki,Ninja 400,2010-2022,356.69,Oficina do Zé,Rio de Janeiro/RJ,9,4.4
+512301,Cabo de Acelerador RK Kawasaki Ninja 400,Cabo de Acelerador,RK,Kawasaki,Ninja 400,2014-2025,293.09,Garagem 2Rodas,Curitiba/PR,18,4.1
+452922,Cabo de Acelerador Magnetron Honda XRE 300,Cabo de Acelerador,Magnetron,Honda,XRE 300,2019-2019,95.54,Oficina do Zé,São Paulo/SP,6,5.0
+364721,Guidão Bosch Honda CG 160,Guidão,Bosch,Honda,CG 160,2016-2022,66.96,Salvador Parts,São Paulo/SP,15,3.9
+190056,Lâmpada Honda Yamaha Fazer 250,Lâmpada,Honda,Yamaha,Fazer 250,2012-2013,136.08,RioBike,Porto Alegre/RS,0,4.6
+451960,Amortecedor Vedamotors Yamaha MT-07,Amortecedor,Vedamotors,Yamaha,MT-07,2008-2008,140.24,Oficina do Zé,São Paulo/SP,17,3.7
+474167,Pastilha de Freio Kawasaki Yamaha Fazer 250,Pastilha de Freio,Kawasaki,Yamaha,Fazer 250,2012-2023,194.47,MotoCenter SP,Goiânia/GO,18,4.7
+628676,Pneu Honda Kawasaki Versys 650,Pneu,Honda,Kawasaki,Versys 650,2010-2023,148.64,MotoMix BH,Belo Horizonte/MG,24,4.1
+480566,Escape Yamaha Suzuki GSX-S750,Escape,Yamaha,Suzuki,GSX-S750,2011-2016,196.12,Maringá Racing,Fortaleza/CE,23,4.8
+769826,Coroa e Pinhão Scud BMW F 800 GS,Coroa e Pinhão,Scud,BMW,F 800 GS,2021-2024,196.98,Curitiba Motos,Goiânia/GO,26,4.0
+237346,Coroa e Pinhão Kawasaki Suzuki GSX-S750,Coroa e Pinhão,Kawasaki,Suzuki,GSX-S750,2008-2008,169.85,Oficina do Zé,Goiânia/GO,25,4.5
+744394,Disco de Freio Suzuki Kawasaki Z400,Disco de Freio,Suzuki,Kawasaki,Z400,2012-2024,208.69,Oficina do Zé,Curitiba/PR,0,4.4
+436631,Pastilha de Freio Motul Yamaha MT-07,Pastilha de Freio,Motul,Yamaha,MT-07,2014-2024,139.22,Oficina do Zé,Rio de Janeiro/RJ,10,3.9
+707360,Cabo de Acelerador Honda Yamaha MT-07,Cabo de Acelerador,Honda,Yamaha,MT-07,2009-2015,215.25,RioBike,São Paulo/SP,24,3.8
+119519,Disco de Freio RK Kawasaki Z400,Disco de Freio,RK,Kawasaki,Z400,2016-2023,120.84,MotoCenter SP,Rio de Janeiro/RJ,11,4.3
+136771,Guidão Motul BMW F 800 GS,Guidão,Motul,BMW,F 800 GS,2014-2017,241.61,MotoCenter SP,Manaus/AM,26,4.9
+237602,Escape Bosch Yamaha Fazer 250,Escape,Bosch,Yamaha,Fazer 250,2013-2013,107.47,MotoMix BH,Campinas/SP,0,4.0
+478131,Disco de Freio Magnetron Kawasaki Z400,Disco de Freio,Magnetron,Kawasaki,Z400,2021-2021,169.45,Salvador Parts,Manaus/AM,28,4.0
+957275,Cabo de Acelerador Scud Yamaha MT-07,Cabo de Acelerador,Scud,Yamaha,MT-07,2010-2022,348.48,Oficina do Zé,Curitiba/PR,23,4.8
+116136,Escape Yamaha Kawasaki Z400,Escape,Yamaha,Kawasaki,Z400,2015-2016,151.48,RioBike,Fortaleza/CE,18,3.9
+788389,Guidão NGK Kawasaki Z400,Guidão,NGK,Kawasaki,Z400,2018-2020,95.43,RioBike,Rio de Janeiro/RJ,17,3.4
+497832,Pastilha de Freio NGK Kawasaki Ninja 400,Pastilha de Freio,NGK,Kawasaki,Ninja 400,2020-2024,111.65,Salvador Parts,Campinas/SP,20,4.0
+418351,Coroa e Pinhão Yamaha Honda XRE 300,Coroa e Pinhão,Yamaha,Honda,XRE 300,2009-2012,127.06,Fort Motos,Goiânia/GO,18,4.0
+195908,Coroa e Pinhão Magnetron Honda XRE 300,Coroa e Pinhão,Magnetron,Honda,XRE 300,2021-2022,136.07,Garagem 2Rodas,Porto Alegre/RS,19,5.0
+625604,Filtro de Ar Suzuki Kawasaki Ninja 400,Filtro de Ar,Suzuki,Kawasaki,Ninja 400,2021-2022,149.89,RioBike,São Paulo/SP,13,4.3
+976006,Coroa e Pinhão Magnetron Kawasaki Versys 650,Coroa e Pinhão,Magnetron,Kawasaki,Versys 650,2010-2020,104.19,RioBike,Rio de Janeiro/RJ,16,4.4
+483078,Coroa e Pinhão Scud Kawasaki Versys 650,Coroa e Pinhão,Scud,Kawasaki,Versys 650,2010-2024,114.9,Maringá Racing,Goiânia/GO,13,4.2
+563076,Escape Magnetron Kawasaki Versys 650,Escape,Magnetron,Kawasaki,Versys 650,2018-2021,64.03,RioBike,Rio de Janeiro/RJ,3,4.6
+397056,Coroa e Pinhão Motul Kawasaki Z400,Coroa e Pinhão,Motul,Kawasaki,Z400,2013-2021,349.28,Garagem 2Rodas,Rio de Janeiro/RJ,0,4.2
+223902,Disco de Freio Kawasaki BMW F 800 GS,Disco de Freio,Kawasaki,BMW,F 800 GS,2015-2025,240.68,Oficina do Zé,Porto Alegre/RS,16,4.3
+631886,Filtro de Ar Bosch Triumph Tiger 660,Filtro de Ar,Bosch,Triumph,Tiger 660,2021-2023,83.1,Curitiba Motos,Fortaleza/CE,28,4.7
+846855,Guidão Kawasaki BMW F 800 GS,Guidão,Kawasaki,BMW,F 800 GS,2020-2023,73.13,Curitiba Motos,Belo Horizonte/MG,3,4.6
+130703,Filtro de Ar Kawasaki Yamaha MT-07,Filtro de Ar,Kawasaki,Yamaha,MT-07,2021-2023,80.9,MotoCenter SP,São Paulo/SP,18,3.7
+540975,Pneu NGK Kawasaki Versys 650,Pneu,NGK,Kawasaki,Versys 650,2019-2023,151.23,Curitiba Motos,Rio de Janeiro/RJ,19,4.0
+809308,Coroa e Pinhão Honda Honda CG 160,Coroa e Pinhão,Honda,Honda,CG 160,2013-2019,397.19,RioBike,Rio de Janeiro/RJ,20,4.7
+567516,Amortecedor Yamaha BMW F 800 GS,Amortecedor,Yamaha,BMW,F 800 GS,2021-2023,75.65,MotoCenter SP,Belo Horizonte/MG,8,3.8
+149515,Pneu Yamaha Yamaha MT-07,Pneu,Yamaha,Yamaha,MT-07,2019-2019,190.68,MotoCenter SP,Manaus/AM,6,4.5
+757032,Disco de Freio Kawasaki Honda CB 650R,Disco de Freio,Kawasaki,Honda,CB 650R,2011-2018,134.54,Salvador Parts,Goiânia/GO,8,4.1
+629045,Cabo de Acelerador Scud Honda CB 650R,Cabo de Acelerador,Scud,Honda,CB 650R,2017-2019,213.46,Salvador Parts,Campinas/SP,16,4.9
+402768,Disco de Freio Yamaha BMW F 800 GS,Disco de Freio,Yamaha,BMW,F 800 GS,2012-2015,81.74,RioBike,Rio de Janeiro/RJ,17,4.8
+191505,Disco de Freio Yamaha Honda CG 160,Disco de Freio,Yamaha,Honda,CG 160,2012-2013,304.83,Salvador Parts,Porto Alegre/RS,12,4.6
+968249,Guidão Motul Yamaha MT-07,Guidão,Motul,Yamaha,MT-07,2008-2012,197.42,Curitiba Motos,Manaus/AM,33,4.2
+183216,Lâmpada Scud Honda CB 650R,Lâmpada,Scud,Honda,CB 650R,2013-2018,153.43,MotoMix BH,Belo Horizonte/MG,12,4.0
+409806,Guidão Kawasaki Triumph Tiger 660,Guidão,Kawasaki,Triumph,Tiger 660,2010-2013,230.73,MotoMix BH,Rio de Janeiro/RJ,5,4.5
+945643,Disco de Freio Motul BMW F 800 GS,Disco de Freio,Motul,BMW,F 800 GS,2020-2020,107.15,RioBike,Goiânia/GO,8,4.6
+959553,Pastilha de Freio Suzuki BMW F 800 GS,Pastilha de Freio,Suzuki,BMW,F 800 GS,2020-2020,238.84,MotoMix BH,Campinas/SP,8,4.3
+149711,Cabo de Acelerador Bosch Kawasaki Z400,Cabo de Acelerador,Bosch,Kawasaki,Z400,2019-2023,155.6,Oficina do Zé,São Paulo/SP,25,4.5
+344921,Coroa e Pinhão Yamaha BMW F 800 GS,Coroa e Pinhão,Yamaha,BMW,F 800 GS,2022-2023,205.92,Maringá Racing,Manaus/AM,23,3.7
+634055,Disco de Freio Magnetron Honda CB 650R,Disco de Freio,Magnetron,Honda,CB 650R,2015-2022,428.86,MotoMix BH,Manaus/AM,16,4.3
+207054,Pastilha de Freio Motul Kawasaki Ninja 400,Pastilha de Freio,Motul,Kawasaki,Ninja 400,2019-2020,65.58,Curitiba Motos,Campinas/SP,0,3.8
+665122,Pastilha de Freio Scud BMW F 800 GS,Pastilha de Freio,Scud,BMW,F 800 GS,2008-2016,125.56,RioBike,Porto Alegre/RS,25,4.8
+702326,Coroa e Pinhão Vedamotors Honda CB 650R,Coroa e Pinhão,Vedamotors,Honda,CB 650R,2017-2025,145.41,Fort Motos,Salvador/BA,0,4.1
+128574,Guidão Bosch Honda CG 160,Guidão,Bosch,Honda,CG 160,2009-2022,234.99,Maringá Racing,Fortaleza/CE,31,4.7
+587958,Pneu Motul Triumph Tiger 660,Pneu,Motul,Triumph,Tiger 660,2012-2021,321.49,Fort Motos,Salvador/BA,10,4.2
+191433,Pneu Yamaha Honda CG 160,Pneu,Yamaha,Honda,CG 160,2018-2025,106.81,Salvador Parts,Porto Alegre/RS,6,4.2
+648457,Guidão Scud Honda XRE 300,Guidão,Scud,Honda,XRE 300,2011-2024,124.7,MotoMix BH,Belo Horizonte/MG,19,4.4
+114078,Amortecedor NGK BMW F 800 GS,Amortecedor,NGK,BMW,F 800 GS,2019-2025,300.53,Garagem 2Rodas,Porto Alegre/RS,9,4.6
+969238,Filtro de Ar Suzuki Honda CB 650R,Filtro de Ar,Suzuki,Honda,CB 650R,2010-2025,168.57,Curitiba Motos,Belo Horizonte/MG,30,4.7
+564126,Pneu Honda Honda CG 160,Pneu,Honda,Honda,CG 160,2010-2012,203.92,Maringá Racing,Fortaleza/CE,18,4.7
+251546,Coroa e Pinhão Magnetron Yamaha Fazer 250,Coroa e Pinhão,Magnetron,Yamaha,Fazer 250,2014-2023,118.03,Maringá Racing,São Paulo/SP,18,3.7
+516241,Cabo de Acelerador RK Kawasaki Ninja 400,Cabo de Acelerador,RK,Kawasaki,Ninja 400,2008-2025,113.76,MotoMix BH,São Paulo/SP,33,5.0
+729023,Guidão Suzuki Honda CB 650R,Guidão,Suzuki,Honda,CB 650R,2010-2025,307.2,Fort Motos,Fortaleza/CE,21,4.3
+280672,Pastilha de Freio Motul Kawasaki Versys 650,Pastilha de Freio,Motul,Kawasaki,Versys 650,2012-2017,470.68,MotoMix BH,Fortaleza/CE,14,4.0
+802064,Disco de Freio Honda Kawasaki Ninja 400,Disco de Freio,Honda,Kawasaki,Ninja 400,2016-2016,148.94,MotoCenter SP,São Paulo/SP,4,4.1
+657072,Pastilha de Freio Vedamotors Triumph Tiger 660,Pastilha de Freio,Vedamotors,Triumph,Tiger 660,2020-2020,175.32,MotoCenter SP,Rio de Janeiro/RJ,20,3.6
+761652,Coroa e Pinhão Kawasaki Honda CG 160,Coroa e Pinhão,Kawasaki,Honda,CG 160,2014-2022,109.69,Fort Motos,Porto Alegre/RS,7,4.6
+562807,Disco de Freio Vedamotors Triumph Tiger 660,Disco de Freio,Vedamotors,Triumph,Tiger 660,2020-2022,173.4,Oficina do Zé,Curitiba/PR,12,4.0
+910532,Cabo de Acelerador Scud Kawasaki Ninja 400,Cabo de Acelerador,Scud,Kawasaki,Ninja 400,2013-2015,113.24,MotoCenter SP,São Paulo/SP,5,4.3
+243263,Guidão Suzuki Honda XRE 300,Guidão,Suzuki,Honda,XRE 300,2011-2021,164.39,Garagem 2Rodas,Goiânia/GO,30,3.9
+129020,Filtro de Ar Scud Yamaha Fazer 250,Filtro de Ar,Scud,Yamaha,Fazer 250,2010-2016,213.05,Curitiba Motos,Manaus/AM,24,3.1
+678965,Escape RK Honda XRE 300,Escape,RK,Honda,XRE 300,2012-2023,107.61,Garagem 2Rodas,Porto Alegre/RS,18,4.5
+819329,Filtro de Ar Vedamotors Yamaha MT-07,Filtro de Ar,Vedamotors,Yamaha,MT-07,2018-2019,106.77,MotoCenter SP,Campinas/SP,29,4.4
+319799,Coroa e Pinhão Honda Suzuki GSX-S750,Coroa e Pinhão,Honda,Suzuki,GSX-S750,2014-2024,77.37,MotoMix BH,Salvador/BA,9,4.2
+981875,Cabo de Acelerador RK Yamaha Fazer 250,Cabo de Acelerador,RK,Yamaha,Fazer 250,2023-2025,418.87,RioBike,Goiânia/GO,8,4.1
+538142,Escape Bosch Yamaha Fazer 250,Escape,Bosch,Yamaha,Fazer 250,2009-2018,211.35,RioBike,Fortaleza/CE,36,4.0
+271640,Disco de Freio NGK BMW F 800 GS,Disco de Freio,NGK,BMW,F 800 GS,2020-2025,170.91,Curitiba Motos,Fortaleza/CE,11,4.1
+436843,Lâmpada Motul Triumph Tiger 660,Lâmpada,Motul,Triumph,Tiger 660,2018-2020,232.32,RioBike,Curitiba/PR,10,4.5
+145220,Disco de Freio Bosch Kawasaki Versys 650,Disco de Freio,Bosch,Kawasaki,Versys 650,2014-2020,111.12,Salvador Parts,Fortaleza/CE,19,4.5
+780800,Coroa e Pinhão Motul Honda CG 160,Coroa e Pinhão,Motul,Honda,CG 160,2011-2024,230.5,RioBike,São Paulo/SP,7,4.5
+162811,Cabo de Acelerador Yamaha Honda CB 650R,Cabo de Acelerador,Yamaha,Honda,CB 650R,2021-2025,72.4,MotoCenter SP,Curitiba/PR,6,3.8
+433528,Pastilha de Freio Motul Kawasaki Z400,Pastilha de Freio,Motul,Kawasaki,Z400,2019-2019,75.82,Curitiba Motos,Goiânia/GO,6,4.3
+869010,Pneu NGK BMW F 800 GS,Pneu,NGK,BMW,F 800 GS,2008-2010,171.77,Salvador Parts,Salvador/BA,2,4.3
+226228,Guidão Bosch Honda XRE 300,Guidão,Bosch,Honda,XRE 300,2009-2025,169.46,Curitiba Motos,Rio de Janeiro/RJ,5,4.3
+140703,Escape Vedamotors BMW F 800 GS,Escape,Vedamotors,BMW,F 800 GS,2011-2016,89.58,Curitiba Motos,São Paulo/SP,17,4.7
+305222,Pastilha de Freio Magnetron Kawasaki Ninja 400,Pastilha de Freio,Magnetron,Kawasaki,Ninja 400,2019-2023,54.81,Fort Motos,Curitiba/PR,20,3.7
+582574,Cabo de Acelerador NGK Suzuki GSX-S750,Cabo de Acelerador,NGK,Suzuki,GSX-S750,2011-2014,316.97,MotoMix BH,Campinas/SP,16,3.2
+122249,Guidão RK BMW F 800 GS,Guidão,RK,BMW,F 800 GS,2014-2025,105.8,Curitiba Motos,Goiânia/GO,18,3.4
+954320,Cabo de Acelerador Bosch Yamaha MT-07,Cabo de Acelerador,Bosch,Yamaha,MT-07,2008-2018,125.23,Salvador Parts,Salvador/BA,7,4.7
+727233,Lâmpada Yamaha Suzuki GSX-S750,Lâmpada,Yamaha,Suzuki,GSX-S750,2008-2011,46.88,Fort Motos,Porto Alegre/RS,14,4.1
+467946,Amortecedor RK Honda CG 160,Amortecedor,RK,Honda,CG 160,2016-2020,241.4,MotoCenter SP,Salvador/BA,11,4.6
+951306,Amortecedor Yamaha Honda XRE 300,Amortecedor,Yamaha,Honda,XRE 300,2021-2022,83.91,Garagem 2Rodas,São Paulo/SP,6,4.1
+394175,Cabo de Acelerador Magnetron Kawasaki Z400,Cabo de Acelerador,Magnetron,Kawasaki,Z400,2008-2011,90.45,MotoCenter SP,Curitiba/PR,15,4.9
+483812,Lâmpada NGK BMW F 800 GS,Lâmpada,NGK,BMW,F 800 GS,2012-2017,102.68,MotoMix BH,São Paulo/SP,9,4.8
+986787,Coroa e Pinhão Bosch Suzuki GSX-S750,Coroa e Pinhão,Bosch,Suzuki,GSX-S750,2013-2014,90.98,Curitiba Motos,Manaus/AM,13,4.0
+498594,Pastilha de Freio Kawasaki Yamaha MT-07,Pastilha de Freio,Kawasaki,Yamaha,MT-07,2019-2025,153.82,Curitiba Motos,Fortaleza/CE,20,4.1
+631573,Disco de Freio Suzuki BMW F 800 GS,Disco de Freio,Suzuki,BMW,F 800 GS,2021-2025,136.8,Garagem 2Rodas,Goiânia/GO,22,3.9
+618606,Pastilha de Freio Honda Honda XRE 300,Pastilha de Freio,Honda,Honda,XRE 300,2019-2025,246.42,Maringá Racing,Porto Alegre/RS,29,4.2
+763855,Pastilha de Freio Vedamotors Kawasaki Versys 650,Pastilha de Freio,Vedamotors,Kawasaki,Versys 650,2011-2016,132.63,Curitiba Motos,Curitiba/PR,14,3.8
+155281,Amortecedor RK Suzuki GSX-S750,Amortecedor,RK,Suzuki,GSX-S750,2017-2021,210.69,RioBike,Campinas/SP,16,4.4
+886270,Coroa e Pinhão Vedamotors Suzuki GSX-S750,Coroa e Pinhão,Vedamotors,Suzuki,GSX-S750,2011-2014,295.45,Curitiba Motos,Rio de Janeiro/RJ,11,4.1
+830001,Filtro de Ar Scud BMW F 800 GS,Filtro de Ar,Scud,BMW,F 800 GS,2017-2023,84.15,Salvador Parts,Goiânia/GO,18,4.0
+677654,Pastilha de Freio NGK Honda XRE 300,Pastilha de Freio,NGK,Honda,XRE 300,2010-2014,299.75,Salvador Parts,Curitiba/PR,10,4.9
+762744,Escape Bosch Kawasaki Ninja 400,Escape,Bosch,Kawasaki,Ninja 400,2013-2016,208.28,Fort Motos,Belo Horizonte/MG,6,4.6
+796419,Pneu Yamaha Kawasaki Versys 650,Pneu,Yamaha,Kawasaki,Versys 650,2013-2013,212.28,Maringá Racing,Porto Alegre/RS,4,4.1
+389369,Cabo de Acelerador NGK Yamaha Fazer 250,Cabo de Acelerador,NGK,Yamaha,Fazer 250,2019-2024,135.9,Oficina do Zé,Campinas/SP,21,4.6
+941553,Lâmpada Motul Honda CG 160,Lâmpada,Motul,Honda,CG 160,2017-2019,137.16,MotoMix BH,Salvador/BA,19,4.2
+781511,Filtro de Ar Kawasaki Honda CG 160,Filtro de Ar,Kawasaki,Honda,CG 160,2015-2021,151.13,Maringá Racing,Rio de Janeiro/RJ,10,4.3
+978518,Coroa e Pinhão Kawasaki Kawasaki Z400,Coroa e Pinhão,Kawasaki,Kawasaki,Z400,2016-2019,154.12,MotoCenter SP,São Paulo/SP,9,4.5
+831244,Guidão Yamaha BMW F 800 GS,Guidão,Yamaha,BMW,F 800 GS,2023-2023,152.7,MotoCenter SP,Belo Horizonte/MG,22,4.7
+567828,Amortecedor Yamaha Yamaha Fazer 250,Amortecedor,Yamaha,Yamaha,Fazer 250,2015-2022,105.59,MotoCenter SP,Belo Horizonte/MG,9,4.5
+649118,Amortecedor NGK Honda XRE 300,Amortecedor,NGK,Honda,XRE 300,2017-2025,148.02,RioBike,Rio de Janeiro/RJ,0,3.6
+603553,Amortecedor Vedamotors Kawasaki Z400,Amortecedor,Vedamotors,Kawasaki,Z400,2020-2023,123.8,Maringá Racing,Goiânia/GO,7,4.1
+539961,Escape Bosch Honda CB 650R,Escape,Bosch,Honda,CB 650R,2015-2021,112.96,Garagem 2Rodas,Porto Alegre/RS,34,3.4
+172779,Cabo de Acelerador Motul BMW F 800 GS,Cabo de Acelerador,Motul,BMW,F 800 GS,2010-2022,133.38,Curitiba Motos,Rio de Janeiro/RJ,10,4.0
+389585,Lâmpada Yamaha Triumph Tiger 660,Lâmpada,Yamaha,Triumph,Tiger 660,2019-2020,242.08,Maringá Racing,Belo Horizonte/MG,9,3.8
+251678,Lâmpada Suzuki Suzuki GSX-S750,Lâmpada,Suzuki,Suzuki,GSX-S750,2013-2016,203.57,Oficina do Zé,Salvador/BA,17,4.5
+215869,Pastilha de Freio Suzuki Kawasaki Versys 650,Pastilha de Freio,Suzuki,Kawasaki,Versys 650,2016-2024,133.62,Garagem 2Rodas,Fortaleza/CE,1,3.7
+128411,Lâmpada NGK Honda CG 160,Lâmpada,NGK,Honda,CG 160,2012-2020,157.28,MotoMix BH,Rio de Janeiro/RJ,28,4.3
+318898,Coroa e Pinhão Kawasaki Kawasaki Ninja 400,Coroa e Pinhão,Kawasaki,Kawasaki,Ninja 400,2011-2022,127.97,MotoMix BH,Fortaleza/CE,0,4.0
+211668,Coroa e Pinhão Magnetron BMW F 800 GS,Coroa e Pinhão,Magnetron,BMW,F 800 GS,2010-2011,105.45,Maringá Racing,Belo Horizonte/MG,1,4.2
+657810,Pneu Scud Suzuki GSX-S750,Pneu,Scud,Suzuki,GSX-S750,2018-2025,148.01,Oficina do Zé,Salvador/BA,36,4.0
+574774,Disco de Freio Bosch BMW F 800 GS,Disco de Freio,Bosch,BMW,F 800 GS,2009-2015,108.95,Salvador Parts,Goiânia/GO,0,4.5
+428766,Guidão Motul Honda XRE 300,Guidão,Motul,Honda,XRE 300,2020-2025,97.38,Garagem 2Rodas,Manaus/AM,17,3.9
+157676,Filtro de Ar Suzuki Kawasaki Ninja 400,Filtro de Ar,Suzuki,Kawasaki,Ninja 400,2014-2025,281.86,RioBike,Campinas/SP,16,4.1
+163583,Guidão RK Yamaha Fazer 250,Guidão,RK,Yamaha,Fazer 250,2018-2018,120.36,Garagem 2Rodas,Manaus/AM,0,4.5
+646218,Guidão Magnetron Honda CB 650R,Guidão,Magnetron,Honda,CB 650R,2014-2022,172.27,Salvador Parts,Belo Horizonte/MG,0,4.6
+948526,Disco de Freio Scud Yamaha MT-07,Disco de Freio,Scud,Yamaha,MT-07,2015-2020,70.97,Garagem 2Rodas,Belo Horizonte/MG,12,3.6
+648810,Filtro de Ar Suzuki Kawasaki Z400,Filtro de Ar,Suzuki,Kawasaki,Z400,2018-2024,129.18,Curitiba Motos,São Paulo/SP,31,4.1
+778605,Filtro de Ar Honda BMW F 800 GS,Filtro de Ar,Honda,BMW,F 800 GS,2021-2021,176.94,Curitiba Motos,Curitiba/PR,0,4.3
+532283,Pneu Suzuki Suzuki GSX-S750,Pneu,Suzuki,Suzuki,GSX-S750,2016-2016,330.38,Oficina do Zé,São Paulo/SP,22,4.9
+608474,Escape Scud Kawasaki Ninja 400,Escape,Scud,Kawasaki,Ninja 400,2021-2025,167.48,Oficina do Zé,Salvador/BA,0,4.5
+667882,Disco de Freio Honda Yamaha MT-07,Disco de Freio,Honda,Yamaha,MT-07,2013-2014,224.14,Garagem 2Rodas,Belo Horizonte/MG,9,3.8
+690784,Coroa e Pinhão NGK Suzuki GSX-S750,Coroa e Pinhão,NGK,Suzuki,GSX-S750,2016-2024,123.47,Salvador Parts,Curitiba/PR,16,4.9
+286131,Guidão Magnetron Kawasaki Versys 650,Guidão,Magnetron,Kawasaki,Versys 650,2018-2024,68.97,MotoCenter SP,Manaus/AM,10,3.9
+130111,Disco de Freio RK Kawasaki Versys 650,Disco de Freio,RK,Kawasaki,Versys 650,2012-2016,206.19,MotoCenter SP,Fortaleza/CE,23,3.8
+441152,Pastilha de Freio Vedamotors Kawasaki Versys 650,Pastilha de Freio,Vedamotors,Kawasaki,Versys 650,2022-2024,184.79,MotoMix BH,Campinas/SP,10,4.0
+943485,Disco de Freio Bosch Yamaha Fazer 250,Disco de Freio,Bosch,Yamaha,Fazer 250,2015-2020,89.76,RioBike,Campinas/SP,2,4.7
+159834,Coroa e Pinhão RK Kawasaki Versys 650,Coroa e Pinhão,RK,Kawasaki,Versys 650,2010-2020,118.69,Garagem 2Rodas,Goiânia/GO,12,4.5
+667224,Escape Magnetron Triumph Tiger 660,Escape,Magnetron,Triumph,Tiger 660,2012-2017,255.46,Salvador Parts,Curitiba/PR,12,4.6
+365475,Cabo de Acelerador Honda Kawasaki Versys 650,Cabo de Acelerador,Honda,Kawasaki,Versys 650,2015-2017,145.87,Curitiba Motos,Fortaleza/CE,17,4.4
+651147,Amortecedor Suzuki Triumph Tiger 660,Amortecedor,Suzuki,Triumph,Tiger 660,2009-2021,116.4,MotoCenter SP,Salvador/BA,8,4.7
+977519,Coroa e Pinhão Honda Honda CB 650R,Coroa e Pinhão,Honda,Honda,CB 650R,2009-2021,101.02,Curitiba Motos,Rio de Janeiro/RJ,10,4.6
+549183,Guidão Kawasaki Kawasaki Ninja 400,Guidão,Kawasaki,Kawasaki,Ninja 400,2012-2018,216.94,Oficina do Zé,São Paulo/SP,10,4.7
+974007,Pastilha de Freio RK Yamaha Fazer 250,Pastilha de Freio,RK,Yamaha,Fazer 250,2010-2018,62.42,Fort Motos,Belo Horizonte/MG,26,4.0
+607015,Cabo de Acelerador Yamaha Kawasaki Versys 650,Cabo de Acelerador,Yamaha,Kawasaki,Versys 650,2010-2018,146.24,Maringá Racing,Curitiba/PR,17,3.5
+571689,Pastilha de Freio Scud Yamaha MT-07,Pastilha de Freio,Scud,Yamaha,MT-07,2020-2020,250.88,MotoCenter SP,Curitiba/PR,15,3.4
+595129,Pastilha de Freio NGK BMW F 800 GS,Pastilha de Freio,NGK,BMW,F 800 GS,2014-2016,76.4,MotoCenter SP,Fortaleza/CE,22,4.4
+641778,Disco de Freio RK Yamaha MT-07,Disco de Freio,RK,Yamaha,MT-07,2013-2016,260.73,Garagem 2Rodas,Curitiba/PR,31,4.5
+704229,Coroa e Pinhão Honda Triumph Tiger 660,Coroa e Pinhão,Honda,Triumph,Tiger 660,2018-2021,62.29,MotoCenter SP,Rio de Janeiro/RJ,12,4.4
+500862,Guidão Magnetron Kawasaki Z400,Guidão,Magnetron,Kawasaki,Z400,2011-2013,75.93,Fort Motos,Belo Horizonte/MG,28,3.9
+187720,Filtro de Ar Motul Kawasaki Versys 650,Filtro de Ar,Motul,Kawasaki,Versys 650,2008-2009,348.06,MotoCenter SP,Goiânia/GO,0,4.6
+232259,Pastilha de Freio Vedamotors Yamaha Fazer 250,Pastilha de Freio,Vedamotors,Yamaha,Fazer 250,2020-2022,165.74,RioBike,Fortaleza/CE,18,4.4
+885933,Guidão Vedamotors Kawasaki Z400,Guidão,Vedamotors,Kawasaki,Z400,2010-2023,134.52,Salvador Parts,Manaus/AM,16,4.9
+292731,Lâmpada Vedamotors BMW F 800 GS,Lâmpada,Vedamotors,BMW,F 800 GS,2020-2024,170.71,Oficina do Zé,Manaus/AM,15,4.2
+629911,Amortecedor Magnetron BMW F 800 GS,Amortecedor,Magnetron,BMW,F 800 GS,2008-2018,264.05,MotoCenter SP,Manaus/AM,18,4.1
+139441,Lâmpada Kawasaki Yamaha MT-07,Lâmpada,Kawasaki,Yamaha,MT-07,2013-2016,213.94,Oficina do Zé,Porto Alegre/RS,19,4.5
+456033,Amortecedor NGK Kawasaki Versys 650,Amortecedor,NGK,Kawasaki,Versys 650,2020-2022,133.23,MotoCenter SP,Manaus/AM,15,4.4
+610355,Coroa e Pinhão Vedamotors Kawasaki Versys 650,Coroa e Pinhão,Vedamotors,Kawasaki,Versys 650,2020-2023,81.63,RioBike,Goiânia/GO,9,4.3
+561203,Lâmpada Motul Honda CB 650R,Lâmpada,Motul,Honda,CB 650R,2020-2023,153.71,Garagem 2Rodas,Goiânia/GO,20,3.5
+744108,Coroa e Pinhão Suzuki Kawasaki Ninja 400,Coroa e Pinhão,Suzuki,Kawasaki,Ninja 400,2013-2024,190.31,Curitiba Motos,Fortaleza/CE,12,4.0
+601246,Lâmpada RK Triumph Tiger 660,Lâmpada,RK,Triumph,Tiger 660,2012-2014,108.37,Curitiba Motos,Goiânia/GO,16,4.2
+674226,Cabo de Acelerador Vedamotors Honda XRE 300,Cabo de Acelerador,Vedamotors,Honda,XRE 300,2012-2024,217.08,Maringá Racing,São Paulo/SP,23,4.3
+818268,Disco de Freio NGK Honda CB 650R,Disco de Freio,NGK,Honda,CB 650R,2019-2022,151.76,MotoCenter SP,São Paulo/SP,28,3.9
+683203,Filtro de Ar Bosch Honda CG 160,Filtro de Ar,Bosch,Honda,CG 160,2021-2023,101.28,MotoCenter SP,Belo Horizonte/MG,12,4.7
+355404,Filtro de Ar Bosch Kawasaki Versys 650,Filtro de Ar,Bosch,Kawasaki,Versys 650,2018-2021,443.78,Salvador Parts,São Paulo/SP,27,4.7
+696088,Pastilha de Freio RK Kawasaki Z400,Pastilha de Freio,RK,Kawasaki,Z400,2008-2024,211.61,Salvador Parts,Salvador/BA,4,4.6
+132188,Guidão Scud Yamaha MT-07,Guidão,Scud,Yamaha,MT-07,2020-2021,96.22,Oficina do Zé,Curitiba/PR,21,4.5
+994154,Escape Magnetron BMW F 800 GS,Escape,Magnetron,BMW,F 800 GS,2015-2020,243.22,MotoCenter SP,Belo Horizonte/MG,9,4.4
+921917,Pneu Yamaha BMW F 800 GS,Pneu,Yamaha,BMW,F 800 GS,2020-2025,142.53,RioBike,Fortaleza/CE,18,4.4
+208705,Disco de Freio Kawasaki Kawasaki Versys 650,Disco de Freio,Kawasaki,Kawasaki,Versys 650,2023-2023,388.07,Salvador Parts,Rio de Janeiro/RJ,4,4.4
+306937,Escape RK Kawasaki Ninja 400,Escape,RK,Kawasaki,Ninja 400,2018-2025,170.29,Salvador Parts,Rio de Janeiro/RJ,0,4.5
+459456,Cabo de Acelerador Scud Honda XRE 300,Cabo de Acelerador,Scud,Honda,XRE 300,2011-2016,191.98,Salvador Parts,Rio de Janeiro/RJ,15,4.6
+374526,Pastilha de Freio Motul Suzuki GSX-S750,Pastilha de Freio,Motul,Suzuki,GSX-S750,2019-2020,230.24,Maringá Racing,Porto Alegre/RS,10,3.9
+808781,Guidão Yamaha Kawasaki Versys 650,Guidão,Yamaha,Kawasaki,Versys 650,2010-2015,123.44,RioBike,São Paulo/SP,28,4.3
+426505,Escape Magnetron Yamaha MT-07,Escape,Magnetron,Yamaha,MT-07,2010-2025,169.86,Oficina do Zé,Rio de Janeiro/RJ,27,3.9
+790846,Filtro de Ar Yamaha Kawasaki Versys 650,Filtro de Ar,Yamaha,Kawasaki,Versys 650,2019-2022,87.33,Maringá Racing,Campinas/SP,19,3.9
+267923,Pneu Motul Honda CG 160,Pneu,Motul,Honda,CG 160,2022-2024,126.94,MotoMix BH,Manaus/AM,17,4.7
+879461,Amortecedor Honda Kawasaki Versys 650,Amortecedor,Honda,Kawasaki,Versys 650,2010-2015,114.86,Garagem 2Rodas,Belo Horizonte/MG,29,4.4
+223294,Escape Kawasaki Suzuki GSX-S750,Escape,Kawasaki,Suzuki,GSX-S750,2018-2025,95.55,MotoMix BH,Belo Horizonte/MG,12,3.9
+646782,Guidão Honda Suzuki GSX-S750,Guidão,Honda,Suzuki,GSX-S750,2011-2015,100.05,Maringá Racing,Fortaleza/CE,0,3.8
+130820,Guidão Vedamotors Yamaha Fazer 250,Guidão,Vedamotors,Yamaha,Fazer 250,2023-2024,162.1,Fort Motos,Rio de Janeiro/RJ,26,4.9
+954777,Pastilha de Freio Bosch Kawasaki Versys 650,Pastilha de Freio,Bosch,Kawasaki,Versys 650,2022-2025,118.51,Salvador Parts,Curitiba/PR,0,4.0
+498791,Pneu Magnetron BMW F 800 GS,Pneu,Magnetron,BMW,F 800 GS,2022-2023,197.65,Garagem 2Rodas,Manaus/AM,9,4.4
+301642,Pneu Yamaha Kawasaki Versys 650,Pneu,Yamaha,Kawasaki,Versys 650,2012-2024,147.9,RioBike,Goiânia/GO,21,4.4
+924168,Filtro de Ar NGK Triumph Tiger 660,Filtro de Ar,NGK,Triumph,Tiger 660,2018-2024,80.89,MotoMix BH,Porto Alegre/RS,9,4.3
+318034,Pneu Bosch Yamaha MT-07,Pneu,Bosch,Yamaha,MT-07,2014-2019,82.02,Maringá Racing,Salvador/BA,0,4.2
+460356,Coroa e Pinhão Honda Kawasaki Versys 650,Coroa e Pinhão,Honda,Kawasaki,Versys 650,2017-2021,142.58,Curitiba Motos,Porto Alegre/RS,19,3.9
+479976,Escape Scud Honda XRE 300,Escape,Scud,Honda,XRE 300,2013-2016,145.79,RioBike,Manaus/AM,20,4.2
+358543,Lâmpada Motul Kawasaki Ninja 400,Lâmpada,Motul,Kawasaki,Ninja 400,2023-2023,64.25,Maringá Racing,Manaus/AM,10,3.5
+389419,Cabo de Acelerador RK Triumph Tiger 660,Cabo de Acelerador,RK,Triumph,Tiger 660,2015-2021,313.43,MotoMix BH,Goiânia/GO,15,4.4
+973985,Escape Scud Honda XRE 300,Escape,Scud,Honda,XRE 300,2023-2023,111.05,Maringá Racing,Salvador/BA,10,4.5
+271345,Escape Bosch Yamaha Fazer 250,Escape,Bosch,Yamaha,Fazer 250,2010-2024,130.45,MotoCenter SP,Curitiba/PR,11,4.4
+915132,Disco de Freio Vedamotors Suzuki GSX-S750,Disco de Freio,Vedamotors,Suzuki,GSX-S750,2013-2017,111.41,RioBike,Belo Horizonte/MG,0,4.2
+968670,Lâmpada Motul Yamaha Fazer 250,Lâmpada,Motul,Yamaha,Fazer 250,2017-2017,197.03,Fort Motos,Manaus/AM,16,4.3
+706754,Escape Yamaha Triumph Tiger 660,Escape,Yamaha,Triumph,Tiger 660,2014-2019,233.23,Salvador Parts,São Paulo/SP,13,4.5
+417866,Pneu Scud Yamaha MT-07,Pneu,Scud,Yamaha,MT-07,2016-2022,197.21,Maringá Racing,Goiânia/GO,16,4.3
+798909,Amortecedor Motul BMW F 800 GS,Amortecedor,Motul,BMW,F 800 GS,2012-2021,336.91,Fort Motos,Fortaleza/CE,0,5.0
+380856,Lâmpada Honda Kawasaki Ninja 400,Lâmpada,Honda,Kawasaki,Ninja 400,2019-2019,107.49,Maringá Racing,Campinas/SP,17,4.7
+776444,Cabo de Acelerador RK Honda CB 650R,Cabo de Acelerador,RK,Honda,CB 650R,2023-2024,164.84,Fort Motos,Curitiba/PR,8,4.6
+542734,Pneu Honda Kawasaki Versys 650,Pneu,Honda,Kawasaki,Versys 650,2010-2015,249.54,Garagem 2Rodas,Porto Alegre/RS,12,4.3
+560881,Pastilha de Freio NGK Yamaha Fazer 250,Pastilha de Freio,NGK,Yamaha,Fazer 250,2020-2024,161.24,Curitiba Motos,São Paulo/SP,23,4.4
+994321,Amortecedor Magnetron Yamaha MT-07,Amortecedor,Magnetron,Yamaha,MT-07,2021-2025,266.98,Salvador Parts,Curitiba/PR,9,4.4
+539499,Disco de Freio Motul Yamaha Fazer 250,Disco de Freio,Motul,Yamaha,Fazer 250,2012-2020,186.3,Oficina do Zé,Manaus/AM,12,4.2
+269899,Coroa e Pinhão NGK Kawasaki Ninja 400,Coroa e Pinhão,NGK,Kawasaki,Ninja 400,2011-2013,100.85,MotoMix BH,Manaus/AM,3,4.7
+115243,Pastilha de Freio NGK Suzuki GSX-S750,Pastilha de Freio,NGK,Suzuki,GSX-S750,2010-2021,250.81,Oficina do Zé,Belo Horizonte/MG,8,4.6
+477867,Pastilha de Freio RK Honda XRE 300,Pastilha de Freio,RK,Honda,XRE 300,2016-2025,172.69,MotoMix BH,Fortaleza/CE,17,4.8
+906283,Disco de Freio Honda Kawasaki Ninja 400,Disco de Freio,Honda,Kawasaki,Ninja 400,2014-2014,166.13,MotoMix BH,Curitiba/PR,15,4.2
+673432,Disco de Freio Motul Kawasaki Ninja 400,Disco de Freio,Motul,Kawasaki,Ninja 400,2008-2012,133.83,Salvador Parts,Goiânia/GO,36,5.0
+845317,Filtro de Ar Suzuki Suzuki GSX-S750,Filtro de Ar,Suzuki,Suzuki,GSX-S750,2009-2016,155.94,Oficina do Zé,Manaus/AM,31,4.0
+629057,Coroa e Pinhão RK Yamaha Fazer 250,Coroa e Pinhão,RK,Yamaha,Fazer 250,2018-2024,190.69,Salvador Parts,Porto Alegre/RS,12,4.1
+456547,Pneu Honda Kawasaki Ninja 400,Pneu,Honda,Kawasaki,Ninja 400,2013-2020,113.91,RioBike,Curitiba/PR,36,4.3
+896129,Filtro de Ar Honda Kawasaki Z400,Filtro de Ar,Honda,Kawasaki,Z400,2022-2025,122.84,Garagem 2Rodas,Goiânia/GO,25,5.0
+113703,Cabo de Acelerador Kawasaki Honda XRE 300,Cabo de Acelerador,Kawasaki,Honda,XRE 300,2014-2016,258.06,MotoMix BH,Rio de Janeiro/RJ,12,4.2
+668954,Guidão Motul BMW F 800 GS,Guidão,Motul,BMW,F 800 GS,2009-2023,161.67,RioBike,Campinas/SP,0,3.9
+527360,Pneu Yamaha Suzuki GSX-S750,Pneu,Yamaha,Suzuki,GSX-S750,2010-2022,94.68,Fort Motos,Salvador/BA,6,3.8
+102938,Filtro de Ar Vedamotors Kawasaki Z400,Filtro de Ar,Vedamotors,Kawasaki,Z400,2009-2025,96.11,Salvador Parts,Belo Horizonte/MG,15,4.6
+300917,Cabo de Acelerador Motul Triumph Tiger 660,Cabo de Acelerador,Motul,Triumph,Tiger 660,2019-2019,109.57,MotoMix BH,Salvador/BA,3,4.8
+536875,Filtro de Ar Honda Honda XRE 300,Filtro de Ar,Honda,Honda,XRE 300,2011-2017,185.54,Fort Motos,Salvador/BA,9,3.9
+337865,Pastilha de Freio Vedamotors Honda CB 650R,Pastilha de Freio,Vedamotors,Honda,CB 650R,2023-2023,410.34,RioBike,Curitiba/PR,23,4.2
+898020,Pneu Motul Kawasaki Versys 650,Pneu,Motul,Kawasaki,Versys 650,2010-2023,222.89,Curitiba Motos,Manaus/AM,17,4.6
+190384,Escape Honda Kawasaki Z400,Escape,Honda,Kawasaki,Z400,2019-2024,314.68,MotoMix BH,Curitiba/PR,19,4.1
+702371,Cabo de Acelerador Vedamotors Honda CB 650R,Cabo de Acelerador,Vedamotors,Honda,CB 650R,2017-2019,149.99,Salvador Parts,São Paulo/SP,3,3.6
+806854,Amortecedor Honda Triumph Tiger 660,Amortecedor,Honda,Triumph,Tiger 660,2015-2023,77.92,Oficina do Zé,Porto Alegre/RS,19,4.4
+124217,Lâmpada Motul Suzuki GSX-S750,Lâmpada,Motul,Suzuki,GSX-S750,2014-2022,221.95,RioBike,Belo Horizonte/MG,19,3.9
+195931,Escape Vedamotors Yamaha Fazer 250,Escape,Vedamotors,Yamaha,Fazer 250,2023-2025,115.14,Garagem 2Rodas,Fortaleza/CE,19,4.2
+921657,Coroa e Pinhão Honda Kawasaki Z400,Coroa e Pinhão,Honda,Kawasaki,Z400,2015-2019,111.12,Salvador Parts,Porto Alegre/RS,10,4.6
+331970,Cabo de Acelerador Honda Triumph Tiger 660,Cabo de Acelerador,Honda,Triumph,Tiger 660,2012-2013,100.56,Maringá Racing,Salvador/BA,17,4.5
+135186,Disco de Freio Suzuki BMW F 800 GS,Disco de Freio,Suzuki,BMW,F 800 GS,2022-2022,109.76,Fort Motos,Campinas/SP,25,4.9
+791078,Guidão Yamaha Honda CG 160,Guidão,Yamaha,Honda,CG 160,2022-2023,86.26,Salvador Parts,Salvador/BA,19,4.8
+210540,Cabo de Acelerador Honda BMW F 800 GS,Cabo de Acelerador,Honda,BMW,F 800 GS,2023-2024,162.52,RioBike,Porto Alegre/RS,25,3.7
+812500,Cabo de Acelerador NGK Kawasaki Versys 650,Cabo de Acelerador,NGK,Kawasaki,Versys 650,2010-2024,220.37,Garagem 2Rodas,Goiânia/GO,0,4.7
+536235,Disco de Freio NGK Yamaha Fazer 250,Disco de Freio,NGK,Yamaha,Fazer 250,2012-2014,105.82,Maringá Racing,Belo Horizonte/MG,3,3.5
+690629,Coroa e Pinhão Motul Triumph Tiger 660,Coroa e Pinhão,Motul,Triumph,Tiger 660,2015-2020,86.4,Oficina do Zé,Goiânia/GO,22,3.7
+329000,Pastilha de Freio NGK Kawasaki Z400,Pastilha de Freio,NGK,Kawasaki,Z400,2008-2022,104.6,Garagem 2Rodas,Campinas/SP,14,3.5
+368038,Disco de Freio RK Kawasaki Z400,Disco de Freio,RK,Kawasaki,Z400,2015-2019,148.39,Fort Motos,Rio de Janeiro/RJ,5,4.6
+785062,Filtro de Ar Bosch Honda CB 650R,Filtro de Ar,Bosch,Honda,CB 650R,2022-2022,139.89,Oficina do Zé,São Paulo/SP,23,4.2
+298659,Pneu Kawasaki Suzuki GSX-S750,Pneu,Kawasaki,Suzuki,GSX-S750,2023-2023,80.12,Fort Motos,Rio de Janeiro/RJ,22,4.2
+258127,Pneu Motul Yamaha Fazer 250,Pneu,Motul,Yamaha,Fazer 250,2019-2019,100.87,Garagem 2Rodas,Campinas/SP,14,3.8
+715495,Coroa e Pinhão Bosch BMW F 800 GS,Coroa e Pinhão,Bosch,BMW,F 800 GS,2017-2021,107.27,Garagem 2Rodas,São Paulo/SP,5,4.5
+928164,Lâmpada Honda Kawasaki Versys 650,Lâmpada,Honda,Kawasaki,Versys 650,2016-2022,37.07,Fort Motos,Belo Horizonte/MG,0,4.3
+288597,Pastilha de Freio Scud Kawasaki Versys 650,Pastilha de Freio,Scud,Kawasaki,Versys 650,2013-2016,166.01,Oficina do Zé,São Paulo/SP,10,4.1
+621298,Coroa e Pinhão NGK Triumph Tiger 660,Coroa e Pinhão,NGK,Triumph,Tiger 660,2013-2013,142.55,Maringá Racing,Belo Horizonte/MG,18,3.8
+866627,Escape Honda Kawasaki Z400,Escape,Honda,Kawasaki,Z400,2014-2025,289.85,Fort Motos,Salvador/BA,24,4.5
+862117,Lâmpada Kawasaki BMW F 800 GS,Lâmpada,Kawasaki,BMW,F 800 GS,2012-2021,256.23,Fort Motos,Porto Alegre/RS,9,4.3
+972715,Filtro de Ar Scud Yamaha MT-07,Filtro de Ar,Scud,Yamaha,MT-07,2012-2018,241.55,RioBike,São Paulo/SP,6,3.5
+963999,Filtro de Ar Magnetron Yamaha MT-07,Filtro de Ar,Magnetron,Yamaha,MT-07,2019-2020,256.57,Oficina do Zé,Campinas/SP,24,4.5
+617674,Coroa e Pinhão Suzuki Honda CB 650R,Coroa e Pinhão,Suzuki,Honda,CB 650R,2009-2015,191.64,Curitiba Motos,Belo Horizonte/MG,7,3.6
+643049,Filtro de Ar Magnetron Kawasaki Versys 650,Filtro de Ar,Magnetron,Kawasaki,Versys 650,2013-2019,154.94,RioBike,Rio de Janeiro/RJ,12,4.5
+580416,Coroa e Pinhão Magnetron Kawasaki Z400,Coroa e Pinhão,Magnetron,Kawasaki,Z400,2021-2025,124.5,Garagem 2Rodas,Goiânia/GO,6,4.6
+261317,Amortecedor NGK Kawasaki Versys 650,Amortecedor,NGK,Kawasaki,Versys 650,2016-2022,140.02,Oficina do Zé,Salvador/BA,20,4.9
+220829,Pastilha de Freio Motul Yamaha Fazer 250,Pastilha de Freio,Motul,Yamaha,Fazer 250,2016-2025,256.27,MotoMix BH,São Paulo/SP,8,4.2
+812229,Escape Bosch Suzuki GSX-S750,Escape,Bosch,Suzuki,GSX-S750,2021-2025,109.98,Curitiba Motos,Porto Alegre/RS,13,3.7
+122815,Lâmpada Motul Kawasaki Versys 650,Lâmpada,Motul,Kawasaki,Versys 650,2010-2016,102.58,MotoMix BH,São Paulo/SP,10,4.0
+585783,Disco de Freio Bosch Yamaha Fazer 250,Disco de Freio,Bosch,Yamaha,Fazer 250,2008-2012,196.41,Curitiba Motos,Manaus/AM,13,4.3
+203111,Cabo de Acelerador Honda Yamaha MT-07,Cabo de Acelerador,Honda,Yamaha,MT-07,2021-2024,192.03,RioBike,São Paulo/SP,16,5.0
+454397,Pastilha de Freio Scud Honda CG 160,Pastilha de Freio,Scud,Honda,CG 160,2022-2025,73.68,MotoCenter SP,Fortaleza/CE,22,4.8
+267438,Cabo de Acelerador NGK Honda CG 160,Cabo de Acelerador,NGK,Honda,CG 160,2017-2021,322.25,Curitiba Motos,Rio de Janeiro/RJ,19,3.9
+902870,Pastilha de Freio Magnetron Kawasaki Versys 650,Pastilha de Freio,Magnetron,Kawasaki,Versys 650,2011-2018,141.02,Salvador Parts,Manaus/AM,16,3.8
+269058,Filtro de Ar Vedamotors Yamaha MT-07,Filtro de Ar,Vedamotors,Yamaha,MT-07,2021-2023,215.81,Salvador Parts,Porto Alegre/RS,20,4.1
+455310,Lâmpada NGK Suzuki GSX-S750,Lâmpada,NGK,Suzuki,GSX-S750,2015-2015,208.75,Curitiba Motos,Goiânia/GO,6,3.8
+893027,Pneu Bosch Kawasaki Versys 650,Pneu,Bosch,Kawasaki,Versys 650,2015-2025,131.34,MotoCenter SP,Belo Horizonte/MG,0,4.2
+126654,Amortecedor Vedamotors Honda XRE 300,Amortecedor,Vedamotors,Honda,XRE 300,2016-2025,303.01,Curitiba Motos,Salvador/BA,2,4.0
+980745,Cabo de Acelerador Vedamotors Honda CB 650R,Cabo de Acelerador,Vedamotors,Honda,CB 650R,2022-2023,199.02,Curitiba Motos,Goiânia/GO,21,4.6
+746655,Disco de Freio Suzuki Kawasaki Versys 650,Disco de Freio,Suzuki,Kawasaki,Versys 650,2012-2022,91.45,Oficina do Zé,Curitiba/PR,4,4.9
+847899,Coroa e Pinhão Vedamotors Suzuki GSX-S750,Coroa e Pinhão,Vedamotors,Suzuki,GSX-S750,2018-2018,293.61,RioBike,Belo Horizonte/MG,13,4.7
+130453,Coroa e Pinhão Motul Suzuki GSX-S750,Coroa e Pinhão,Motul,Suzuki,GSX-S750,2019-2025,130.67,MotoMix BH,Campinas/SP,8,3.5
+543790,Pastilha de Freio Scud Kawasaki Z400,Pastilha de Freio,Scud,Kawasaki,Z400,2019-2023,264.71,Maringá Racing,Belo Horizonte/MG,4,4.6
+663617,Lâmpada RK Kawasaki Ninja 400,Lâmpada,RK,Kawasaki,Ninja 400,2021-2025,126.89,Oficina do Zé,São Paulo/SP,13,3.7
+455276,Pastilha de Freio Scud Honda CB 650R,Pastilha de Freio,Scud,Honda,CB 650R,2010-2023,122.89,Curitiba Motos,Rio de Janeiro/RJ,8,4.6
+404344,Lâmpada NGK Kawasaki Z400,Lâmpada,NGK,Kawasaki,Z400,2014-2017,108.15,Salvador Parts,Salvador/BA,11,4.8
+822001,Filtro de Ar Honda Yamaha Fazer 250,Filtro de Ar,Honda,Yamaha,Fazer 250,2008-2018,102.0,Curitiba Motos,Porto Alegre/RS,12,4.4
+899204,Disco de Freio Vedamotors Yamaha Fazer 250,Disco de Freio,Vedamotors,Yamaha,Fazer 250,2009-2009,66.6,RioBike,Campinas/SP,19,3.8
+949901,Cabo de Acelerador Honda Honda XRE 300,Cabo de Acelerador,Honda,Honda,XRE 300,2023-2024,232.23,Oficina do Zé,Rio de Janeiro/RJ,10,4.0
+307632,Escape Vedamotors Yamaha MT-07,Escape,Vedamotors,Yamaha,MT-07,2022-2023,66.77,Fort Motos,Manaus/AM,23,4.3
+338126,Guidão Magnetron Honda CG 160,Guidão,Magnetron,Honda,CG 160,2019-2019,79.99,Oficina do Zé,Campinas/SP,5,4.1
+778748,Guidão Yamaha Honda XRE 300,Guidão,Yamaha,Honda,XRE 300,2019-2021,150.19,MotoMix BH,Salvador/BA,16,4.3
+447966,Amortecedor Kawasaki Suzuki GSX-S750,Amortecedor,Kawasaki,Suzuki,GSX-S750,2009-2009,267.53,MotoMix BH,São Paulo/SP,20,4.1
+818684,Pneu Motul Yamaha MT-07,Pneu,Motul,Yamaha,MT-07,2012-2022,178.52,Maringá Racing,Goiânia/GO,13,5.0
+794013,Lâmpada Magnetron Yamaha MT-07,Lâmpada,Magnetron,Yamaha,MT-07,2020-2020,346.47,MotoMix BH,Fortaleza/CE,12,3.8
+932251,Coroa e Pinhão Motul Honda XRE 300,Coroa e Pinhão,Motul,Honda,XRE 300,2019-2024,239.9,MotoCenter SP,Campinas/SP,14,4.4
+360534,Disco de Freio Honda Kawasaki Ninja 400,Disco de Freio,Honda,Kawasaki,Ninja 400,2011-2014,112.56,Garagem 2Rodas,Belo Horizonte/MG,43,4.1
+208780,Pneu Magnetron Honda XRE 300,Pneu,Magnetron,Honda,XRE 300,2015-2022,229.47,Curitiba Motos,Salvador/BA,3,4.5
+767424,Amortecedor NGK Yamaha MT-07,Amortecedor,NGK,Yamaha,MT-07,2017-2019,106.91,Garagem 2Rodas,Campinas/SP,21,3.7
+632084,Guidão Suzuki Honda CG 160,Guidão,Suzuki,Honda,CG 160,2014-2014,178.28,Oficina do Zé,Fortaleza/CE,7,4.3
+851873,Disco de Freio Motul Honda XRE 300,Disco de Freio,Motul,Honda,XRE 300,2015-2020,138.03,Curitiba Motos,Porto Alegre/RS,0,4.6
+193943,Escape Yamaha Triumph Tiger 660,Escape,Yamaha,Triumph,Tiger 660,2011-2018,61.95,Oficina do Zé,Manaus/AM,12,4.1
+835237,Pastilha de Freio RK Honda XRE 300,Pastilha de Freio,RK,Honda,XRE 300,2022-2025,158.1,Maringá Racing,Curitiba/PR,35,4.6
+366275,Cabo de Acelerador Motul Kawasaki Z400,Cabo de Acelerador,Motul,Kawasaki,Z400,2017-2019,139.8,MotoCenter SP,Campinas/SP,0,4.8
+520762,Guidão Scud Honda CB 650R,Guidão,Scud,Honda,CB 650R,2020-2025,196.41,Oficina do Zé,Fortaleza/CE,10,4.2
+601253,Pastilha de Freio Yamaha Yamaha MT-07,Pastilha de Freio,Yamaha,Yamaha,MT-07,2013-2019,177.01,RioBike,Rio de Janeiro/RJ,0,4.5
+105883,Pneu Kawasaki Suzuki GSX-S750,Pneu,Kawasaki,Suzuki,GSX-S750,2019-2022,134.66,MotoMix BH,Manaus/AM,27,4.1
+957189,Filtro de Ar NGK Triumph Tiger 660,Filtro de Ar,NGK,Triumph,Tiger 660,2008-2011,253.08,Fort Motos,Rio de Janeiro/RJ,2,4.3
+561245,Lâmpada Magnetron Triumph Tiger 660,Lâmpada,Magnetron,Triumph,Tiger 660,2011-2023,250.5,MotoCenter SP,Campinas/SP,18,4.5
+119504,Guidão Motul Honda CB 650R,Guidão,Motul,Honda,CB 650R,2012-2015,151.31,Garagem 2Rodas,Goiânia/GO,0,3.8
+589699,Filtro de Ar Yamaha Yamaha MT-07,Filtro de Ar,Yamaha,Yamaha,MT-07,2017-2022,287.94,MotoMix BH,Fortaleza/CE,30,4.9
+154124,Pneu RK Honda CB 650R,Pneu,RK,Honda,CB 650R,2017-2019,107.15,MotoMix BH,Porto Alegre/RS,21,4.7
+470098,Escape Scud Yamaha Fazer 250,Escape,Scud,Yamaha,Fazer 250,2020-2024,61.45,Maringá Racing,Manaus/AM,28,4.7
+162819,Escape Kawasaki Honda CB 650R,Escape,Kawasaki,Honda,CB 650R,2009-2015,211.13,MotoMix BH,Curitiba/PR,18,3.8
+433964,Amortecedor RK Kawasaki Ninja 400,Amortecedor,RK,Kawasaki,Ninja 400,2014-2016,234.16,Salvador Parts,Goiânia/GO,9,4.8
+468162,Pneu Suzuki BMW F 800 GS,Pneu,Suzuki,BMW,F 800 GS,2022-2022,197.75,Oficina do Zé,Goiânia/GO,19,3.9
+449971,Amortecedor Bosch Kawasaki Versys 650,Amortecedor,Bosch,Kawasaki,Versys 650,2023-2025,137.71,Garagem 2Rodas,Salvador/BA,10,4.6
+590692,Pneu Motul Kawasaki Z400,Pneu,Motul,Kawasaki,Z400,2023-2025,155.82,Curitiba Motos,Campinas/SP,23,3.8
+801133,Lâmpada RK Kawasaki Versys 650,Lâmpada,RK,Kawasaki,Versys 650,2019-2019,127.97,Fort Motos,Salvador/BA,23,4.2
+525355,Pastilha de Freio NGK Honda CB 650R,Pastilha de Freio,NGK,Honda,CB 650R,2012-2020,206.75,MotoMix BH,Curitiba/PR,19,4.3
+745599,Lâmpada Vedamotors Kawasaki Z400,Lâmpada,Vedamotors,Kawasaki,Z400,2014-2015,213.89,Salvador Parts,Belo Horizonte/MG,32,3.7
+145813,Coroa e Pinhão Honda Yamaha MT-07,Coroa e Pinhão,Honda,Yamaha,MT-07,2016-2018,154.95,Maringá Racing,Belo Horizonte/MG,12,4.0
+514707,Cabo de Acelerador Magnetron BMW F 800 GS,Cabo de Acelerador,Magnetron,BMW,F 800 GS,2022-2023,139.94,Curitiba Motos,Manaus/AM,13,3.8
+266479,Guidão Suzuki Yamaha Fazer 250,Guidão,Suzuki,Yamaha,Fazer 250,2018-2022,83.19,Fort Motos,Belo Horizonte/MG,17,4.9
+368235,Amortecedor Bosch BMW F 800 GS,Amortecedor,Bosch,BMW,F 800 GS,2019-2024,317.61,MotoCenter SP,Porto Alegre/RS,19,4.8
+793272,Cabo de Acelerador Honda Kawasaki Versys 650,Cabo de Acelerador,Honda,Kawasaki,Versys 650,2019-2023,212.81,Salvador Parts,Belo Horizonte/MG,6,4.0
+391136,Guidão Bosch Kawasaki Z400,Guidão,Bosch,Kawasaki,Z400,2008-2014,85.64,Oficina do Zé,Rio de Janeiro/RJ,2,5.0
+958513,Pastilha de Freio Bosch Honda XRE 300,Pastilha de Freio,Bosch,Honda,XRE 300,2009-2018,145.63,Maringá Racing,São Paulo/SP,27,4.4
+191030,Filtro de Ar Bosch Honda CB 650R,Filtro de Ar,Bosch,Honda,CB 650R,2009-2010,116.9,Salvador Parts,Goiânia/GO,10,4.3
+170262,Guidão Motul Kawasaki Versys 650,Guidão,Motul,Kawasaki,Versys 650,2017-2023,201.03,Curitiba Motos,Porto Alegre/RS,28,4.4
+690861,Pneu NGK Triumph Tiger 660,Pneu,NGK,Triumph,Tiger 660,2022-2025,153.55,Salvador Parts,Fortaleza/CE,8,3.4
+196425,Pastilha de Freio NGK Kawasaki Versys 650,Pastilha de Freio,NGK,Kawasaki,Versys 650,2015-2015,95.68,Garagem 2Rodas,São Paulo/SP,18,4.3
+815745,Pneu Suzuki Honda CG 160,Pneu,Suzuki,Honda,CG 160,2018-2019,84.97,Maringá Racing,Campinas/SP,1,3.5
+798466,Pastilha de Freio Kawasaki Suzuki GSX-S750,Pastilha de Freio,Kawasaki,Suzuki,GSX-S750,2020-2021,134.18,Curitiba Motos,Fortaleza/CE,25,4.1
+968090,Escape NGK Honda XRE 300,Escape,NGK,Honda,XRE 300,2008-2008,160.68,MotoMix BH,Campinas/SP,14,3.7
+757612,Pastilha de Freio Vedamotors BMW F 800 GS,Pastilha de Freio,Vedamotors,BMW,F 800 GS,2009-2021,291.3,Garagem 2Rodas,Fortaleza/CE,7,4.0
+137403,Filtro de Ar RK Honda CB 650R,Filtro de Ar,RK,Honda,CB 650R,2012-2018,100.7,Salvador Parts,Rio de Janeiro/RJ,0,4.1
+507589,Coroa e Pinhão Scud Yamaha MT-07,Coroa e Pinhão,Scud,Yamaha,MT-07,2018-2021,199.56,Salvador Parts,Goiânia/GO,24,4.5
+974853,Pastilha de Freio Magnetron Kawasaki Ninja 400,Pastilha de Freio,Magnetron,Kawasaki,Ninja 400,2017-2020,143.34,Oficina do Zé,Porto Alegre/RS,0,4.9
+932464,Cabo de Acelerador Motul Yamaha MT-07,Cabo de Acelerador,Motul,Yamaha,MT-07,2022-2025,237.93,MotoMix BH,Manaus/AM,15,4.4
+226315,Guidão NGK Honda CB 650R,Guidão,NGK,Honda,CB 650R,2023-2023,253.33,Maringá Racing,Fortaleza/CE,0,3.9
+774733,Amortecedor Motul Yamaha Fazer 250,Amortecedor,Motul,Yamaha,Fazer 250,2015-2021,229.99,RioBike,Goiânia/GO,0,4.4
+984596,Pneu Kawasaki Kawasaki Versys 650,Pneu,Kawasaki,Kawasaki,Versys 650,2012-2018,98.52,MotoCenter SP,Belo Horizonte/MG,16,4.2
+679929,Lâmpada Magnetron Kawasaki Z400,Lâmpada,Magnetron,Kawasaki,Z400,2021-2023,97.21,Garagem 2Rodas,São Paulo/SP,13,4.7
+551408,Cabo de Acelerador Vedamotors Triumph Tiger 660,Cabo de Acelerador,Vedamotors,Triumph,Tiger 660,2011-2022,151.01,MotoCenter SP,São Paulo/SP,35,4.1
+985561,Pastilha de Freio Scud Kawasaki Versys 650,Pastilha de Freio,Scud,Kawasaki,Versys 650,2022-2022,121.75,Curitiba Motos,Salvador/BA,18,4.1
+382256,Disco de Freio Kawasaki Yamaha Fazer 250,Disco de Freio,Kawasaki,Yamaha,Fazer 250,2023-2025,146.67,Fort Motos,Campinas/SP,21,4.7
+279932,Coroa e Pinhão Scud Kawasaki Ninja 400,Coroa e Pinhão,Scud,Kawasaki,Ninja 400,2014-2022,275.59,RioBike,Fortaleza/CE,0,4.9
+580121,Pneu Bosch BMW F 800 GS,Pneu,Bosch,BMW,F 800 GS,2013-2014,131.39,Garagem 2Rodas,São Paulo/SP,9,4.1
+208566,Amortecedor Yamaha Kawasaki Versys 650,Amortecedor,Yamaha,Kawasaki,Versys 650,2023-2025,318.87,Salvador Parts,São Paulo/SP,11,3.9
+349946,Cabo de Acelerador Honda Suzuki GSX-S750,Cabo de Acelerador,Honda,Suzuki,GSX-S750,2022-2022,150.64,RioBike,Rio de Janeiro/RJ,27,4.7
+129309,Filtro de Ar Yamaha Honda CB 650R,Filtro de Ar,Yamaha,Honda,CB 650R,2012-2013,129.18,MotoCenter SP,Goiânia/GO,2,4.2
+748955,Coroa e Pinhão Magnetron Honda CG 160,Coroa e Pinhão,Magnetron,Honda,CG 160,2023-2024,240.39,MotoMix BH,Campinas/SP,24,4.2
+301655,Filtro de Ar Vedamotors Yamaha MT-07,Filtro de Ar,Vedamotors,Yamaha,MT-07,2010-2015,96.16,Curitiba Motos,Salvador/BA,0,4.0
+491775,Amortecedor Honda Kawasaki Ninja 400,Amortecedor,Honda,Kawasaki,Ninja 400,2011-2020,199.53,Salvador Parts,Manaus/AM,14,3.8
+510583,Cabo de Acelerador RK Yamaha MT-07,Cabo de Acelerador,RK,Yamaha,MT-07,2010-2015,265.99,Garagem 2Rodas,São Paulo/SP,7,4.1
+194302,Filtro de Ar RK Suzuki GSX-S750,Filtro de Ar,RK,Suzuki,GSX-S750,2019-2022,60.13,Fort Motos,Salvador/BA,1,3.7
+713913,Filtro de Ar NGK Yamaha Fazer 250,Filtro de Ar,NGK,Yamaha,Fazer 250,2018-2024,124.58,Salvador Parts,São Paulo/SP,21,4.2
+707200,Pastilha de Freio Motul BMW F 800 GS,Pastilha de Freio,Motul,BMW,F 800 GS,2019-2023,232.77,Salvador Parts,Salvador/BA,26,4.4
+967637,Lâmpada Motul BMW F 800 GS,Lâmpada,Motul,BMW,F 800 GS,2009-2019,171.6,Salvador Parts,Salvador/BA,24,4.3
+369010,Pneu Magnetron Honda CG 160,Pneu,Magnetron,Honda,CG 160,2023-2024,221.11,Maringá Racing,Porto Alegre/RS,32,5.0
+478159,Guidão Bosch Yamaha MT-07,Guidão,Bosch,Yamaha,MT-07,2011-2024,157.23,Salvador Parts,Salvador/BA,0,3.9
+473457,Cabo de Acelerador Suzuki Honda CG 160,Cabo de Acelerador,Suzuki,Honda,CG 160,2022-2022,106.8,Oficina do Zé,Salvador/BA,8,3.9
+923195,Escape Honda Kawasaki Ninja 400,Escape,Honda,Kawasaki,Ninja 400,2012-2013,137.74,Fort Motos,Salvador/BA,18,4.6
+921908,Guidão Honda Kawasaki Z400,Guidão,Honda,Kawasaki,Z400,2010-2016,159.45,Salvador Parts,Belo Horizonte/MG,22,3.9
+634287,Lâmpada RK Honda XRE 300,Lâmpada,RK,Honda,XRE 300,2008-2024,72.66,MotoCenter SP,Campinas/SP,11,3.8
+240521,Escape Kawasaki Suzuki GSX-S750,Escape,Kawasaki,Suzuki,GSX-S750,2023-2025,148.74,Oficina do Zé,Belo Horizonte/MG,9,4.5
+283181,Filtro de Ar Vedamotors Honda CB 650R,Filtro de Ar,Vedamotors,Honda,CB 650R,2018-2019,148.98,RioBike,Curitiba/PR,31,4.1
+231613,Cabo de Acelerador Kawasaki Yamaha MT-07,Cabo de Acelerador,Kawasaki,Yamaha,MT-07,2011-2021,204.85,Maringá Racing,Rio de Janeiro/RJ,22,4.2
+572656,Pneu Honda BMW F 800 GS,Pneu,Honda,BMW,F 800 GS,2020-2022,214.06,Garagem 2Rodas,Fortaleza/CE,0,4.5
+685243,Coroa e Pinhão RK Honda CG 160,Coroa e Pinhão,RK,Honda,CG 160,2023-2023,155.67,RioBike,Belo Horizonte/MG,7,4.2
+332344,Pneu Vedamotors Kawasaki Z400,Pneu,Vedamotors,Kawasaki,Z400,2014-2022,135.6,Maringá Racing,Fortaleza/CE,10,4.8
+305721,Escape Yamaha Yamaha Fazer 250,Escape,Yamaha,Yamaha,Fazer 250,2011-2021,93.52,Oficina do Zé,Porto Alegre/RS,6,4.1
+773930,Filtro de Ar Scud Kawasaki Versys 650,Filtro de Ar,Scud,Kawasaki,Versys 650,2016-2020,116.58,Fort Motos,Curitiba/PR,22,4.5
+182042,Coroa e Pinhão NGK Honda CG 160,Coroa e Pinhão,NGK,Honda,CG 160,2016-2017,164.56,RioBike,Fortaleza/CE,8,4.0
+818658,Cabo de Acelerador Suzuki BMW F 800 GS,Cabo de Acelerador,Suzuki,BMW,F 800 GS,2022-2022,201.79,MotoCenter SP,Campinas/SP,17,4.6
+809047,Disco de Freio Suzuki BMW F 800 GS,Disco de Freio,Suzuki,BMW,F 800 GS,2009-2023,125.72,Maringá Racing,Fortaleza/CE,0,4.3
+692473,Pastilha de Freio Bosch Kawasaki Ninja 400,Pastilha de Freio,Bosch,Kawasaki,Ninja 400,2021-2022,260.85,MotoCenter SP,Curitiba/PR,13,4.4
+143690,Coroa e Pinhão Yamaha Triumph Tiger 660,Coroa e Pinhão,Yamaha,Triumph,Tiger 660,2020-2020,129.68,Curitiba Motos,Porto Alegre/RS,19,4.1
+965489,Disco de Freio Bosch Honda CB 650R,Disco de Freio,Bosch,Honda,CB 650R,2022-2022,105.33,Maringá Racing,São Paulo/SP,18,4.6
+955623,Amortecedor Motul Triumph Tiger 660,Amortecedor,Motul,Triumph,Tiger 660,2009-2018,140.12,Garagem 2Rodas,Manaus/AM,13,4.1
+553602,Coroa e Pinhão Scud Honda CG 160,Coroa e Pinhão,Scud,Honda,CG 160,2021-2025,174.03,Fort Motos,Porto Alegre/RS,2,4.7
+449993,Guidão Suzuki Kawasaki Ninja 400,Guidão,Suzuki,Kawasaki,Ninja 400,2015-2015,127.02,MotoMix BH,Campinas/SP,16,4.3
+820112,Cabo de Acelerador Scud Honda XRE 300,Cabo de Acelerador,Scud,Honda,XRE 300,2014-2015,143.78,Curitiba Motos,Curitiba/PR,28,3.8
