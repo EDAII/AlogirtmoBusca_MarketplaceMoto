@@ -4,112 +4,352 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Controle de Estoque de Peças</title>
+  <title>Motinha VRUUMM</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
 
 <body>
-  <div class="container">
-    <div class="form-section">
-      <h2>Busca Rápida por SKU (com Busca Binária)</h2>
-      <form action="/buscar_sku" method="post">
-        <div class="form-group">
-          <label for="sku_prefix">Digite o início do SKU (ex: HON-CG160):</label>
-          <input type="text" id="sku_prefix" name="sku_prefix" value="{{ sku_buscado or '' }}" required>
+  <header class="header">
+    <div class="header-container">
+      <div class="logo">
+        <div class="logo-icon">VR</div>
+        <div class="logo-text">
+          <h1>Motinha VRUUMM</h1>
+          <span>BUSCA E VENDA DE PEÇAS</span>
         </div>
-        <button type="submit" class="btn">Buscar por SKU</button>
-      </form>
+      </div>
+      
+      <div class="search-container">
+        <form action="/buscar_sku" method="post" class="search-form" id="searchForm">
+          <input type="text" name="sku_prefix" placeholder="Busque por ID (ex: HON-CG160)" 
+                 value="{{ sku_buscado or '' }}" class="search-input" id="searchInput" minlength="3" required>
+          <button type="submit" class="search-btn" id="searchBtn">
+            <i class="fas fa-search"></i>
+          </button>
+        </form>
+        <div class="search-hint">Digite pelo menos 3 caracteres para buscar uma peça</div>
+      </div>
+      
     </div>
+  </header>
 
-    <div class="form-section">
-      <h2>Filtros Avançados (Otimizado com Hashing)</h2>
-      <form action="/filtrar" method="post">
-        <div class="form-group inline"><label for="marca">Marca:</label><input type="text" id="marca" name="marca" value="{{ form_values.marca or '' }}"></div>
-        <div class="form-group inline"><label for="modelo">Modelo da Moto:</label><input type="text" id="modelo" name="modelo" value="{{ form_values.modelo or '' }}"></div>
-        <div class="form-group inline"><label for="categoria_peca">Categoria da Peça:</label><input type="text" id="categoria_peca" name="categoria_peca" value="{{ form_values.categoria_peca or '' }}"></div>
-        <div class="form-group inline"><label for="ano">Ano:</label><input type="number" id="ano" name="ano" value="{{ form_values.ano or '' }}" placeholder="Ex: 2023"></div>
-        <button type="submit" class="btn">Filtrar Peças</button>
-      </form>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-container">
+      <div class="hero-content">
+        <div class="hero-image">
+          <i class="fas fa-cog hero-icon"></i>
+        </div>
+        <div class="hero-text">
+          <h2>ENCONTRE</h2>
+          <h2 class="highlight">PEÇAS</h2>
+          <h2>COM FACILIDADE</h2>
+        </div>
+      </div>
     </div>
+  </section>
 
-    <div class="results-area">
+  <!-- Main Content -->
+  <main class="main-content">
+    <div class="container">
+      <!-- Filter Section -->
+      <section class="filter-section">
+        <h3>FILTRAR POR VEÍCULO:</h3>
+        <form action="/filtrar" method="post" class="filter-form" id="filterForm">
+          <div class="filter-group">
+            <select name="marca" class="filter-select" id="marcaSelect">
+              <option value="">Todas as Marcas</option>
+              {% for marca in marcas %}
+              <option value="{{ marca }}" {{ 'selected' if form_values.marca == marca else '' }}>{{ marca }}</option>
+              {% endfor %}
+            </select>
+            
+            <select name="modelo" class="filter-select" id="modeloSelect">
+              <option value="">Todos os Modelos</option>
+              {% for modelo in modelos %}
+              <option value="{{ modelo }}" {{ 'selected' if form_values.modelo == modelo else '' }}>{{ modelo }}</option>
+              {% endfor %}
+            </select>
+            
+            <select name="categoria_peca" class="filter-select" id="categoriaSelect">
+              <option value="">Todas as Categorias</option>
+              {% for categoria in categorias %}
+              <option value="{{ categoria }}" {{ 'selected' if form_values.categoria_peca == categoria else '' }}>{{ categoria }}</option>
+              {% endfor %}
+            </select>
+            
+            <select name="ano" class="filter-select" id="anoSelect">
+              <option value="">Todos os Anos</option>
+              {% for ano in anos %}
+              <option value="{{ ano }}" {{ 'selected' if form_values.ano == ano else '' }}>{{ ano }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <button type="submit" class="filter-btn" id="filterBtn">
+            <i class="fas fa-filter"></i> Filtrar
+          </button>
+          <button type="button" class="clear-btn" id="clearBtn">
+            <i class="fas fa-times"></i> Limpar
+          </button>
+        </form>
+      </section>
 
-      {% if pecas_por_sku is defined %}
-      <h3>Resultados para o SKU "{{ sku_buscado }}" ({{ pecas_por_sku|length }} peças encontradas)</h3>
-      {% if pecas_por_sku %}
-      <table>
-        <thead>
-          <tr>
-            <th>SKU</th>
-            <th>Peça</th>
-            <th>Categoria</th>
-            <th>Marca</th>
-            <th>Modelo</th>
-            <th>Ano</th>
-            <th>Preço</th>
-            <th>Estoque</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for peca in pecas_por_sku %}
-          <tr>
-            <td>{{ peca.SKU }}</td>
-            <td>{{ peca.Nome_Peca }}</td>
-            <td>{{ peca.Categoria_Peca }}</td>
-            <td>{{ peca.Marca }}</td>
-            <td>{{ peca.Modelo }}</td>
-            <td>{{ peca.Ano }}</td>
-            <td>R$ {{ "%.2f"|format(peca.Preco_Recomendado|float) }}</td>
-            <td>{{ peca.Estoque }}</td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-      {% else %}
-      <p>Nenhuma peça encontrada com este prefixo de SKU.</p>
-      {% endif %}
-      {% endif %}
+      <!-- Price Search Section -->
+      <section class="price-search-section">
+        <h3>BUSCAR POR PREÇO:</h3>
+        <form action="/buscar_preco" method="post" class="price-form" id="priceForm">
+          <div class="price-group">
+            <div class="price-input-group">
+              <label for="preco_min">Preço Mínimo:</label>
+              <input type="number" name="preco_min" id="preco_min" placeholder="Ex: 100" 
+                     value="{{ form_values.preco_min or '' }}" class="price-input" min="0" step="0.01">
+            </div>
+            
+            <div class="price-input-group">
+              <label for="preco_max">Preço Máximo:</label>
+              <input type="number" name="preco_max" id="preco_max" placeholder="Ex: 500" 
+                     value="{{ form_values.preco_max or '' }}" class="price-input" min="0" step="0.01">
+            </div>
+            
+            <button type="submit" class="price-btn" id="priceBtn">
+              <i class="fas fa-search"></i> Buscar por Preço
+            </button>
+          </div>
+        </form>
+      </section>
 
-      {% if pecas_filtradas is defined %}
-      <h3>Resultados dos Filtros ({{ pecas_filtradas|length }} peças encontradas)</h3>
-      {% if pecas_filtradas %}
-      <table>
-        <thead>
-          <tr>
-            <th>SKU</th>
-            <th>Peça</th>
-            <th>Categoria</th>
-            <th>Marca</th>
-            <th>Modelo</th>
-            <th>Ano</th>
-            <th>Preço</th>
-            <th>Fornecedor</th>
-            <th>Estoque</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for peca in pecas_filtradas %}
-          <tr>
-            <td>{{ peca.SKU }}</td>
-            <td>{{ peca.Nome_Peca }}</td>
-            <td>{{ peca.Categoria_Peca }}</td>
-            <td>{{ peca.Marca }}</td>
-            <td>{{ peca.Modelo }}</td>
-            <td>{{ peca.Ano }}</td>
-            <td>R$ {{ "%.2f"|format(peca.Preco_Recomendado|float) }}</td>
-            <td>{{ peca.Fornecedor }}</td>
-            <td>{{ peca.Estoque }}</td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-      {% else %}
-      <p>Nenhuma peça encontrada com os filtros aplicados.</p>
-      {% endif %}
-      {% endif %}
+      <!-- Results Area -->
+      <div class="results-area">
+        {% if pecas_por_sku is defined %}
+        <h3>Resultados para o ID "{{ sku_buscado }}" ({{ pecas_por_sku|length }} peças encontradas)</h3>
+        {% if pecas_por_sku %}
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>Peça</th>
+                <th>Categoria</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th class="hide-mobile">Ano</th>
+                <th>Preço</th>
+                <th class="hide-mobile">Estoque</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for peca in pecas_por_sku %}
+              <tr>
+                <td><strong>{{ peca.SKU }}</strong></td>
+                <td>{{ peca.Nome_Peca }}</td>
+                <td>{{ peca.Categoria_Peca }}</td>
+                <td>{{ peca.Marca }}</td>
+                <td>{{ peca.Modelo }}</td>
+                <td class="hide-mobile">{{ peca.Ano }}</td>
+                <td class="price">R$ {{ "%.2f"|format(peca.Preco_Recomendado|float) }}</td>
+                <td class="hide-mobile">{{ peca.Estoque }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        {% else %}
+        <div class="empty-state">
+          <i class="fas fa-search"></i>
+          <p>Nenhuma peça encontrada com este prefixo de ID.</p>
+        </div>
+        {% endif %}
+        {% endif %}
 
+        {% if pecas_filtradas is defined %}
+        <h3>Resultados dos Filtros ({{ pecas_filtradas|length }} peças encontradas)</h3>
+        {% if pecas_filtradas %}
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>Peça</th>
+                <th>Categoria</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th class="hide-mobile">Ano</th>
+                <th>Preço</th>
+                <th class="hide-mobile">Fornecedor</th>
+                <th class="hide-mobile">Estoque</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for peca in pecas_filtradas %}
+              <tr>
+                <td><strong>{{ peca.SKU }}</strong></td>
+                <td>{{ peca.Nome_Peca }}</td>
+                <td>{{ peca.Categoria_Peca }}</td>
+                <td>{{ peca.Marca }}</td>
+                <td>{{ peca.Modelo }}</td>
+                <td class="hide-mobile">{{ peca.Ano }}</td>
+                <td class="price">R$ {{ "%.2f"|format(peca.Preco_Recomendado|float) }}</td>
+                <td class="hide-mobile">{{ peca.Fornecedor }}</td>
+                <td class="hide-mobile">{{ peca.Estoque }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        {% else %}
+        <div class="empty-state">
+          <i class="fas fa-filter"></i>
+          <p>Nenhuma peça encontrada com os filtros aplicados.</p>
+        </div>
+        {% endif %}
+        {% endif %}
+
+        {% if pecas_por_preco is defined %}
+        <h3>Resultados por Preço ({{ pecas_por_preco|length }} peças encontradas)</h3>
+        {% if pecas_por_preco %}
+        <div class="price-info">
+          <p><strong>Faixa de preço:</strong> 
+            {% if form_values.preco_min %}R$ {{ "%.2f"|format(form_values.preco_min|float) }}{% else %}R$ 0,00{% endif %} 
+            até 
+            {% if form_values.preco_max %}R$ {{ "%.2f"|format(form_values.preco_max|float) }}{% else %}sem limite{% endif %}
+          </p>
+          {% if form_values.marca or form_values.modelo or form_values.categoria_peca or form_values.ano %}
+          <p><strong>Filtros aplicados:</strong>
+            {% if form_values.marca %}<span class="filter-tag">Marca: {{ form_values.marca }}</span>{% endif %}
+            {% if form_values.modelo %}<span class="filter-tag">Modelo: {{ form_values.modelo }}</span>{% endif %}
+            {% if form_values.categoria_peca %}<span class="filter-tag">Categoria: {{ form_values.categoria_peca }}</span>{% endif %}
+            {% if form_values.ano %}<span class="filter-tag">Ano: {{ form_values.ano }}</span>{% endif %}
+          </p>
+          {% endif %}
+        </div>
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>SKU</th>
+                <th>Peça</th>
+                <th>Categoria</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th class="hide-mobile">Ano</th>
+                <th>Preço</th>
+                <th class="hide-mobile">Fornecedor</th>
+                <th class="hide-mobile">Estoque</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for peca in pecas_por_preco %}
+              <tr>
+                <td><strong>{{ peca.SKU }}</strong></td>
+                <td>{{ peca.Nome_Peca }}</td>
+                <td>{{ peca.Categoria_Peca }}</td>
+                <td>{{ peca.Marca }}</td>
+                <td>{{ peca.Modelo }}</td>
+                <td class="hide-mobile">{{ peca.Ano }}</td>
+                <td class="price">R$ {{ "%.2f"|format(peca.Preco_Recomendado|float) }}</td>
+                <td class="hide-mobile">{{ peca.Fornecedor }}</td>
+                <td class="hide-mobile">{{ peca.Estoque }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        {% else %}
+        <div class="empty-state">
+          <i class="fas fa-dollar-sign"></i>
+          <p>Nenhuma peça encontrada na faixa de preço especificada.</p>
+        </div>
+        {% endif %}
+        {% endif %}
+      </div>
     </div>
-  </div>
+  </main>
+
+  <!-- JavaScript -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Validação da busca
+      const searchForm = document.getElementById('searchForm');
+      const searchInput = document.getElementById('searchInput');
+      
+      searchForm.addEventListener('submit', function(e) {
+        const value = searchInput.value.trim();
+        if (value.length < 3) {
+          e.preventDefault();
+          searchInput.focus();
+          alert('Digite pelo menos 3 caracteres para buscar uma peça');
+        }
+      });
+      
+      // Limpar filtros
+      const clearBtn = document.getElementById('clearBtn');
+      const filterForm = document.getElementById('filterForm');
+      
+      clearBtn.addEventListener('click', function() {
+        const selects = filterForm.querySelectorAll('select');
+        selects.forEach(select => {
+          select.selectedIndex = 0;
+        });
+        filterForm.submit();
+      });
+      
+      // Validação da busca por preço
+      const priceForm = document.getElementById('priceForm');
+      const precoMin = document.getElementById('preco_min');
+      const precoMax = document.getElementById('preco_max');
+      
+      priceForm.addEventListener('submit', function(e) {
+        const min = precoMin.value.trim();
+        const max = precoMax.value.trim();
+        
+        if (!min && !max) {
+          e.preventDefault();
+          alert('Informe pelo menos um preço (mínimo ou máximo)');
+          return;
+        }
+        
+        if (min && max && parseFloat(min) > parseFloat(max)) {
+          e.preventDefault();
+          alert('O preço mínimo não pode ser maior que o preço máximo');
+          precoMin.focus();
+          return;
+        }
+      });
+    });
+  </script>
+  
+  <style>
+    .search-hint {
+      font-size: 0.8rem;
+      color: #6b7280;
+      margin-top: 0.5rem;
+      text-align: center;
+    }
+    
+    .clear-btn {
+      background: #6b7280;
+      color: white;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      border-radius: 5px;
+      font-size: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s;
+      margin-left: 1rem;
+    }
+    
+    .clear-btn:hover {
+      background: #4b5563;
+    }
+    
+    .filter-btn i,
+    .clear-btn i {
+      margin-right: 0.5rem;
+    }
+  </style>
 </body>
 
 </html>
