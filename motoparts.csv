@@ -1,4 +1,4 @@
-sku,nome,categoria,marca,fabricante,modelo,compatibilidade_anos,preco,vendedor,cidade_uf,estoque,rating
+﻿sku,nome,categoria,marca,fabricante,modelo,compatibilidade_anos,preco,vendedor,cidade_uf,estoque,rating
 855428,Lâmpada Vedamotors BMW F 800 GS,Lâmpada,Vedamotors,BMW,F 800 GS,2017-2020,388.28,Maringá Racing,Belo Horizonte/MG,16,4.2
 537061,Amortecedor Bosch Honda CB 650R,Amortecedor,Bosch,Honda,CB 650R,2014-2019,236.3,Curitiba Motos,Salvador/BA,31,4.7
 124560,Pneu Vedamotors Suzuki GSX-S750,Pneu,Vedamotors,Suzuki,GSX-S750,2014-2022,58.91,Fort Motos,Belo Horizonte/MG,12,3.3
