@@ -1,0 +1,103 @@
+/* static/css/style.css */
+
+body { 
+    font-family: sans-serif; 
+    margin: 2em; 
+    background-color: #f4f4f9; 
+    color: #333;
+}
+
+.container { 
+    max-width: 1200px; 
+    margin: auto; 
+    padding: 2em; 
+    background-color: white; 
+    border: 1px solid #ccc; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+}
+
+.form-section { 
+    margin-bottom: 2em; 
+}
+
+.form-group { 
+    margin-bottom: 1em; 
+}
+
+.form-group.inline { 
+    display: inline-block; 
+    width: 24%; 
+    vertical-align: top; 
+}
+
+label { 
+    display: block; 
+    margin-bottom: 0.5em; 
+    font-weight: bold; 
+}
+
+input[type="text"], 
+input[type="number"] { 
+    width: 95%; 
+    padding: 0.8em; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] {
+  -moz-appearance: textfield; /* Para Firefox */
+}
+
+.btn { 
+    padding: 0.8em 1.5em; 
+    background-color: #007bff; 
+    color: white; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    font-size: 1em;
+}
+
+.results-area { 
+    margin-top: 2em;
+    padding-top: 2em;
+    border-top: 2px solid #eee;
+}
+
+.error { 
+    color: #d9534f; 
+}
+
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 1em; 
+}
+
+th, td { 
+    border: 1px solid #ddd; 
+    padding: 0.8em; 
+    text-align: left; 
+}
+
+th { 
+    background-color: #f2f2f2; 
+}
+
+tr:nth-child(even) { 
+    background-color: #f9f9f9; 
+}
+
+/* --- NOVO CÓDIGO AJUSTADO AQUI --- */
+/* Remove a borda padrão do navegador ao clicar nos campos de input */
+input[type="text"]:focus,
+input[type="number"]:focus {
+    outline: none; /* Remove completamente o contorno padrão do navegador */
+}

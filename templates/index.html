@@ -5,169 +5,100 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Controle de Estoque de Peças</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 2em;
-      background-color: #f4f4f9;
-      color: #333;
-    }
-
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 2em;
-      background-color: white;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
-
-    .form-section {
-      padding: 1.5em;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      margin-bottom: 2em;
-    }
-
-    .form-group {
-      margin-bottom: 1em;
-    }
-
-    .form-group.inline {
-      display: inline-block;
-      width: 32%;
-    }
-
-    label {
-      display: block;
-      margin-bottom: 0.5em;
-      font-weight: bold;
-    }
-
-    input[type="text"],
-    input[type="number"] {
-      width: 95%;
-      padding: 0.8em;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-    }
-
-    .btn {
-      padding: 0.8em 1.5em;
-      background-color: #007bff;
-      color: white;
-      border: none;
-      cursor: pointer;
-      border-radius: 5px;
-      font-size: 1em;
-    }
-
-    .result {
-      margin-top: 1em;
-      padding: 1em;
-    }
-
-    .error {
-      color: #d9534f;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 2em;
-    }
-
-    th,
-    td {
-      border: 1px solid #ddd;
-      padding: 0.8em;
-      text-align: left;
-    }
-
-    th {
-      background-color: #f2f2f2;
-    }
-
-    tr:nth-child(even) {
-      background-color: #f9f9f9;
-    }
-  </style>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 
 <body>
   <div class="container">
     <div class="form-section">
-      <h2>Busca Rápida por SKU</h2>
+      <h2>Busca Rápida por SKU (com Busca Binária)</h2>
       <form action="/buscar_sku" method="post">
         <div class="form-group">
-          <label for="sku">Digite o SKU:</label>
-          <input type="text" id="sku" name="sku" value="{{ sku_buscado or '' }}" required>
+          <label for="sku_prefix">Digite o início do SKU (ex: HON-CG160):</label>
+          <input type="text" id="sku_prefix" name="sku_prefix" value="{{ sku_buscado or '' }}" required>
         </div>
-        <button type="submit" class="btn">Buscar SKU</button>
+        <button type="submit" class="btn">Buscar por SKU</button>
       </form>
-      {% if peca_sku %}
-      <div class="result">
-        <h3>Peça Encontrada:</h3>
-        <ul>
-          {% for key, value in peca_sku.items() %}
-          <li><strong>{{ key }}:</strong> {{ value }}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      {% endif %}
-      {% if erro_sku %}
-      <p class="error result">{{ erro_sku }}</p>
-      {% endif %}
     </div>
 
     <div class="form-section">
-      <h2>Filtros Avançados</h2>
+      <h2>Filtros Avançados (Otimizado com Hashing)</h2>
       <form action="/filtrar" method="post">
-        <div class="form-group inline">
-          <label for="marca">Marca:</label>
-          <input type="text" id="marca" name="marca" value="{{ form_values.marca or '' }}">
-        </div>
-        <div class="form-group inline">
-          <label for="modelo">Modelo da Moto:</label>
-          <input type="text" id="modelo" name="modelo" value="{{ form_values.modelo or '' }}">
-        </div>
-        <div class="form-group inline">
-          <label for="ano">Ano:</label>
-          <input type="number" id="ano" name="ano" value="{{ form_values.ano or '' }}">
-        </div>
+        <div class="form-group inline"><label for="marca">Marca:</label><input type="text" id="marca" name="marca" value="{{ form_values.marca or '' }}"></div>
+        <div class="form-group inline"><label for="modelo">Modelo da Moto:</label><input type="text" id="modelo" name="modelo" value="{{ form_values.modelo or '' }}"></div>
+        <div class="form-group inline"><label for="categoria_peca">Categoria da Peça:</label><input type="text" id="categoria_peca" name="categoria_peca" value="{{ form_values.categoria_peca or '' }}"></div>
+        <div class="form-group inline"><label for="ano">Ano:</label><input type="number" id="ano" name="ano" value="{{ form_values.ano or '' }}" placeholder="Ex: 2023"></div>
         <button type="submit" class="btn">Filtrar Peças</button>
       </form>
     </div>
 
-    {% if pecas_filtradas is defined %}
-    <div class="result">
-      <h3>Resultados da Busca ({{ pecas_filtradas|length }} peças encontradas)</h3>
+    <div class="results-area">
+
+      {% if pecas_por_sku is defined %}
+      <h3>Resultados para o SKU "{{ sku_buscado }}" ({{ pecas_por_sku|length }} peças encontradas)</h3>
+      {% if pecas_por_sku %}
+      <table>
+        <thead>
+          <tr>
+            <th>SKU</th>
+            <th>Peça</th>
+            <th>Categoria</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Ano</th>
+            <th>Preço</th>
+            <th>Estoque</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for peca in pecas_por_sku %}
+          <tr>
+            <td>{{ peca.SKU }}</td>
+            <td>{{ peca.Nome_Peca }}</td>
+            <td>{{ peca.Categoria_Peca }}</td>
+            <td>{{ peca.Marca }}</td>
+            <td>{{ peca.Modelo }}</td>
+            <td>{{ peca.Ano }}</td>
+            <td>R$ {{ "%.2f"|format(peca.Preco_Recomendado|float) }}</td>
+            <td>{{ peca.Estoque }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% else %}
+      <p>Nenhuma peça encontrada com este prefixo de SKU.</p>
+      {% endif %}
+      {% endif %}
+
+      {% if pecas_filtradas is defined %}
+      <h3>Resultados dos Filtros ({{ pecas_filtradas|length }} peças encontradas)</h3>
       {% if pecas_filtradas %}
       <table>
         <thead>
           <tr>
             <th>SKU</th>
-            <th>Nome</th>
+            <th>Peça</th>
+            <th>Categoria</th>
             <th>Marca</th>
             <th>Modelo</th>
-            <th>Compatibilidade</th>
+            <th>Ano</th>
             <th>Preço</th>
-            <th>Vendedor</th>
+            <th>Fornecedor</th>
             <th>Estoque</th>
           </tr>
         </thead>
         <tbody>
           {% for peca in pecas_filtradas %}
           <tr>
-            <td>{{ peca.sku }}</td>
-            <td>{{ peca.nome }}</td>
-            <td>{{ peca.marca }}</td>
-            <td>{{ peca.modelo }}</td>
-            <td>{{ peca.compatibilidade_anos }}</td>
-            <td>R$ {{ "%.2f"|format(peca.preco|float) }}</td>
-            <td>{{ peca.vendedor }}</td>
-            <td>{{ peca.estoque }}</td>
+            <td>{{ peca.SKU }}</td>
+            <td>{{ peca.Nome_Peca }}</td>
+            <td>{{ peca.Categoria_Peca }}</td>
+            <td>{{ peca.Marca }}</td>
+            <td>{{ peca.Modelo }}</td>
+            <td>{{ peca.Ano }}</td>
+            <td>R$ {{ "%.2f"|format(peca.Preco_Recomendado|float) }}</td>
+            <td>{{ peca.Fornecedor }}</td>
+            <td>{{ peca.Estoque }}</td>
           </tr>
           {% endfor %}
         </tbody>
@@ -175,8 +106,9 @@
       {% else %}
       <p>Nenhuma peça encontrada com os filtros aplicados.</p>
       {% endif %}
+      {% endif %}
+
     </div>
-    {% endif %}
   </div>
 </body>
 
