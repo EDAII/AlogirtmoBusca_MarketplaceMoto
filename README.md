@@ -7,6 +7,10 @@ Este projeto é uma aplicação web desenvolvida como parte da disciplina de Est
 - **Caio Mesquita** - Matrícula: 222024283
 - **Manoel Teixeira** - Matrícula: 211041240
 
+## Vídeo da Apresentação
+
+[Clique Aqui](https://youtu.be/ecDIGzC7I8o) para assistir o vídeo
+
 ## Sobre o Projeto
 
 O "Motinha VRUUMM" é uma plataforma robusta que simula um e-commerce de peças para motocicletas. A aplicação foi construída utilizando Flask, um micro-framework em Python, e emprega a biblioteca Pandas para manipulação de dados. O objetivo principal do projeto é demonstrar a aplicação prática de diferentes algoritmos de busca em um cenário real, visando a eficiência e a rapidez na recuperação de informações de um grande catálogo de produtos.
